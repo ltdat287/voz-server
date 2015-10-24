@@ -1,0 +1,32 @@
+//Shop11 [Lora] Alex 63X130
+//
+6   0 1  30 0 1 1 // Round Shield
+6   1 1  30 0 1 1 // Horn Shield
+6   2 1  33 0 1 1 // Kite Shield
+6   5 1  45 1 1 1 // Dragon Slayer Shield
+//
+6   6 1  35 1 1 1 // Skull Shield
+6   7 1  41 1 1 1 // Spiked Shield
+6   8 1  47 1 1 1 // Tower Shield
+6   9 1  39 1 1 1 // Plate Shield
+//
+6  10 1  36 1 1 1 // Large Round Shield
+6  11 1  49 1 1 1 // Serpent Shield
+6  12 1  53 1 1 1 // Bronze Shield
+6  13 1  61 1 1 1 // Dragon Shield
+//
+6  15 1  56 0 1 1 // Grand Soul Shield
+6  17 1  71 1 1 1 // Round Shield
+13  9 1  51 0 0 1 // Ring of Poison
+13  8 1  51 0 0 1 // Ring of Ice
+13 21 1  51 0 0 1 // Ring of Fire
+13 24 1  51 0 0 1 // Ring of Magic
+13 13 1  51 0 0 1 // Pendant of Fire
+13 12 1  51 0 0 1 // Pendant of Lightning
+13 25 1  51 0 0 1 // Pendant of Ice
+13  0 0 255 0 0 0 // Guardian Angel
+//
+14 10 0   0 0 0 0 // Town Scroll
+14  9 0   0 0 0 0 // Alcohol
+13 29 0   0 0 0 0 // Armor of Guardman
+end

@@ -1,0 +1,24 @@
+// Illusion Temple Settings
+// OpenTime PlayTime EndTime
+0
+5	15	5
+end
+// Item Reward
+// Index Number Level
+1
+12	15	0
+end
+
+// Start Time
+// Hour	Minute
+2
+21     30
+end
+// Exp Rewards
+3
+300000	50000	600	1200	10
+340000	60000	1200	2400	20
+380000	70000	1800	3600	30
+420000	80000	2400	4800	40
+460000	90000	3000	6000	50
+end

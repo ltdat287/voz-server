@@ -1,0 +1,16 @@
+[ MuOnline ] connection successful !
+[ DataServer ] created on port [ 55962 ]
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ Name Server ][ 127.0.0.1:55901 ] GameServer Connect 
+Connection Closed, dwIoSize == 0 (Index:2)
+[ Name Server ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ Ex-Games ][ 127.0.0.1:55901 ] GameServer Connect 
+Connection Closed, dwIoSize == 0 (Index:2)
+[ Ex-Games ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ Name Server ][ 127.0.0.1:55901 ] GameServer Connect 
+Connection Closed, dwIoSize == 0 (Index:2)
+[ Name Server ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ Name Server ][ 127.0.0.1:55901 ] GameServer Connect 

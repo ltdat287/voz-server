@@ -1,0 +1,8 @@
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+[ MuOnline ] connection successful !
+[ CashShopServer ] created on port [ 55821 ]
+22:08:25 [BUY ANSWER] [DatGa] Start transaction POINTS: 4860
+22:08:25 [BUY ANSWER] [DatGa] User Buy Request ITEM:(13 44),TIME: 60,DUR: 0 PRICE: 15
+22:08:25 [Buy Answer] Buy success [DatGa][4845] points
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close

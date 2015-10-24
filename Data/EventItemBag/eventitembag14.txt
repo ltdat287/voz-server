@@ -1,0 +1,6 @@
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Friendship Event Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭
+//[Index] [Number][Level] [Skill] [Luck] [Option]
+12 15 0 0 0 0  // chaos					
+

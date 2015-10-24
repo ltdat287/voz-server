@@ -1,0 +1,93 @@
+//-----------------------------
+// Repack Season 3 Episodio 1 Full by Slipkorn13
+// Aporte Exclusivo para IG Network
+// Box of Kundum +4
+//-----------------------------
+
+//Black Dragon  Set
+	7	16	0	0	1	2	//Helm
+	8	16	0	0	1	2	//Armor
+	9	16	0	0	1	2	//Pants
+	10	16	0	0	1	2	//Gloves
+	11	16	0	0	1	2	//Boots
+
+//Storm Crow set
+	8	15	0	0	1	2	//Armor
+	9	15	0	0	1	2	//Pants
+	10	15	0	0	1	2	//Gloves
+	11	15	0	0	1	2	//Boots
+
+	7	35	0	0	1	2  // Eclipse Helm 
+	8	35	0	0	1	2  // Eclipse Armor 
+	9	35	0	0	1	2  // Eclipse Pants
+	10	35	0	0	1	2  // Eclipse Gloves 
+	11	35	0	0	1	2  // Eclipse Bots 
+	
+	7	36	0	0	1	2  // Iris Helm 
+	8	36	0	0	1	2  // Iris Armor 
+	9	36	0	0	1	2  // Iris Pants 
+	10	36	0	0	1	2  // Iris Gloves 
+	11	36	0	0	1	2  // Iris Bots
+
+	7	34	0	0	1	2  // Ashcrow Helm 
+	8	34	0	0	1	2 // Ashcrow Armor
+	9	34	0	0	1	2  // Ashcrow Pants
+	10	34	0	0	1	2  // Ashcrow Gloves
+	11	34	0	0	1	2	// Ashcrow Bots	
+
+//	Valiant Set
+	8	37	0	0	1	2	//Armor
+	9	37	0	0	1	2	//Pants
+	10	37	0	0	1	2	//Gloves
+	11	37	0	0	1	2	//Boots
+	
+//	Glorious Set
+	7	38	0	0	1	2	//Helm
+	8	38	0	0	1	2	//Armor
+	9	38	0	0	1	2	//Pants
+	10	38	0	0	1	2	//Gloves
+	11	38	0	0	1	2	//Boots
+	
+//   Adamantin Set
+	7	26	0	0	1	2	//Helm
+	8	26	0	0	1	2	//Armor
+	9	26	0	0	1	2	//Pants
+	10	26	0	0	1	2	//Gloves
+	11	26	0	0	1	2	//Boots
+
+//Sword	
+	0	15	0	0	1	2	//Giant Sword
+	0	16	0	0	1	2	//Sword of Destruction
+
+	2	5	0	0	1	2	//Crystal Sword
+	2	6	0	0	1	2	//Chaos Dragon Axe
+	3	8	0	0	1	2	//Great Scythe
+	3	9	0	0	1	2	//Bill of Balrog
+	
+//Blunt weapons
+	2	9	0	0	1	2	//Master Scepter
+	2	10	0	0	1	2	//Great Scepter
+
+
+//Bows & Crossbows
+	4	5	0	0	1	2	//Silver Bow
+	4	6	0	0	1	2	//Chaos Nature Bow
+	4	14	0	0	1	2	//Aquagold Crossbow
+
+
+//Staffs
+	5	7	0	0	1	2	//Chaos Lightning Staff
+	5	8	0	0	1	2	//Staff of Destruction
+
+//Shields
+	6	5	0	0	1	2	//Dragon Slayer Shield
+	6	11	0	0	1	2	//Serpent Shield
+	6	12	0	0	1	2	//Bronze Shield
+	6	13	0	0	1	2	//Dragon Shield
+//Rings+Pendant
+	13	26	0	0	1	2	//Pendant of Wind
+	13	27	0	0	1	2	//Pendant of Water
+	13	28	0	0	1	2	//Pendant of Ability
+	13	12	0	0	1	2	//Pendant of Lightning
+	13	13	0	0	1	2	//Pendant of Fire
+end

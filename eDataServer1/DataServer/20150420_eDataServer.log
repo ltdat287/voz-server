@@ -1,0 +1,114 @@
+EXEC WZ_CW_InfoSave 0, 3, 2
+EXEC WZ_CW_InfoSave 0, 5, 1
+EXEC WZ_CW_InfoSave 0, 5, 1
+EXEC WZ_CW_InfoSave 0, 6, 1
+EXEC WZ_CW_InfoSave 0, 1, 1
+EXEC WZ_CW_InfoSave 0, 2, 2
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+SELECT Summoner FROM AccountCharacter WHERE Id = 'datga'
+SELECT * FROM AccountCharacter WHERE Id = 'datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+SELECT G_Status FROM GuildMember WHERE Name='test1'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'datga'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetI

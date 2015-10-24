@@ -1,0 +1,34 @@
+// ----------------------------	//
+//	Hanzo The Blacksmith	//
+//------------------------------//
+
+//--------------------------------------------------------------------------------------//
+//	Type	Index	Level	Dur	Skill	Luck	Opt				//
+//--------------------------------------------------------------------------------------//
+	6 	0 	0 	0 	0 	1 	1 	//Small Shield +0
+	6	4	1	0	0	1	1 	//Buckler +1
+	6	1	2	0	0	1	1	//Horn Shield +2
+	6	2	3	0	0	1	1 	//Kite Shield +3
+	6	6	3	0	1	1	1 	//Skull Shield +3
+	6 	10 	3	0	1 	1 	1 	//Large Round Shield +3
+	6 	9 	3 	0 	1 	1 	1	//Plate Shield +3
+	6 	7 	3 	0 	1 	1 	1 	//Spiked Shield +3
+	6 	5 	3	0 	1 	1 	1	//Dragon Slayer Shield +3
+	6 	8 	3 	0 	1 	1 	1 	//Tower Shield +3
+	6 	11 	3	0	1 	1 	1	//Serpent Shield +3
+	6	12	3	0	1	1	1 	//Bronze Shield +3
+	1	1	1	0	0	1	1 	//Hand Axe +1
+	0	0	2	0	0	1	1 	//kris +0
+	2 	0 	2 	0 	0 	1 	1 	//Mace +2
+	0 	2 	2 	0 	0 	1 	1 	//Rapier +2
+	1	2	2	0	1	1	1	//Double Axe +2
+	0	4	3	0	1	1	1	//Sword of Assassin +3
+	2	1	3	0	1	1	1	//Morning Star +3
+	1	3	3	0	1	1	1	//Tomahawk +3
+	0	6	3	0	1	1	1	//Gladius +3
+	0	7	3	0	1	1	1	//Falchion +3
+	0	8	3	0	1	1	1	//Serpent Sword +3
+	0	5	3	0	1	1	1	//Blade +3
+	12 13 0 255 0 0 0 //Orb of Impaling (BK)
+
+end

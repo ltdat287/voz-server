@@ -1,0 +1,46 @@
+// ----------------------------	//
+//	      Elf Lala		//
+//------------------------------//
+
+//--------------------------------------------------------------------------------------//
+//	Type	Index	Level	Dur	Skill	Luck	Opt				//
+//--------------------------------------------------------------------------------------//
+	14 	0 	0 	0	0 	0 	0 	// Apple +0
+	14 	1 	0 	0	0 	0 	0 	// Small Healing Potion +0
+	14 	2 	0 	0	0 	0 	0 	// Medium Healing Potion +1
+	14 	3 	0 	0	0 	0 	0 	// Large Healing Potion +2
+	14 	4 	0 	0 	0 	0 	0 	// Small Mana Potion +0
+	14 	5 	0 	0	0 	0 	0 	// Medium Mana Potion +1
+	14 	6 	0 	0	0 	0 	0 	// Large Mana Potion +2
+	14 	0 	0 	3	0 	0 	0 	// Apple +0
+	14 	1 	0 	3	0 	0 	0 	// Small Healing Potion +0
+	14 	2 	0 	3	0 	0 	0 	// Medium Healing Potion +1
+	14 	3 	0 	3	0 	0 	0 	// Large Healing Potion +2
+	14 	4 	0 	3 	0 	0 	0 	// Small Mana Potion +0
+	14 	5 	0 	3	0 	0 	0 	// Medium Mana Potion +1
+	14 	6 	0 	3	0 	0 	0 	// Large Mana Potion +2	
+	12	8	0	0	0	0	0	// Heal
+	12	9	0	0	0	0	0	// Def
+	12	10	0	0	0	0	0	// Dmg
+	12	11	0	0	0	0	0	// Summon Devil
+	7	10	3	0	0	1	1 	// Vine Helm +3
+	8	10	3	0	0	1	1 	// Vine Armor +3
+	9	10	3	0	0	1	1 	// Vine Pants +3
+	10	10	3	0	0	1	1 	// Vine Gloves +3
+	11	10	3	0	0	1	1 	// Vine Boots +3
+	7	11	3	0	0	1	1 	// Silk Helm +3
+	8	11	3	0	0	1	1 	// Silk Armor +3
+	9	11	3	0	0	1	1 	// Silk Pants +3
+	10	11	3	0	0	1	1 	// Silk Gloves +3
+	11	11	3	0	0	1	1 	// Silk Boots +3
+	14 	9 	0 	0	0 	0 	0 	// Alcohol
+	14 	10 	0 	0	0 	0 	0 	// Town Portal Scroll
+	13 	29 	0 	0	0 	0 	0 	// Armor of Guardman
+	4 	15 	0	255 	0 	0 	0 	// Arrows +0
+	4 	15 	1	255 	0 	0 	0 	// Arrows +1
+	4 	15 	2	255 	0 	0 	0 	// Arrows +2
+	4 	7 	0	255 	0 	0 	0 	// Bolts +0
+	4 	7 	1	255 	0 	0 	0 	// Bolts +1
+	4 	7 	2	255 	0 	0 	0 	// Bolts +2
+	
+end

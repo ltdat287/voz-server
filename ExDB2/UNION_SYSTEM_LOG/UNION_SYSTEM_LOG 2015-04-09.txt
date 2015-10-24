@@ -1,0 +1,3 @@
+22:50:36  ★ [TEST][test1] Union = 0 Rival = 0
+22:50:36  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+22:50:36  Rival 정보 재구성 성공 : TEST, 118

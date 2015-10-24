@@ -1,0 +1,60 @@
+Beginning Log Search: SearchType=Regular, SearchString=error
+(04052015.log) error-L3 : Monster Level Overflow~ E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\MonsterItemMng.cpp 126
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 2139 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 2161 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 2192 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 4783 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 4788 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 5397 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7311 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7312 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7313 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7314 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7315 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7316 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7317 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7318 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7319 class : 0
+(04052015.log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(04052015.log) error-L2 : 7320 class : 0
+(2015-05-04[VOZ].log) error-L3 : Monster Level Overflow~ E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\MonsterItemMng.cpp 126
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 1290 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 2161 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 2192 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 4783 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 5397 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7311 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7312 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7313 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7314 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7315 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7316 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+(2015-05-04[VOZ].log) error-L2 : 7317 class : 0
+(2015-05-04[VOZ].log) error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187

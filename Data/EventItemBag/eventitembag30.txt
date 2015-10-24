@@ -1,0 +1,78 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Dark Elf Drop Settings                                                       ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Dark Elf"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+									
+	14	103	0	0	0	0	0	0	//"Jewel of Wings"								
+	0	17	3	5	1	1	1	1	//"Spirit Sword"									
+	0	18	3	5	1	1	1	1	//"Thunder Blade"									
+	2	12	3	5	1	1	1	1	//"Great Lord Scepter"									
+	4	19	3	5	1	1	1	1	//"Great Reign Crossbow"									
+	5	9	3	5	1	1	1	1	//"Dragon Soul Staff"									
+	6	13	3	5	1	1	1	1	//"Chaos Dragon Shield"									
+	6	16	3	5	1	1	1	1	//"Elemental Shield"									
+//엑설런트 무기류																		
+	5	6	0	0	1	1	1	1	//"Staff of Resurrection"									
+	2	4	0	0	1	1	1	1	//"Crystal Morning Star"									
+	2	9	0	0	1	1	1	1	//"Master Scepter"									
+	4	14	0	0	1	1	1	1	//"Aquagold Crossbow"									
+	2	5	0	0	1	1	1	1	//"Crystal Sword"									
+//엑설런트 방어구류									
+	7	1	0	0	0	1	1	1	//"Dragon Helm"										
+	7	3	0	0	0	1	1	1	//"Legendary Helm"										
+	7	14	0	0	0	1	1	1	//"Guardian Helm"
+
+	8	1	0	0	0	1	1	1	//"Dragon Armor"
+	8	3	0	0	0	1	1	1	//"Legendary Armor"
+	8	14	0	0	0	1	1	1	//"Guardian Armor"
+
+	9	1	0	0	0	1	1	1	//"Dragon Pants"
+	9	3	0	0	0	1	1	1	//"Legendary Pants"
+	9	14	0	0	0	1	1	1	//"Guardian Pants"
+
+	10	1	0	0	0	1	1	1	//"Dragon Gloves"
+	10	3	0	0	0	1	1	1	//"Legendary Gloves"
+	10	14	0	0	0	1	1	1	//"Guardian Gloves"
+
+	11	1	0	0	0	1	1	1	//"Dragon Boots"
+	11	3	0	0	0	1	1	1	//"Legendary Boots"
+	11	14	0	0	0	1	1	1	//"Guardian Boots"
+
+//입장권 및 기타									
+	13	36	0	0	0	0	0	0	//"Broken Horn"
+	13	18	4	6	0	0	0	0	//"invizible cloack"
+	14	19	4	5	0	0	0	0	//"devil invasion"
+	14	28	4	6	0	0	0	0	//"lost map"
+end									
+									
+									
+	

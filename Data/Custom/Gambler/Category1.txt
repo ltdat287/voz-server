@@ -1,0 +1,60 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Created by     : [CzF]eRRoR                                                  //
+// Date           : 2007 / 08 / 18                                              //
+// EventItemBag File                                                            //
+//////////////////////////////////////////////////////////////////////////////////
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Helloun Drop Settings                                                     早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Nightmare"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+
+	6	16	0	6	1	1	3	0 // Elemental Shield 66
+	4	4	0	6	1	1	2	0 // Tiger Bow 40
+	4	5	0	6	1	1	1	0 // Silver Bow 56
+	4	10	0	6	1	1	3	0 // Arquebus 20
+	4	12	0	6	1	1	2	0 // Serpent Crossbow 48
+	4	13	0	6	1	1	1	0 // Blue Wing Crossbow 68
+	4	14	0	6	1	1	1	0 // Aqua Gold Crossbow 72
+	4	16	0	6	1	1	1	0 // Saint Crossbow 84
+	4	3	0	6	1	1	3	0 // Battle Bow 26
+	4	4	0	6	1	1	2	0 // Tiger Bow 40
+	4	5	0	6	1	1	1	0 // Silver Bow 56
+	4	12	0	6	1	1	1	0 // Serpent Crossbow 48
+	4	13	0	6	1	1	1	0 // Blue Wing Crossbow 68
+	4	14	0	6	1	1	1	0 // Aqua Gold Crossbow 72
+	4	16	0	6	1	1	1	0 // Saint Crossbow 84
+	14	45	0	0	0	0	0	0 // Haloween Pumpkin
+	13	0	0	0	0	0	0	0 // guardian
+	13	1	0	0	0	0	0	0 // imp
+	13	2	0	0	0	0	0	0 // Uniria
+
+end											

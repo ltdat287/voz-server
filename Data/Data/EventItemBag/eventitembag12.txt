@@ -1,0 +1,61 @@
+////////          mu.reedlan.com         //////////////////////////
+///////////////////////////////////////////////////////////////////
+////////         Box of Kundun +5        //////////////////////////
+///////////////////////////////////////////////////////////////////
+//
+0	16	0	0	1	0  //"Sword of Destruction"
+3	10	0	0	1	0  //"Dragon Spear"
+5	6	0	0	1	0  //"Staff of Resurrection"
+5	9	0	0	1	0  //"Dragon Soul Staff"
+2	10	0	0	1	0  //"Great Scepter"
+0	31	0	0	1	0  //"Rune Blade"
+2	12	0	0	1	0  //"Great Lord Scepter"
+4	20	0	0	1	0  //"Arrow Viper Bow"
+7	22	0	0	1	0  // Dark Soul Helm 
+8	22	0	0	1	0  // Dark Soul Armor 
+9	22	0	0	1	0  // Dark Soul Pants 
+10	22	0	0	1	0  // Dark Soul Gloves 
+11	22	0	0	1	0  // Dark Soul Bots 
+//
+7	17	0	0	1	0  // Dark Phoenix Helm 
+8	17	0	0	1	0  // Dark Phoenix Armor 
+9	17	0	0	1	0  // Dark Phoenix Pants 
+10	17	0	0	1	0  // Dark Phoenix Gloves 
+11	17	0	0	1	0  // Dark Phoenix Bots 
+//
+7	21	0	0	1	0  // Great Dragon Helm 
+8	21	0	0	1	0  // Great Dragon Armor 
+9	21	0	0	1	0  // Great Dragon Pants 
+10	21	0	0	1	0  // Great Dragon Gloves 
+11	21	0	0	1	0  // Great Dragon Bots 
+//
+
+7	24	0	0	1	0  // Red Spirit Helm 
+8	24	0	0	1	0  // Red Spirit Armor 
+9	24	0	0	1	0  // Red Spirit Pants 
+10	24	0	0	1	0  // Red Spirit Gloves 
+11	24	0	0	1	0  // Red Spirit Bots 
+//
+8	37	0	0	1	0  // Valiant Armor 
+9	37	0	0	1	0  // Valiant Pants 
+10	37	0	0	1	0  // Valiant Gloves 
+11	37	0	0	1	0  // Valiant Bots 
+//
+8	23	4	0	1	0  // Hurricane Armor 
+9	23	4	0	1	0  // Hurricane Pants 
+10	23	4	0	1	0  // Hurricane Gloves 
+11	23	4	0	1	0  // Hurricane Bots 
+//
+7	38	0	0	1	0  // Glorious Helm 
+8	38	0	0	1	0  // Glorious Armor 
+9	38	0	0	1	0  // Glorious Pants 
+10	38	0	0	1	0  // Glorious Gloves 
+11	38	0	0	1	0  // Glorious Bots 
+//
+7	28	0	0	1	0  // Dark Master Helm 
+8	28	0	0	1	0  // Dark Master Armor 
+9	28	0	0	1	0  // Dark Master Pants 
+10	28	0	0	1	0  // Dark Master Gloves 
+11	28	0	0	1	0  // Dark Master Bots 
+//
+end

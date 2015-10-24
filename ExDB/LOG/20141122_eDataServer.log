@@ -1,0 +1,40 @@
+Initializing...
+[MeMuOnlineDB] Connection Successfull!
+19:51:49 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+19:57:27 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+19:57:27 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+19:58:45 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+19:58:46 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+20:59:25 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:11:48 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:11:48 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:12:26 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:12:47 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:12:47 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:24:20 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:24:37 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:24:37 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:26:20 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:26:34 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:26:34 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:27:11 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:32:28 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:32:28 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:41:45 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:0)
+23:44:10 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+23:44:10 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+23:44:35 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:44:35 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:48:27 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:0)
+23:48:33 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+23:48:33 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+23:48:58 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:48:58 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'
+23:52:32 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:0)
+23:55:56 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+23:55:56 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+23:56:16 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:56:16 EXEC WZ_CONNECT_MEMB 'datga','VOZ','192.168.1.12'

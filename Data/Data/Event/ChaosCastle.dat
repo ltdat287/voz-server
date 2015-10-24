@@ -1,0 +1,43 @@
+// Time Settings
+// OpenTime,	EventTime,	CloseTime
+0
+5	10	1
+end
+// DropSettings
+// ItemDropRate ( ItemDrop / N ), ExcItemDrop(1/N), RegenTime,	RewardType1Rate, RewardType2Rate
+// (P.S.> 概率数值越低,暴率越高.)
+1
+100	1200	0	99	99
+end
+// Start Settings
+// Hour, Minute
+2
+6 	00
+12	00
+18	00
+24    	00
+end
+// ChaosCastle Offline Gift Rate (n/10000) (NEEDS MU2003_EVENT_DATA implementation)
+3
+5000
+end
+// RewardType1
+// EventIndex ItemIndex ItemNumber ItemLevel
+4
+0	14	102	0
+1	14	102	0
+2	14	102	0
+3	14	102	0
+4	14	102	0
+5	14	102	0
+end
+// RewardType2
+// EventIndex ItemIndex ItemNumber ItemLevel
+5
+0	14	102	0
+1	14	102	0
+2	14	102	0
+3	14	102	0
+4	14	102	0
+5	14	102	0
+end

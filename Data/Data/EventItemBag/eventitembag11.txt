@@ -1,0 +1,75 @@
+////////          mu.reedlan.com         //////////////////////////
+///////////////////////////////////////////////////////////////////
+////////         Box of Kundun +4        //////////////////////////
+///////////////////////////////////////////////////////////////////
+//
+6	12	0	0	1	0  // Bronze Shield 
+6	14	0	0	1	0 // Legendary Shield
+//
+2	15	0	0	1	0  // Shining Scepter
+//
+4	17	0	0	1	0  // Celestial Bow
+4	18	0	0	1	0  // Divine Of Archangel Crossbow
+//
+5	9	0	0	1	0  // Grand Soul Staff
+5	10	0	0	1	0  // Divine Of Archangel Staff
+//
+7	18	0	0	1	0  // Grand Soul Helm 
+8	18	0	0	1	0  // Grand Soul Armor 
+9	18	0	0	1	0  // Grand Soul Pants 
+10	18	0	0	1	0  // Grand Soul Gloves 
+11	18	0	0	1	0 // Grand Soul Bots 
+//
+7	35	0	0	1	0  // Eclipse Helm 
+8	35	0	0	1	0  // Eclipse Armor 
+9	35	0	0	1	0  // Eclipse Pants
+10	35	0	0	1	0  // Eclipse Gloves 
+11	35	0	0	1	0  // Eclipse Bots 
+//
+7	16	0	0	1	0  // Black Dragon Helm 
+8	16	0	0	1	0  // Black Dragon Armor 
+9	16	0	0	1	0  // Black Dragon Pants 
+10	16	0	0	1	0  // Black Dragon Gloves 
+11	16	0	0	1	0  // Black Dragon Bots 
+
+7	34	0	0	1	0  // Ashcrow Helm 
+8	34	0	0	1	0 // Ashcrow Armor
+9	34	0	0	1	0  // Ashcrow Pants
+10	34	0	0	1	0  // Ashcrow Gloves
+11	34	0	0	1	0 // Ashcrow Bots
+//
+
+7	36	0	0	1	0  // Iris Helm 
+8	36	0	0	1	0  // Iris Armor 
+9	36	0	0	1	0  // Iris Pants 
+10	36	0	0	1	0  // Iris Gloves 
+11	36	0	0	1	0  // Iris Bots 
+//
+8	15	0	0	1	0  // Storm Crow Armor 
+9	15	0	0	1	0  // Storm Crow Pants
+10	15	0	0	1	0  // Storm Crow Gloves 
+11	15	0	0	1	0  // Storm Crow Bots 
+//
+8	20	0	0	1	0  // Thunder Hawk Armor 
+9	20	0	0	1	0  // Thunder Hawk Pants 
+10	20	0	0	1	0  // Thunder Hawk Gloves 
+11	20	0	0	1	0  // Thunder Hawk Bots 
+//
+7	27	0	0	1	0  // Dark Steel Helm 
+8	27	0	0	1	0  // Dark Steel Armor
+9	27	0	0	1	0  // Dark Steel Pants
+10	27	0	0	1	0  // Dark Steel Gloves
+11	27	0	0	1	0  // Dark Steel Bots
+//
+7	26	0	0	1	0  // Adamantine Helm
+8	26	0	0	1	0  // Adamantine Armor
+9	26	0	0	1	0  // Adamantine Pants
+10	26	0	0	1	0  // Adamantine Gloves
+11	26	0	0	1	0  // Adamantine Bots
+//
+7	19	0	0	1	0  // Divine Helm 
+8	19	0	0	1	0  // Divine Armor 
+9	19	0	0	1	0  // Divine Pants 
+10	19	0	0	1	0  // Divine Gloves 
+11	19	0	0	1	0  // Divine Bots 
+end

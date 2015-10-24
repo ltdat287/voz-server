@@ -1,0 +1,8 @@
+04:40:33p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+04:40:33p Friend Login request : DatGa 8466 server:0
+[8466] New Friend Master = DatGa
+04:40:33p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+04:40:33p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+04:40:33p SELECT FriendName FROM T_WaitFriend where GUID=2053
+04:40:33p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+04:44:32p Friend LogOut Queue Name: ( DatGa )

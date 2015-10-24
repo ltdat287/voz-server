@@ -1,0 +1,31 @@
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+[ MuOnline ] connection successful !
+[ CashShopServer ] created on port [ 55821 ]
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+17:45:39 [BUY ANSWER] [asfasdfasf] Start transaction POINTS: 4845
+17:45:39 [BUY ANSWER] [asfasdfasf] User Buy Request ITEM:(13 44),TIME: 60,DUR: 0 PRICE: 15
+17:45:39 [Buy Answer] Buy success [asfasdfasf][4830] points
+17:46:36 [BUY ANSWER] [asfasdfasf] Start transaction POINTS: 4830
+17:46:36 [BUY ANSWER] [asfasdfasf] User Buy Request ITEM:(14 99),TIME: 0,DUR: 0 PRICE: 500
+17:46:36 [Buy Answer] Buy success [asfasdfasf][4330] points
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+[ MuOnline ] connection successful !
+[ CashShopServer ] created on port [ 55821 ]
+17:50:00 [BUY ANSWER] [asfasdfasf] Start transaction POINTS: 4330
+17:50:00 [BUY ANSWER] [asfasdfasf] User Buy Request ITEM:(13 44),TIME: 60,DUR: 0 PRICE: 15
+17:50:00 [Buy Answer] Buy success [asfasdfasf][4315] points
+17:51:08 [BUY ANSWER] [asfasdfasf] Start transaction POINTS: 4315
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+[ MuOnline ] connection successful !
+[ CashShopServer ] created on port [ 55821 ]
+18:28:41 [BUY ANSWER] [dddddd] Start transaction POINTS: 4273
+18:28:41 [BUY ANSWER] [dddddd] User Buy Request ITEM:(13 43),TIME: 60,DUR: 0 PRICE: 10
+18:28:41 [Buy Answer] Buy success [dddddd][4263] points
+18:29:14 [BUY ANSWER] [dddddd] Start transaction POINTS: 4263
+18:29:14 [BUY ANSWER] [dddddd] User Buy Request ITEM:(13 44),TIME: 60,DUR: 0 PRICE: 15
+18:29:14 [Buy Answer] Buy success [dddddd][4248] points

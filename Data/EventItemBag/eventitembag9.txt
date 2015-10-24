@@ -1,0 +1,87 @@
+//-----------------------------
+// Repack Season 3 Episodio 1 Full by Slipkorn13
+// Aporte Exclusivo para IG Network
+// Box of Kundum +2
+//-----------------------------
+
+
+//Scale set
+	7	6	0	0	1	2	//Helm
+	8	6	0	0	1	2	//Armor
+	9	6	0	0	1	2	//Pants
+	10	6	0	0	1	2	//Gloves
+	11	6	0	0	1	2	//Boots
+
+//Brass set
+	7	8	0	0	1	2	//Helm
+	8	8	0	0	1	2	//Armor
+	9	8	0	0	1	2	//Pants
+	10	8	0	0	1	2	//Gloves
+	11	8	0	0	1	2	//Boots
+
+//Sphinx set
+	7	7	0	0	1	2	//Helm
+	8	7	0	0	1	2	//Armor
+	9	7	0	0	1	2	//Pants
+	10	7	0	0	1	2	//Gloves
+	11	7	0	0	1	2	//Boots
+
+//Wind set
+	7	12	0	0	1	2	//Helm
+	8	12	0	0	1	2	//Armor
+	9	12	0	0	1	2	//Pants
+	10	12	0	0	1	2	//Gloves
+	11	12	0	0	1	2	//Boots
+
+
+//Spirit  Set
+	7	13	0	0	1	2	//Helm
+	8	13	0	0	1	2	//Armor
+	9	13	0	0	1	2	//Pants
+	10	13	0	0	1	2	//Gloves
+	11	13	0	0	1	2	//Boots
+
+//Sword
+	0	5	0	0	1	2	//Blade
+	0	6	0	0	1	2	//Gladius
+	0	7	0	0	1	2	//Falchion
+	0	8	0	0	1	2	//Serpent Sword
+
+//Axes
+	1	2	0	0	1	2	//Double Axe
+	1	3	0	0	1	2	//Tomahawk
+	1	4	0	0	1	2	//Elven Axe
+
+//Blunt weapons
+	2	3	0	0	1	2	//Great Hammer
+	2	4	0	0	1	2	//Crystal Morning Star
+
+//Spears
+	3	4	0	0	1	2	//Serpent Spear
+	3	5	0	0	1	2	//Double Poleaxe
+	3	6	0	0	1	2	//Halberd
+	3	7	0	0	1	2	//Berdysh
+	
+//Bows & Crossbows
+	4	2	0	0	1	2	//Elven Bow
+	4	3	0	0	1	2	//Battle Bow
+	4	10	0	0	1	2	//Arquebus
+	4	11	0	0	1	2	//Light Crossbow
+	4	12	0	0	1	2	//Serpent Crossbow
+
+//Staffs
+	5	2	0	0	1	2	//Serpent Staff
+	5	3	0	0	1	2	//Thunder Staff
+	5	4	0	0	1	2	//Gorgon Staff
+
+//Shields
+	6	2	0	0	1	2	//Kite Shield
+	6	6	0	0	1	2	//Skull Shield
+	6	7	0	0	1	2	//Spiked Shield
+
+//Rings+Pendant
+	13	23	0	0	1	2	//Ring of Wind
+	13	24	0	0	1	2	//Ring of Magic
+	13	25	0	0	1	2	//Ring of Ice
+	13	9	0	0	1	2	//Ring of Poison
+end	

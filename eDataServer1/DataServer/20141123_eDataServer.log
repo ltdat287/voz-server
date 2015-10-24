@@ -1,0 +1,449 @@
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+SELECT Money, DbVersion, pw FROM warehouse WHERE AccountID='datga'
+UPDATE warehouse SET Money=400, pw=0, DbVersion=3 WHERE AccountID='datga'
+UPDATE Character SET DbVersion=3 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=300,Class=2,LevelUpPoint=145, Experience=112734545, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=683002654, Life=28507.000000, MaxLife=44538.000000, Mana=10176.000000, MaxMana=9372.000000, MapNumber=28, MapPosX=104, MapPosY=93, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=300,Class=2,LevelUpPoint=145, Experience=116157545, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=682962654, Life=34746.000000, MaxLife=44538.000000, Mana=10176.000000, MaxMana=9372.000000, MapNumber=3, MapPosX=176, MapPosY=113, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+SELECT Summoner FROM AccountCharacter WHERE Id = 'datga'
+SELECT * FROM AccountCharacter WHERE Id = 'datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'datga'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=300,Class=2,LevelUpPoint=145, Experience=118694795, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=682932654, Life=34686.000000, MaxLife=44538.000000, Mana=63615.000000, MaxMana=9372.000000, MapNumber=2, MapPosX=239, MapPosY=234, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'datga'
+SELECT * FROM AccountCharacter WHERE Id = 'datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='asfasdfasf'
+UPDATE AccountCharacter SET GameIDC = 'asfasdfasf' WHERE Id = 'datga'
+SELECT * FROM OptionData WHERE Name='asfasdfasf'
+WZ_PeriodItemSelect 19, 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=16,Class=64,LevelUpPoint=105, Experience=54000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=10864, Life=7509.000000, MaxLife=7509.000000, Mana=28717.000000, MaxMana=28717.000000, MapNumber=0, MapPosX=177, MapPosY=126, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=17,Class=64,LevelUpPoint=112, Experience=64000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=10908, Life=7524.000000, MaxLife=7524.000000, Mana=28727.000000, MaxMana=28727.000000, MapNumber=0, MapPosX=181, MapPosY=151, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=18,Class=64,LevelUpPoint=119, Experience=75140, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=10908, Life=7539.000000, MaxLife=7539.000000, Mana=28737.000000, MaxMana=28737.000000, MapNumber=0, MapPosX=181, MapPosY=151, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=19,Class=64,LevelUpPoint=126, Experience=87480, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=11109, Life=7554.000000, MaxLife=7554.000000, Mana=28747.000000, MaxMana=28747.000000, MapNumber=0, MapPosX=184, MapPosY=155, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=20,Class=64,LevelUpPoint=133, Experience=101080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=11109, Life=7569.000000, MaxLife=7569.000000, Mana=28757.000000, MaxMana=28757.000000, MapNumber=0, MapPosX=188, MapPosY=154, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=21,Class=64,LevelUpPoint=140, Experience=116000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=11109, Life=7584.000000, MaxLife=7584.000000, Mana=28767.000000, MaxMana=28767.000000, MapNumber=0, MapPosX=185, MapPosY=155, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=22,Class=64,LevelUpPoint=147, Experience=132300, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7599.000000, MaxLife=7599.000000, Mana=28777.000000, MaxMana=28777.000000, MapNumber=3, MapPosX=151, MapPosY=109, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=23,Class=64,LevelUpPoint=154, Experience=150040, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7614.000000, MaxLife=7614.000000, Mana=28787.000000, MaxMana=28787.000000, MapNumber=3, MapPosX=151, MapPosY=109, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=24,Class=64,LevelUpPoint=161, Experience=169280, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7629.000000, MaxLife=7629.000000, Mana=28797.000000, MaxMana=28797.000000, MapNumber=3, MapPosX=151, MapPosY=109, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=25,Class=64,LevelUpPoint=168, Experience=190080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7644.000000, MaxLife=7644.000000, Mana=28807.000000, MaxMana=28807.000000, MapNumber=3, MapPosX=156, MapPosY=118, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=26,Class=64,LevelUpPoint=175, Experience=212500, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7659.000000, MaxLife=7659.000000, Mana=28817.000000, MaxMana=28817.000000, MapNumber=3, MapPosX=147, MapPosY=111, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=27,Class=64,LevelUpPoint=182, Experience=236600, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7674.000000, MaxLife=7674.000000, Mana=28827.000000, MaxMana=28827.000000, MapNumber=3, MapPosX=147, MapPosY=111, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=28,Class=64,LevelUpPoint=189, Experience=262440, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7689.000000, MaxLife=7689.000000, Mana=28837.000000, MaxMana=28837.000000, MapNumber=3, MapPosX=147, MapPosY=111, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=29,Class=64,LevelUpPoint=196, Experience=290080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7704.000000, MaxLife=7704.000000, Mana=28847.000000, MaxMana=28847.000000, MapNumber=3, MapPosX=142, MapPosY=122, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=30,Class=64,LevelUpPoint=203, Experience=319580, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7719.000000, MaxLife=7719.000000, Mana=28857.000000, MaxMana=28857.000000, MapNumber=3, MapPosX=142, MapPosY=111, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=31,Class=64,LevelUpPoint=210, Experience=351000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7734.000000, MaxLife=7734.000000, Mana=28867.000000, MaxMana=28867.000000, MapNumber=3, MapPosX=142, MapPosY=111, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=32,Class=64,LevelUpPoint=217, Experience=384400, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7749.000000, MaxLife=7749.000000, Mana=28877.000000, MaxMana=28877.000000, MapNumber=3, MapPosX=147, MapPosY=109, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=33,Class=64,LevelUpPoint=224, Experience=419840, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7764.000000, MaxLife=7764.000000, Mana=28887.000000, MaxMana=28887.000000, MapNumber=3, MapPosX=148, MapPosY=110, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=34,Class=64,LevelUpPoint=231, Experience=457380, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=1109, Life=7779.000000, MaxLife=7779.000000, Mana=28897.000000, MaxMana=28897.000000, MapNumber=3, MapPosX=145, MapPosY=112, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=35,Class=64,LevelUpPoint=238, Experience=497080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=5426, Life=7794.000000, MaxLife=7794.000000, Mana=28907.000000, MaxMana=28907.000000, MapNumber=3, MapPosX=148, MapPosY=110, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=36,Class=64,LevelUpPoint=245, Experience=539000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=5426, Life=7809.000000, MaxLife=7809.000000, Mana=28917.000000, MaxMana=28917.000000, MapNumber=3, MapPosX=148, MapPosY=110, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=37,Class=64,LevelUpPoint=252, Experience=583200, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7824.000000, MaxLife=7824.000000, Mana=28927.000000, MaxMana=28927.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=38,Class=64,LevelUpPoint=259, Experience=629740, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7839.000000, MaxLife=7839.000000, Mana=28937.000000, MaxMana=28937.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=39,Class=64,LevelUpPoint=266, Experience=678680, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7854.000000, MaxLife=7854.000000, Mana=28947.000000, MaxMana=28947.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=40,Class=64,LevelUpPoint=273, Experience=730080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7869.000000, MaxLife=7869.000000, Mana=28957.000000, MaxMana=28957.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=41,Class=64,LevelUpPoint=280, Experience=784000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7884.000000, MaxLife=7884.000000, Mana=28967.000000, MaxMana=28967.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=42,Class=64,LevelUpPoint=287, Experience=840500, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7899.000000, MaxLife=7899.000000, Mana=28977.000000, MaxMana=28977.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=43,Class=64,LevelUpPoint=294, Experience=899640, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7914.000000, MaxLife=7914.000000, Mana=28987.000000, MaxMana=28987.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=44,Class=64,LevelUpPoint=301, Experience=961480, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7929.000000, MaxLife=7929.000000, Mana=28997.000000, MaxMana=28997.000000, MapNumber=2, MapPosX=237, MapPosY=222, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=45,Class=64,LevelUpPoint=308, Experience=1026080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7944.000000, MaxLife=7944.000000, Mana=29007.000000, MaxMana=29007.000000, MapNumber=2, MapPosX=238, MapPosY=222, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=46,Class=64,LevelUpPoint=315, Experience=1093500, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7959.000000, MaxLife=7959.000000, Mana=29017.000000, MaxMana=29017.000000, MapNumber=2, MapPosX=239, MapPosY=223, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=47,Class=64,LevelUpPoint=322, Experience=1163800, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=874101, Life=7974.000000, MaxLife=7974.000000, Mana=29027.000000, MaxMana=29027.000000, MapNumber=2, MapPosX=237, MapPosY=228, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=48,Class=64,LevelUpPoint=329, Experience=1237040, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=7989.000000, MaxLife=7989.000000, Mana=29037.000000, MaxMana=29037.000000, MapNumber=2, MapPosX=236, MapPosY=227, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=49,Class=64,LevelUpPoint=336, Experience=1313280, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8004.000000, MaxLife=8004.000000, Mana=29047.000000, MaxMana=29047.000000, MapNumber=2, MapPosX=236, MapPosY=227, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=50,Class=64,LevelUpPoint=343, Experience=1392580, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8019.000000, MaxLife=8019.000000, Mana=29057.000000, MaxMana=29057.000000, MapNumber=2, MapPosX=236, MapPosY=227, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=51,Class=64,LevelUpPoint=350, Experience=1475000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8034.000000, MaxLife=8034.000000, Mana=29067.000000, MaxMana=29067.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=52,Class=64,LevelUpPoint=357, Experience=1560600, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8049.000000, MaxLife=8049.000000, Mana=29077.000000, MaxMana=29077.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=53,Class=64,LevelUpPoint=364, Experience=1649440, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8064.000000, MaxLife=8064.000000, Mana=29087.000000, MaxMana=29087.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=54,Class=64,LevelUpPoint=371, Experience=1741580, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8079.000000, MaxLife=8079.000000, Mana=29097.000000, MaxMana=29097.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=55,Class=64,LevelUpPoint=378, Experience=1837080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8094.000000, MaxLife=8094.000000, Mana=29107.000000, MaxMana=29107.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=56,Class=64,LevelUpPoint=385, Experience=1936000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8109.000000, MaxLife=8109.000000, Mana=29117.000000, MaxMana=29117.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=57,Class=64,LevelUpPoint=392, Experience=2038400, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8124.000000, MaxLife=8124.000000, Mana=29127.000000, MaxMana=29127.000000, MapNumber=2, MapPosX=239, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=58,Class=64,LevelUpPoint=399, Experience=2144340, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8139.000000, MaxLife=8139.000000, Mana=29137.000000, MaxMana=29137.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=59,Class=64,LevelUpPoint=406, Experience=2253880, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8154.000000, MaxLife=8154.000000, Mana=29147.000000, MaxMana=29147.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=60,Class=64,LevelUpPoint=413, Experience=2367080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8169.000000, MaxLife=8169.000000, Mana=29157.000000, MaxMana=29157.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=61,Class=64,LevelUpPoint=420, Experience=2484000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8184.000000, MaxLife=8184.000000, Mana=29167.000000, MaxMana=29167.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=62,Class=64,LevelUpPoint=427, Experience=2604700, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8199.000000, MaxLife=8199.000000, Mana=29177.000000, MaxMana=29177.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=63,Class=64,LevelUpPoint=434, Experience=2729240, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8214.000000, MaxLife=8214.000000, Mana=29187.000000, MaxMana=29187.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=64,Class=64,LevelUpPoint=441, Experience=2857680, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8229.000000, MaxLife=8229.000000, Mana=29197.000000, MaxMana=29197.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=65,Class=64,LevelUpPoint=448, Experience=2990080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8244.000000, MaxLife=8244.000000, Mana=29207.000000, MaxMana=29207.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=66,Class=64,LevelUpPoint=455, Experience=3126500, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8259.000000, MaxLife=8259.000000, Mana=29217.000000, MaxMana=29217.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=67,Class=64,LevelUpPoint=462, Experience=3267000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8274.000000, MaxLife=8274.000000, Mana=29227.000000, MaxMana=29227.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=68,Class=64,LevelUpPoint=469, Experience=3411640, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8289.000000, MaxLife=8289.000000, Mana=29237.000000, MaxMana=29237.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=69,Class=64,LevelUpPoint=476, Experience=3560480, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8304.000000, MaxLife=8304.000000, Mana=29247.000000, MaxMana=29247.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=70,Class=64,LevelUpPoint=483, Experience=3713580, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8319.000000, MaxLife=8319.000000, Mana=29257.000000, MaxMana=29257.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=71,Class=64,LevelUpPoint=490, Experience=3871000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8334.000000, MaxLife=8334.000000, Mana=29267.000000, MaxMana=29267.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=72,Class=64,LevelUpPoint=497, Experience=4032800, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8349.000000, MaxLife=8349.000000, Mana=29277.000000, MaxMana=29277.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=73,Class=64,LevelUpPoint=504, Experience=4199040, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8364.000000, MaxLife=8364.000000, Mana=29287.000000, MaxMana=29287.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=74,Class=64,LevelUpPoint=511, Experience=4369780, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8379.000000, MaxLife=8379.000000, Mana=29297.000000, MaxMana=29297.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=75,Class=64,LevelUpPoint=518, Experience=4545080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8394.000000, MaxLife=8394.000000, Mana=29307.000000, MaxMana=29307.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=76,Class=64,LevelUpPoint=525, Experience=4725000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8409.000000, MaxLife=8409.000000, Mana=29317.000000, MaxMana=29317.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=77,Class=64,LevelUpPoint=532, Experience=4909600, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8424.000000, MaxLife=8424.000000, Mana=29327.000000, MaxMana=29327.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=78,Class=64,LevelUpPoint=539, Experience=5098940, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8439.000000, MaxLife=8439.000000, Mana=29337.000000, MaxMana=29337.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=79,Class=64,LevelUpPoint=546, Experience=5293080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8454.000000, MaxLife=8454.000000, Mana=29347.000000, MaxMana=29347.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=80,Class=64,LevelUpPoint=553, Experience=5492080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8469.000000, MaxLife=8469.000000, Mana=29357.000000, MaxMana=29357.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=81,Class=64,LevelUpPoint=560, Experience=5696000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8484.000000, MaxLife=8484.000000, Mana=29367.000000, MaxMana=29367.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=82,Class=64,LevelUpPoint=567, Experience=5904900, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8499.000000, MaxLife=8499.000000, Mana=29377.000000, MaxMana=29377.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=83,Class=64,LevelUpPoint=574, Experience=6118840, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8514.000000, MaxLife=8514.000000, Mana=29387.000000, MaxMana=29387.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=84,Class=64,LevelUpPoint=581, Experience=6337880, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8529.000000, MaxLife=8529.000000, Mana=29397.000000, MaxMana=29397.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=85,Class=64,LevelUpPoint=588, Experience=6562080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8544.000000, MaxLife=8544.000000, Mana=29407.000000, MaxMana=29407.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=86,Class=64,LevelUpPoint=595, Experience=6791500, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8559.000000, MaxLife=8559.000000, Mana=29417.000000, MaxMana=29417.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=87,Class=64,LevelUpPoint=602, Experience=7026200, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8574.000000, MaxLife=8574.000000, Mana=29427.000000, MaxMana=29427.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=88,Class=64,LevelUpPoint=609, Experience=7266240, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8589.000000, MaxLife=8589.000000, Mana=29437.000000, MaxMana=29437.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=89,Class=64,LevelUpPoint=616, Experience=7511680, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8604.000000, MaxLife=8604.000000, Mana=29447.000000, MaxMana=29447.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=90,Class=64,LevelUpPoint=623, Experience=7762580, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8619.000000, MaxLife=8619.000000, Mana=29457.000000, MaxMana=29457.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=91,Class=64,LevelUpPoint=630, Experience=8019000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8634.000000, MaxLife=8634.000000, Mana=29467.000000, MaxMana=29467.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=92,Class=64,LevelUpPoint=637, Experience=8281000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8649.000000, MaxLife=8649.000000, Mana=29477.000000, MaxMana=29477.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=93,Class=64,LevelUpPoint=644, Experience=8548640, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8664.000000, MaxLife=8664.000000, Mana=29487.000000, MaxMana=29487.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=94,Class=64,LevelUpPoint=651, Experience=8821980, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8679.000000, MaxLife=8679.000000, Mana=29497.000000, MaxMana=29497.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=95,Class=64,LevelUpPoint=658, Experience=9101080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8694.000000, MaxLife=8694.000000, Mana=29507.000000, MaxMana=29507.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=96,Class=64,LevelUpPoint=665, Experience=9386000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8709.000000, MaxLife=8709.000000, Mana=29517.000000, MaxMana=29517.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=97,Class=64,LevelUpPoint=672, Experience=9676800, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8724.000000, MaxLife=8724.000000, Mana=29527.000000, MaxMana=29527.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=98,Class=64,LevelUpPoint=679, Experience=9973540, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8739.000000, MaxLife=8739.000000, Mana=29537.000000, MaxMana=29537.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=99,Class=64,LevelUpPoint=686, Experience=10276280, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8754.000000, MaxLife=8754.000000, Mana=29547.000000, MaxMana=29547.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=100,Class=64,LevelUpPoint=693, Experience=10585080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8769.000000, MaxLife=8769.000000, Mana=29557.000000, MaxMana=29557.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=101,Class=64,LevelUpPoint=700, Experience=10900000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8784.000000, MaxLife=8784.000000, Mana=29567.000000, MaxMana=29567.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=102,Class=64,LevelUpPoint=707, Experience=11221100, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8799.000000, MaxLife=8799.000000, Mana=29577.000000, MaxMana=29577.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=103,Class=64,LevelUpPoint=714, Experience=11548440, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8814.000000, MaxLife=8814.000000, Mana=29587.000000, MaxMana=29587.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=104,Class=64,LevelUpPoint=721, Experience=11882080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8829.000000, MaxLife=8829.000000, Mana=29597.000000, MaxMana=29597.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=105,Class=64,LevelUpPoint=728, Experience=12222080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8844.000000, MaxLife=8844.000000, Mana=29607.000000, MaxMana=29607.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=106,Class=64,LevelUpPoint=735, Experience=12568500, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8859.000000, MaxLife=8859.000000, Mana=29617.000000, MaxMana=29617.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=107,Class=64,LevelUpPoint=742, Experience=12921400, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8874.000000, MaxLife=8874.000000, Mana=29627.000000, MaxMana=29627.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=108,Class=64,LevelUpPoint=749, Experience=13280840, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8889.000000, MaxLife=8889.000000, Mana=29637.000000, MaxMana=29637.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=109,Class=64,LevelUpPoint=756, Experience=13646880, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974101, Life=8904.000000, MaxLife=8904.000000, Mana=29647.000000, MaxMana=29647.000000, MapNumber=2, MapPosX=241, MapPosY=235, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=110,Class=64,LevelUpPoint=763, Experience=14019580, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8919.000000, MaxLife=8919.000000, Mana=29657.000000, MaxMana=29657.000000, MapNumber=2, MapPosX=242, MapPosY=229, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=111,Class=64,LevelUpPoint=770, Experience=14399000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8934.000000, MaxLife=8934.000000, Mana=29667.000000, MaxMana=29667.000000, MapNumber=2, MapPosX=242, MapPosY=229, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=111,Class=64,LevelUpPoint=770, Experience=14605025, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8934.000000, MaxLife=8934.000000, Mana=28584.000000, MaxMana=29667.000000, MapNumber=2, MapPosX=237, MapPosY=229, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'datga'
+SELECT * FROM AccountCharacter WHERE Id = 'datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='asfasdfasf'
+UPDATE AccountCharacter SET GameIDC = 'asfasdfasf' WHERE Id = 'datga'
+SELECT * FROM OptionData WHERE Name='asfasdfasf'
+WZ_PeriodItemSelect 19, 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=112,Class=64,LevelUpPoint=777, Experience=14785200, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8949.000000, MaxLife=8949.000000, Mana=29677.000000, MaxMana=29677.000000, MapNumber=2, MapPosX=241, MapPosY=231, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=113,Class=64,LevelUpPoint=784, Experience=15178240, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8964.000000, MaxLife=8964.000000, Mana=29687.000000, MaxMana=29687.000000, MapNumber=2, MapPosX=238, MapPosY=228, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=114,Class=64,LevelUpPoint=791, Experience=15578180, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8979.000000, MaxLife=8979.000000, Mana=29697.000000, MaxMana=29697.000000, MapNumber=2, MapPosX=239, MapPosY=225, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=115,Class=64,LevelUpPoint=798, Experience=15985080, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=8994.000000, MaxLife=8994.000000, Mana=29707.000000, MaxMana=29707.000000, MapNumber=2, MapPosX=238, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=116,Class=64,LevelUpPoint=805, Experience=16399000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=9009.000000, MaxLife=9009.000000, Mana=29717.000000, MaxMana=29717.000000, MapNumber=2, MapPosX=238, MapPosY=234, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=117,Class=64,LevelUpPoint=812, Experience=16820000, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=9024.000000, MaxLife=9024.000000, Mana=29727.000000, MaxMana=29727.000000, MapNumber=2, MapPosX=238, MapPosY=234, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=118,Class=64,LevelUpPoint=819, Experience=17248140, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=9039.000000, MaxLife=9039.000000, Mana=29737.000000, MaxMana=29737.000000, MapNumber=2, MapPosX=238, MapPosY=234, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=119,Class=64,LevelUpPoint=826, Experience=17683480, Strength=26000, Dexterity=20000, Vitality=20000, Energy=15000, Money=974910, Life=9054.000000, MaxLife=9054.000000, Mana=29747.000000, MaxMana=29747.000000, MapNumber=2, MapPosX=238, MapPosY=234, MapDir=3, PkCo

@@ -1,0 +1,95 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ LightPurpleCandyBox Settings                                                       ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"LightPurpleCandy"	1000000	0	0	0	0	100	1000
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+
+2
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+																				
+	0	8	7	9	1	1	1	0	//"Serpent Sword"											
+	0	9	7	9	1	1	1	0	//"Salamander"											
+	0	15	7	9	1	1	1	0	//"Giant Sword"											
+	0	12	7	9	1	1	1	0	//"Helical Sword"											
+	1	4	7	9	1	1	1	0	//"Elven Axe"											
+	1	5	7	9	1	1	1	0	//"Battle Axe"											
+	1	8	7	9	1	1	1	0	//"Crescent Axe"											
+	3	5	7	9	1	1	1	0	//"Double Poleaxe"											
+	3	6	7	9	1	1	1	0	//"Halberd"											
+	3	4	7	9	1	1	1	0	//"Serpent Spear"											
+	3	8	7	9	1	1	1	0	//"Great Scythe"											
+// 방패류																				
+	6	10	7	9	1	1	1	0	//"Large Round Shield"
+	6	9	7	9	1	1	1	0	//"Plate Shield"
+	6	7	7	9	1	1	1	0	//"Spike Shield"
+	6	11	7	9	1	1	1	0	//"Serpent Shield"
+	6	14	7	9	1	1	1	0	//"Legendary Shield"
+// 방어구류									
+	7	8	7	9	0	1	1	0	//"Brass Helm"
+	7	9	7	9	0	1	1	0	//"Plate Helm"
+	7	7	7	9	0	1	1	0	//"Sphinx Helm"
+	7	3	7	9	0	1	1	0	//"Legendary Helm"
+	7	12	7	9	0	1	1	0	//"Wind Helm"
+	7	13	7	9	0	1	1	0	//"Spirit Helm"
+
+	8	8	7	9	0	1	1	0	//"Brass Armor"
+	8	9	7	9	0	1	1	0	//"Plate Armor"
+	8	7	7	9	0	1	1	0	//"Sphinx Armor"
+	8	3	7	9	0	1	1	0	//"Legendary Armor"
+	8	12	7	9	0	1	1	0	//"Wind Armor"
+	8	13	7	9	0	1	1	0	//"Spirit Armor"
+
+	9	8	7	9	0	1	1	0	//"Brass Pants"
+	9	9	7	9	0	1	1	0	//"Plate Pants"
+	9	7	7	9	0	1	1	0	//"Sphinx Pants"
+	9	3	7	9	0	1	1	0	//"Legendary Pants"
+	9	12	7	9	0	1	1	0	//"Wind Pants"
+	9	13	7	9	0	1	1	0	//"Spirit Pants"
+
+	10	8	7	9	0	1	1	0	//"Brass Gloves"
+	10	9	7	9	0	1	1	0	//"Plate Gloves"
+	10	7	7	9	0	1	1	0	//"Sphinx Gloves"
+	10	3	7	9	0	1	1	0	//"Legendary Gloves"
+	10	12	7	9	0	1	1	0	//"Wind Gloves"
+	10	13	7	9	0	1	1	0	//"Spirit Gloves"
+
+	11	8	7	9	0	1	1	0	//"Brass Boots"
+	11	9	7	9	0	1	1	0	//"Plate Boots"
+	11	7	7	9	0	1	1	0	//"Sphinx Boots"
+	11	3	7	9	0	1	1	0	//"Legendary Boots"
+	11	12	7	9	0	1	1	0	//"Wind Boots"
+	11	13	7	9	0	1	1	0	//"Spirit Boots"
+// 보석류									
+	14	13	0	0	0	0	0	0	//"bles"
+	14	14	0	0	0	0	0	0	//"sol"
+	12	15	0	0	0	0	0	0	//"haos"
+// 입장권									
+	14	19	3	3	0	0	0	0	//"devils invasion"
+	14	18	2	3	0	0	0	0	//"lost map"
+	14	28	3	3	0	0	0	0	//"cloac invizible"
+end									

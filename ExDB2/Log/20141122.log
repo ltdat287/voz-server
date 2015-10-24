@@ -1,0 +1,125 @@
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_CGuid]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendList]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMail]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMain]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_WaitFriend]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WriteMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_DelMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p exec WZ_Get_DBID
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[Guild]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[GuildMember]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+07:51:47p select count(*) from Guild
+07:51:47p select count(*) from Guild
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[MuCastle_SIEGE_GUILDLIST]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+07:51:47p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_CS_CheckSiegeGuildList]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+ GuildOnOff system : 0 Count: 1
+07:51:47p SELECT * FROM Guild
+Total 0 / Guild data load complete. 16(ms)
+ GuildOnOff system : 1 Count: 0
+07:51:48p ExDB Server Start!!
+Server Connect : index: (0)
+07:51:52p ChatServer Connected : (127.0.0.1) 0
+Server Connect : index: (1)
+07:57:28p GameServer Connected (VOZ) : 1
+07:58:53p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+07:58:53p Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+07:58:53p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+07:58:54p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+07:58:54p SELECT FriendName FROM T_WaitFriend where GUID=2053
+07:58:54p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+08:14:26p Friend LogOut Queue Name: ( DatGa )
+08:14:29p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='fasdfasdf'
+08:14:29p Friend Login request : fasdfasdf 8400 server:0
+[8400] New Friend Master = fasdfasdf
+08:14:29p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'fasdfasdf'
+08:14:29p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2083
+08:14:29p SELECT FriendName FROM T_WaitFriend where GUID=2083
+08:14:29p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2083
+08:23:14p Friend LogOut Queue Name: ( fasdfasdf )
+08:23:16p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+08:23:16p Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+08:23:16p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+08:23:16p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+08:23:16p SELECT FriendName FROM T_WaitFriend where GUID=2053
+08:23:16p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+08:59:25p Friend LogOut Queue Name: ( DatGa )
+11:11:51p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:11:51p Friend Login request : DatGa 8402 server:0
+[8402] New Friend Master = DatGa
+11:11:51p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:11:51p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:11:51p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:11:51p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:12:26p Friend LogOut Queue Name: ( DatGa )
+11:12:50p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:12:50p Friend Login request : DatGa 8403 server:0
+[8403] New Friend Master = DatGa
+11:12:50p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:12:50p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:12:50p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:12:50p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:24:20p Friend LogOut Queue Name: ( DatGa )
+11:24:40p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:24:40p Friend Login request : DatGa 8404 server:0
+[8404] New Friend Master = DatGa
+11:24:40p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:24:40p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:24:40p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:24:40p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:26:20p Friend LogOut Queue Name: ( DatGa )
+11:26:37p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:26:37p Friend Login request : DatGa 8405 server:0
+[8405] New Friend Master = DatGa
+11:26:37p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:26:37p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:26:37p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:26:37p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:27:11p Friend LogOut Queue Name: ( DatGa )
+11:32:31p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:32:32p Friend Login request : DatGa 8406 server:0
+[8406] New Friend Master = DatGa
+11:32:32p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:32:32p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:32:32p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:32:32p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:41:45p Friend LogOut Queue Name: ( DatGa )
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+11:44:10p GameServer Connected (VOZ) : 1
+11:44:37p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:44:37p Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+11:44:37p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:44:37p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:44:37p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:44:37p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:48:27p Friend LogOut Queue Name: ( DatGa )
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+11:48:33p GameServer Connected (VOZ) : 1
+11:49:00p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:49:00p Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+11:49:00p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:49:00p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:49:00p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:49:00p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+11:52:32p Friend LogOut Queue Name: ( DatGa )
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+11:55:56p GameServer Connected (VOZ) : 1
+11:56:18p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+11:56:18p Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+11:56:18p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+11:56:18p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+11:56:18p SELECT FriendName FROM T_WaitFriend where GUID=2053
+11:56:18p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053

@@ -1,0 +1,4 @@
+8:44:34  Server Interconnection Check - [FS/1] [DS/0] [EX/1] [ES/1] [RS/1]
+8:44:36  Server Interconnection Check - [FS/1] [DS/0] [EX/1] [ES/1] [RS/1]
+8:44:39  Server Interconnection Check - [FS/1] [DS/0] [EX/1] [ES/1] [RS/1]
+8:44:41  Server Interconnection Check - [FS/1] [DS/0] [EX/1] [ES/1] [RS/1]

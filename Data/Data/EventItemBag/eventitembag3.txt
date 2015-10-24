@@ -1,0 +1,58 @@
+////////       mu.reedlan.com     //////////////////
+////////////////////////////////////////////////////
+/////   Death King Drop Settings [Event53]  ////////
+/////   CKEJIET C KOCOI1  = 55     /////////////////
+////////////////////////////////////////////////////
+//[Index][Number][Level][Skill][Luck][Option]
+//
+0 10 9 1 1 3 // Light Saber +9
+0 11 9 1 1 3 // Legendary Sword +9
+0 13 9 1 1 3 // Double Blade +9
+//
+1  6 9 1 1 3 // Nikkea Axe +9
+1  7 9 1 1 3 // Larkan Axe +9
+//
+2  3 9 1 1 3 // Great Hammer +9
+//
+3  7 9 1 1 3 // Berdysh +9
+3  0 9 1 1 3 // Light Spear +9
+3  4 9 1 1 3 // Serpent Spear +9
+//
+4 11 9 1 1 3 // Light Crossbow +9
+4  4 9 1 1 3 // Tiger Bow  +9
+4 12 9 1 1 3 // Serpent Crossbow +9
+//
+5  3 9 0 1 3 // Thunder Staff +9
+5  4 9 0 1 3 // Staff of Gorgon +9
+2  9 9 0 1 3 // Master Scepter +9
+//
+6  5 9 1 1 3 // Dragon Slayer Shield +9
+6  8 9 1 1 3 // Tower Shield +9
+6 11 9 1 1 3 // Serpent Shield +9
+6 14 9 1 1 3 // Legendary Shield +9
+//
+7 25 9 0 1 3 // Light Plate Helm +9
+7  9 9 0 1 3 // Plate Helm +9
+7  3 9 0 1 3 // Legendary Helm +9
+7 13 9 0 1 3 // Spirit Helm +9
+//
+8 25 9 0 1 3 // Light Plate Armor +9
+8  9 9 0 1 3 // Plate Armor +9
+8  3 9 0 1 3 // Legendary Armor +9
+8 13 9 0 1 3 // Spirit Armor +9
+//
+9 25 9 0 1 3 // Light Plate Pants +9
+9  9 9 0 1 3 // Plate Pants +9
+9  3 9 0 1 3 // Legendary Pants +9
+9 13 9 0 1 3 // Spirit Pants +9
+//
+10 25 9 0 1 3 // Light Plate Gloves +9
+10  9 9 0 1 3 // Plate Gloves +9
+10  3 9 0 1 3 // Legendary Gloves +9
+10 13 9 0 1 3 // Spirit Gloves +9
+//
+11 25 9 0 1 3 // Light Plate Boots +9
+11  9 9 0 1 3 // Plate Boots +9
+11  3 9 0 1 3 // Legendary Boots +9
+11 13 9 0 1 3 // Spirit Boots +9
+end

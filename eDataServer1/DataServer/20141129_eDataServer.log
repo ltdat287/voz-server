@@ -1,0 +1,55 @@
+[ MuOnline ] connection successful !
+[ DataServer ] created on port [ 55960 ]
+[ MuOnline ] connection successful !
+[ DataServer ] created on port [ 55960 ]
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'datga'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=300,Class=2,LevelUpPoint=145, Experience=118710770, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=682935413, Life=34716.000000, MaxLife=44538.000000, Mana=10176.000000, MaxMana=9372.000000, MapNumber=2, MapPosX=208, MapPosY=186, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'Datga'
+SELECT * FROM AccountCharacter WHERE Id = 'Datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='fasdfasdf'
+UPDATE AccountCharacter SET GameIDC = 'fasdfasdf' WHERE Id = 'Datga'
+SELECT * FROM OptionData WHERE Name='fasdfasdf'
+WZ_PeriodItemSelect 19, 'fasdfasdf'
+SELECT Money, DbVersion, pw FROM warehouse WHERE AccountID='Datga'
+UPDATE warehouse SET Money=400, pw=0, DbVersion=3 WHERE AccountID='Datga'
+UPDATE Character SET DbVersion=3 WHERE Name = 'fasdfasdf'
+UPDATE Character SET cLevel=22,Class=32,LevelUpPoint=19, Experience=132300, Strength=54, Dexterity=64, Vitality=20, Energy=30, Money=3251, Life=1010.000000, MaxLife=1010.000000, Mana=840.000000, MaxMana=840.000000, MapNumber=3, MapPosX=173, MapPosY=96, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'fasdfasdf'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'datga'
+SELECT * FROM AccountCharacter WHERE Id = 'datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Res

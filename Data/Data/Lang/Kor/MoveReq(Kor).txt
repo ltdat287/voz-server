@@ -1,0 +1,40 @@
+//---------------------------------------------------------------------------------------------------------------------------
+// 2007.07.10  汉化
+//
+// 	[ 1.0.5.0 VTM GS ]
+//
+//	< 腾飞科技 >
+//
+//	< 地图移动 >
+//
+//---------------------------------------------------------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+//index	Movename(chs)	Movename(eng)	Zen	Level	GateNumber
+1	"Lorencia"	"Lorencia"	10000	20	17
+2	"Noria"	"Noria"	10000	20	27
+3	"Devias"	"Devias"	20000	30	22
+4	"Devias2"	"Devias2"	30000	50	72
+5	"Devias3"	"Devias3"	30000	50	73
+6	"Devias4"	"Devias4"	30000	50	74
+7	"Dungeon"	"Dungeon"	35000	50	2
+8	"Rena_Event"	"Rena_Event"	35000	50	6
+9	"Dungeon3"	"Dungeon3"	40000	60	10
+10	"LorenDeep"	"LorenDeep"	75000	100	100
+11	"Atlans"	"Atlans"	40000	70	49
+12	"Atlans2"	"Atlans2"	45000	80	75
+13	"Atlans3"	"Atlans3"	50000	90	76
+14	"LostTower"	"LostTower"	50000	90	42
+15	"LostTower3"	"LostTower3"	60000	100	33
+16	"LostTower5"	"LostTower5"	70000	110	37
+17	"LostTower7"	"LostTower7"	80000	120	41
+18	"Tarkan"	"Tarkan"	90000	140	57
+19	"Tarkan2"	"Tarkan2"	90000	150	77
+20	"Icarus"	"Icarus"	100000	180	63
+21	"Arena"	"Arena"	100000	200	115
+22	"CryWolf"	"CryWolf"	150000	250	114
+23	"Kanturu_ruin"	"Kanturu_ruin"	100000	250	138
+24      "-----------"	"------------"	0     0     0
+25	"Kanturu_ruin2"	"Kanturu_ruin2"	110000	260	141
+26	"Kanturu_Remain"	"Kanturu_Remain"	120000	270	139
+27	"Aida"	"Aida"	90000	150	119

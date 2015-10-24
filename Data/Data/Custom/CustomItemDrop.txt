@@ -1,0 +1,41 @@
+//---------------------------------------------------------------------------------
+// [ItemGroup]    - Group Number
+// [ItemNumber]   - Item Number
+// [ItemLvlMin]   - Item Level
+// [ItemLvlMax]   - Item Max Level
+// [Skill]	  - Skill Option 0:Disabled;1:50% to drop with skill
+// [Luck]	  - Luck Option 0:Disabled;1:50% to drop with luck
+// [Option]	  - Additional Option 0:Disabled;1:Change to get Items +4 - +12
+// [Excelent]	  - Excelent Option 0:Disabled;1:Excelent Drop
+// [DropLvlMin]	  - Monster Min Level To drop (-1: No Limit)
+// [DropLvlMax]	  - Monster Max Level To drop (-1: No Limit)
+// [DropMap]	  - Drop Map -1:Any Map;n:Map Number
+// [DropRate]	  - DropRate n/10000 (NOTE:Value must be not 0)
+//---------------------------------------------------------------------------------
+14	13	0	0	0	0	0	0	-1	-1	-1	2
+14	14	0	0	0	0	0	0	-1	-1	-1	2
+12	15	0	0	0	0	0	0	-1	-1	-1	5
+14	16	0	0	0	0	0	0	30	200	-1	2
+14	22	0	0	0	0	0	0	50	200	-1	4
+13	14	0	0	0	0	0	0	-1	-1	10	2
+13	14	0	0	0	0	0	0	-1	-1	16	10
+13	14	0	0	0	0	0	0	-1	-1	17	10
+13	14	0	0	0	0	0	0	-1	-1	32	10
+14	12	1	1	0	0	0	0	65	66	24	10000
+14	12	1	1	0	0	0	0	80	81	25	10000
+14	21	0	0	0	0	0	0	101	101	1	5000
+14	13	0	0	0	0	0	0	91	91	-1	1500
+14	14	0	0	0	0	0	0	91	91	-1	1500
+14	16	0	0	0	0	0	0	91	91	-1	1500
+14	35	0	0	0	0	0	0	91	91	-1	1500
+14	38	0	0	0	0	0	0	91	91	-1	1500
+14	100	0	0	0	0	0	0	129	129	-1	250
+15	8	0	0	0	0	0	0	40	100	2	10
+15	8	0	0	0	0	0	0	40	100	4	10
+13	60	0	0	0	0	0	0	50	200	-1	4
+13	20	0	0	0	0	0	0	70	74	2	5
+13	20	0	0	0	0	0	0	70	74	0	5
+13	20	0	0	0	0	0	0	70	74	3	5
+14	41	0	0	0	0	0	0	60	130	37	3
+14	41	0	0	0	0	0	0	60	130	38	3
+end

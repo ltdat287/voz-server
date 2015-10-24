@@ -1,0 +1,83 @@
+//-----------------------------
+// Repack Season 3 Episodio 1 Full by Slipkorn13
+// Aporte Exclusivo para IG Network
+// Box of Kundum +3
+//-----------------------------
+
+//Dragon set
+	7	1	0	0	1	2	//Helm
+	8	1	0	0	1	2	//Armor
+	9	1	0	0	1	2	//Pants
+	10	1	0	0	1	2	//Gloves
+	11	1	0	0	1	2	//Boots
+
+//Legendary set
+	7	3	0	0	1	2	//Helm
+	8	3	0	0	1	2	//Armor
+	9	3	0	0	1	2	//Pants
+	10	3	0	0	1	2	//Gloves
+	11	3	0	0	1	2	//Boots
+
+//Gaurdian set
+	7	14	0	0	1	2	//Helm
+	8	14	0	0	1	2	//Armor
+	9	14	0	0	1	2	//Pants
+	10	14	0	0	1	2	//Gloves
+	11	14	0	0	1	2	//Boots
+
+//Plate   Set
+	7	9	0	0	1	2	//Helm
+	8	9	0	0	1	2	//Armor
+	9	9	0	0	1	2	//Pants
+	10	9	0	0	1	2	//Gloves
+	11	9	0	0	1	2	//Boots
+
+
+//Light set
+	7	25	0	0	1	2	//Helm
+	8	25	0	0	1	2	//Armor
+	9	25	0	0	1	2	//Pants
+	10	25	0	0	1	2	//Gloves
+	11	25	0	0	1	2	//Boots
+
+//Sword
+	0	13	0	0	1	2	//Double Blade
+	0	14	0	0	1	2	//Lightning Sword
+	0	9	0	0	1	2	//Sword of Salamander
+	0	10	0	0	1	2	//Light Saber
+	0	11	0	0	1	2	//Legendary Sword
+	0	12	0	0	1	2	//Heliacal Sword
+
+//Axes
+	1	5	0	0	1	2	//Battle Axe
+	1	6	0	0	1	2	//Nikea Axe
+	1	7	0	0	1	2	//Larkan Axe
+	1	8	0	0	1	2	//Crescent Axe
+
+//Blunt weapons
+	2	7	0	0	1	2	//Elemental Mace
+	2	8	0	0	1	2	//Battle Scepter
+
+//Spears
+	3	0	0	0	1	2	//Light Spear
+	3	1	0	0	1	2	//Spear
+	3	2	0	0	1	2	//Dragon Lance
+	3	3	0	0	1	2	//Great Trident
+
+//Bows & Crossbows
+	4	4	0	0	1	2	//Tiger Bow
+	4	13	0	0	1	2	//Bluewing Crossbow
+
+
+//Staffs
+	5	5	0	0	1	2	//Legendary Staff
+	5	6	0	0	1	2	//Staff of Resurrection
+
+
+//Shields
+	6	8	0	0	1	2	//Tower Shield
+	6	9	0	0	1	2	//Plate Shield
+	6	10	0	0	1	2	//Large Round Shield
+
+end
+

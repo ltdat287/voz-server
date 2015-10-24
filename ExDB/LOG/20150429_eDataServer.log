@@ -1,0 +1,569 @@
+Initializing...
+[MeMuOnlineDB] Connection Successfull!
+08:04:38 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+08:05:35 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+08:05:35 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+12:22:16 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+12:22:16 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+12:41:21 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:0)
+18:29:09 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+18:29:09 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+Connection Closed, dwIoSize == 0 (Index:0)
+18:31:54 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+18:31:54 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+18:32:19 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:32:19 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:33:21 EXEC WZ_DISCONNECT_MEMB 'datga'
+18:33:54 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:33:54 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:34:45 EXEC WZ_DISCONNECT_MEMB 'datga'
+18:35:03 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:35:03 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:35:13 EXEC WZ_DISCONNECT_MEMB 'datga'
+18:38:44 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:38:44 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:39:00 EXEC WZ_DISCONNECT_MEMB 'datga'
+18:39:34 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:39:34 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:39:43 EXEC WZ_DISCONNECT_MEMB 'datga'
+18:40:51 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:40:51 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:41:12 EXEC WZ_DISCONNECT_MEMB 'datga'
+18:41:31 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+18:41:31 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+18:41:50 EXEC WZ_DISCONNECT_MEMB 'datga'
+20:29:20 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+20:29:20 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+20:29:36 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:0)
+20:46:17 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+20:46:17 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+Connection Closed, dwIoSize == 0 (Index:0)
+20:47:08 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+20:47:08 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+Connection Closed, dwIoSize == 0 (Index:0)
+20:48:52 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+20:48:52 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+Connection Closed, dwIoSize == 0 (Index:0)
+20:51:08 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+20:51:08 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+21:30:37 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+21:30:37 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+21:31:51 EXEC WZ_DISCONNECT_MEMB 'datga'
+21:33:14 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+21:33:14 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+21:33:45 SELECT * FROM MEMB_INFO WHERE memb___id='Datga'
+21:33:45 EXEC WZ_CONNECT_MEMB 'Datga','VOZ','171.224.8.122'
+21:34:15 SELECT * FROM MEMB_INFO WHERE memb___id='DAtga'
+21:34:15 EXEC WZ_CONNECT_MEMB 'DAtga','VOZ','171.224.8.122'
+21:34:23 EXEC WZ_DISCONNECT_MEMB 'DAtga'
+21:34:27 EXEC WZ_DISCONNECT_MEMB 'Datga'
+21:37:47 EXEC WZ_DISCONNECT_MEMB 'datga'
+21:43:01 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+21:43:01 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+21:43:32 SELECT * FROM MEMB_INFO WHERE memb___id='Datga'
+21:43:32 EXEC WZ_CONNECT_MEMB 'Datga','VOZ','171.224.8.122'
+21:49:32 EXEC WZ_DISCONNECT_MEMB 'Datga'
+21:51:30 EXEC WZ_DISCONNECT_MEMB 'datga'
+21:51:45 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+21:51:45 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+21:51:56 EXEC WZ_DISCONNECT_MEMB 'datga'
+21:53:23 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+21:53:23 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+21:53:36 EXEC WZ_DISCOInitializing...
+[MuOnlineDB] Connection Successfull!
+[MeMuOnlineDB] Connection Successfull!
+SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[RankingDB] Error On Connection!
+SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[EventDB] Error On Connection!
+[MuOnlineExDB] Connection Successfull!
+22:03:06 SELECT * FROM Guild
+22:03:06 [CreateRelationShipData] Guild:[119]
+22:03:06 [AddGuild] Guild [Kinggggg][119] Create Guild Master: [BinhDuong]
+22:03:06 SELECT * FROM GuildMember WHERE G_Name = 'Kinggggg'
+22:03:06 [CreateRelationShipData] Guild:[118]
+22:03:06 [AddGuild] Guild [TEST][118] Create Guild Master: [test1]
+22:03:06 SELECT * FROM GuildMember WHERE G_Name = 'TEST'
+[MuOnlineDB] GuildData Loaded in 31 msec
+22:03:06 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+22:03:06 [IOCP] ST_DATASERVER1 Start! PORT [ 55960 ]
+22:03:06 [IOCP] ST_DATASERVER2 Start! PORT [ 55962 ]
+22:03:06 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]
+22:03:06 [IOCP] ST_EVENTSERVER Start! PORT [ 44456 ]
+22:03:06 [IOCP] ST_RANKINGSERVER Start! PORT [ 44455 ]
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:03:06 [IOCP] ST_CASHSHOPSERVER Start! PORT [ 55821 ]
+22:03:13 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 6
+[ChatServer] Chat Server Connected
+22:03:16 [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 10
+22:03:21 [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 2
+22:03:21 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+22:03:21 [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 9
+22:03:21 [Server Engine] Connect : Index : 4 - IP : 127.0.0.1 - ServerType : 8
+22:03:21 [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 4
+22:03:21 [DataServer] GameServer(0) connect
+22:03:21 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:03:21 [Server Engine] Connect : Index : 6 - IP : 127.0.0.1 - ServerType : 5
+22:03:21 [DataServer] GameServer(0) connect
+22:03:21 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:03:21 [Server Engine] Connect : Index : 7 - IP : 127.0.0.1 - ServerType : 6
+22:03:21 [ExDB] GameServer with ServerCode[0] connected.
+22:03:22 EXEC WZ_CS_GetCastleTotalInfo 0, 7
+22:03:22 EXEC WZ_CS_GetCastleNpcInfo 0
+22:03:22 EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:5)
+22:03:41 [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 4
+22:03:41 [DataServer] GameServer(0) connect
+22:03:41 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:03:53 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+22:03:53 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+22:03:54 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:03:54 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:03:54 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:03:54 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:03:54 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:03:54 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:03:54 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:03:54 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:03:54 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:03:54 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:03:54 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:03:54 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:03:56 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='DatGa'
+22:03:56 UPDATE AccountCharacter SET GameIDC='DatGa' WHERE Id='datga'
+22:03:56 SELECT * FROM OptionData WHERE Name='DatGa'
+22:03:56 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:03:56 [Guild Member Info Request] Member [DatGa].
+22:03:56 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+22:03:56 WZ_PeriodItemSelect 19, 'DatGa'
+22:03:56 [Send Guild Member Info] No info returned from DB.
+22:03:56 [Friend List Request] Name[DatGa].
+22:03:56 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+22:03:56 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+22:03:56 [Friend List Send] Name[DatGa].
+22:03:56 [Friend List Send] Friend Count[0].
+22:03:56 SELECT FriendName FROM T_WaitFriend where GUID=2053
+22:03:56 [Mail List Request] Name[DatGa].
+22:03:56 [Mail List Send] Name[DatGa].
+22:03:56 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+22:03:56 [Mail List Send] Mail Count: 0.
+22:03:57 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:03:57 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+[Cash Shop] LoadCashItemList() - reload
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+[Cash Shop] LoadCashItemList() - reload
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:04:54 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:04:54 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:04:57 SELECT Name FROM OptionData WHERE Name='DatGa'
+22:04:57 UPDATE OptionData SET GameOption=9, Qkey=0, Wkey=4, Ekey=8, ChatWindow=4 WHERE Name='DatGa'
+22:05:02 UPDATE Character SET cLevel=119,Class=1,LevelUpPoint=334, Experience=17849705, Strength=344, Dexterity=2760, Vitality=103, Energy=3330, Money=482846895, Life=4240.000000, MaxLife=3540.000000, Mana=19924.000000, MaxMana=3424.000000, MapNumber=3, MapPosX=173, MapPosY=102, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+22:05:02 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:05:02 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:05:02 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:05:02 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:05:02 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:05:02 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:05:02 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:05:02 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:05:02 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:05:02 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:05:02 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:05:02 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:05:04 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='DatGa'
+22:05:04 UPDATE AccountCharacter SET GameIDC='DatGa' WHERE Id='datga'
+22:05:04 SELECT * FROM OptionData WHERE Name='DatGa'
+22:05:04 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:04 [Guild Member Info Request] Member [DatGa].
+22:05:04 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+22:05:04 WZ_PeriodItemSelect 19, 'DatGa'
+22:05:04 [Send Guild Member Info] No info returned from DB.
+22:05:04 [Friend List Request] Name[DatGa].
+22:05:04 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+22:05:04 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+22:05:04 [Friend List Send] Name[DatGa].
+22:05:04 [Friend List Send] Friend Count[0].
+22:05:04 SELECT FriendName FROM T_WaitFriend where GUID=2053
+22:05:04 [Mail List Request] Name[DatGa].
+22:05:04 [Mail List Send] Name[DatGa].
+22:05:04 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+22:05:04 [Mail List Send] Mail Count: 0.
+22:05:07 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:07 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+(1)error-L2 MAX BUFFER OVER 5572 5572 864
+WSARecv() failed with error 10038
+WSASend(762) failed with error 10038 127.0.0.1 
+error-L1 : CloseClient connect error
+22:05:22 [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 10
+22:05:26 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:26 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:30 SELECT Name FROM OptionData WHERE Name='DatGa'
+22:05:30 UPDATE OptionData SET GameOption=9, Qkey=0, Wkey=4, Ekey=8, ChatWindow=4 WHERE Name='DatGa'
+22:05:35 UPDATE Character SET cLevel=119,Class=1,LevelUpPoint=334, Experience=17849705, Strength=344, Dexterity=2760, Vitality=103, Energy=3330, Money=482846895, Life=4240.000000, MaxLife=3540.000000, Mana=6311.000000, MaxMana=3424.000000, MapNumber=3, MapPosX=176, MapPosY=93, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+22:05:36 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:05:36 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:05:36 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:05:36 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:05:36 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:05:36 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:05:36 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:05:36 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:05:36 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:05:36 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:05:36 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:05:36 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:05:38 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='fasdfasdf'
+22:05:38 UPDATE AccountCharacter SET GameIDC='fasdfasdf' WHERE Id='datga'
+22:05:38 SELECT * FROM OptionData WHERE Name='fasdfasdf'
+22:05:38 [Guild Member Info Request] Member [fasdfasdf].
+22:05:38 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:38 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='fasdfasdf'
+22:05:38 WZ_PeriodItemSelect 19, 'fasdfasdf'
+22:05:38 [Send Guild Member Info] No info returned from DB.
+22:05:38 [Friend List Request] Name[fasdfasdf].
+22:05:38 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'fasdfasdf'
+22:05:38 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2083
+22:05:38 [Friend List Send] Name[fasdfasdf].
+22:05:38 [Friend List Send] Friend Count[0].
+22:05:38 SELECT FriendName FROM T_WaitFriend where GUID=2083
+22:05:38 [Mail List Request] Name[fasdfasdf].
+22:05:38 [Mail List Send] Name[fasdfasdf].
+22:05:38 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2083
+22:05:38 [Mail List Send] Mail Count: 0.
+22:05:44 SELECT Name FROM OptionData WHERE Name='fasdfasdf'
+22:05:44 UPDATE OptionData SET GameOption=9, Qkey=0, Wkey=4, Ekey=8, ChatWindow=4 WHERE Name='fasdfasdf'
+22:05:50 UPDATE Character SET cLevel=220,Class=32,LevelUpPoint=0, Experience=109353785, Strength=54, Dexterity=83, Vitality=20, Energy=30, Money=921936427, Life=1790.000000, MaxLife=2990.000000, Mana=3810.000000, MaxMana=3810.000000, MapNumber=0, MapPosX=186, MapPosY=167, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'fasdfasdf'
+22:05:50 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:05:50 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:05:50 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:05:50 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:05:50 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:05:50 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:05:50 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:05:50 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:05:50 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:05:50 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:05:50 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:05:50 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:05:52 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='asfasdfasf'
+22:05:52 UPDATE AccountCharacter SET GameIDC='asfasdfasf' WHERE Id='datga'
+22:05:52 SELECT * FROM OptionData WHERE Name='asfasdfasf'
+22:05:52 WZ_PeriodItemSelect 19, 'asfasdfasf'
+22:05:52 [Guild Member Info Request] Member [asfasdfasf].
+22:05:52 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='asfasdfasf'
+22:05:52 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:52 [Send Guild Member Info] No info returned from DB.
+22:05:52 [Friend List Request] Name[asfasdfasf].
+22:05:52 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+22:05:52 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2146
+22:05:52 [Friend List Send] Name[asfasdfasf].
+22:05:52 [Friend List Send] Friend Count[0].
+22:05:52 SELECT FriendName FROM T_WaitFriend where GUID=2146
+22:05:52 [Mail List Request] Name[asfasdfasf].
+22:05:52 [Mail List Send] Name[asfasdfasf].
+22:05:52 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2146
+22:05:52 [Mail List Send] Mail Count: 0.
+22:05:54 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:05:54 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+[Cash Shop] LoadCashItemList() - reload
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:06:19 UPDATE Character SET cLevel=302,Class=66,LevelUpPoint=841, Experience=405392750, Strength=26000, Dexterity=20000, Vitality=20000, Energy=14999, Money=2986569, Life=60072.000000, MaxLife=11799.000000, Mana=33564.000000, MaxMana=31562.000000, MapNumber=3, MapPosX=178, MapPosY=111, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=3 WHERE Name = 'asfasdfasf'
+22:06:19 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:2)
+Connection Closed, dwIoSize == 0 (Index:4)
+Connection Closed, dwIoSize == 0 (Index:5)
+Connection Closed, dwIoSize == 0 (Index:1)
+Connection Closed, dwIoSize == 0 (Index:3)
+Connection Closed, dwIoSize == 0 (Index:7)
+Connection Closed, dwIoSize == 0 (Index:6)
+22:06:23 [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 10
+(1)error-L2 MAX BUFFER OVER 5572 5572 864
+WSARecv() failed with error 10038
+WSASend(762) failed with error 10038 127.0.0.1 
+error-L1 : CloseClient connect error
+22:06:38 [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 2
+22:06:38 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+22:06:38 [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 8
+22:06:38 [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 5
+22:06:38 [Server Engine] Connect : Index : 4 - IP : 127.0.0.1 - ServerType : 9
+22:06:38 [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 4
+22:06:38 [DataServer] GameServer(0) connect
+22:06:38 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:06:38 [Server Engine] Connect : Index : 6 - IP : 127.0.0.1 - ServerType : 6
+22:06:38 [ExDB] GameServer with ServerCode[0] connected.
+22:06:38 [DataServer] GameServer(0) connect
+22:06:38 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:06:38 [Server Engine] Connect : Index : 7 - IP : 127.0.0.1 - ServerType : 10
+22:06:39 EXEC WZ_CS_GetCastleTotalInfo 0, 7
+22:06:39 EXEC WZ_CS_GetCastleNpcInfo 0
+22:06:39 EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:5)
+22:06:58 [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 4
+22:06:58 [DataServer] GameServer(0) connect
+22:06:58 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:06:58 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+22:06:58 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+22:06:58 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:06:58 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:06:58 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:06:58 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:06:58 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:06:58 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:06:58 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:06:58 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:06:58 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:06:58 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:06:58 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:06:58 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:07:00 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='DatGa'
+22:07:00 UPDATE AccountCharacter SET GameIDC='DatGa' WHERE Id='datga'
+22:07:00 SELECT * FROM OptionData WHERE Name='DatGa'
+22:07:00 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:07:00 [Guild Member Info Request] Member [DatGa].
+22:07:00 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+22:07:00 WZ_PeriodItemSelect 19, 'DatGa'
+22:07:00 [Send Guild Member Info] No info returned from DB.
+22:07:00 [Friend List Request] Name[DatGa].
+22:07:00 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+22:07:00 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+22:07:00 [Friend List Send] Name[DatGa].
+22:07:00 [Friend List Send] Friend Count[0].
+22:07:00 SELECT FriendName FROM T_WaitFriend where GUID=2053
+22:07:00 [Mail List Request] Name[DatGa].
+22:07:00 [Mail List Send] Name[DatGa].
+22:07:00 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+22:07:00 [Mail List Send] Mail Count: 0.
+22:07:01 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:07:01 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:07:08 SELECT Name FROM OptionData WHERE Name='DatGa'
+22:07:08 UPDATE OptionData SET GameOption=9, Qkey=0, Wkey=4, Ekey=8, ChatWindow=4 WHERE Name='DatGa'
+22:07:13 UPDATE Character SET cLevel=119,Class=1,LevelUpPoint=334, Experience=17849705, Strength=344, Dexterity=2760, Vitality=103, Energy=3330, Money=482846895, Life=4240.000000, MaxLife=3540.000000, Mana=18999.000000, MaxMana=3424.000000, MapNumber=3, MapPosX=170, MapPosY=108, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+22:07:13 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:07:13 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:07:13 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:07:13 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:07:13 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:07:13 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:07:13 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:07:13 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:07:13 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:07:13 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:07:13 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:07:13 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:07:16 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='asfasdfasf'
+22:07:16 UPDATE AccountCharacter SET GameIDC='asfasdfasf' WHERE Id='datga'
+22:07:16 SELECT * FROM OptionData WHERE Name='asfasdfasf'
+22:07:16 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:07:16 WZ_PeriodItemSelect 19, 'asfasdfasf'
+22:07:16 [Guild Member Info Request] Member [asfasdfasf].
+22:07:16 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='asfasdfasf'
+22:07:16 [Send Guild Member Info] No info returned from DB.
+22:07:16 [Friend List Request] Name[asfasdfasf].
+22:07:16 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+22:07:16 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2146
+22:07:16 [Friend List Send] Name[asfasdfasf].
+22:07:16 [Friend List Send] Friend Count[0].
+22:07:16 SELECT FriendName FROM T_WaitFriend where GUID=2146
+22:07:16 [Mail List Request] Name[asfasdfasf].
+22:07:16 [Mail List Send] Name[asfasdfasf].
+22:07:16 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2146
+22:07:16 [Mail List Send] Mail Count: 0.
+22:07:18 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:07:18 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+Initializing...
+[MuOnlineDB] Connection Successfull!
+[MeMuOnlineDB] Connection Successfull!
+SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[RankingDB] Error On Connection!
+SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[EventDB] Error On Connection!
+[MuOnlineExDB] Connection Successfull!
+22:09:28 SELECT * FROM Guild
+22:09:28 [CreateRelationShipData] Guild:[119]
+22:09:28 [AddGuild] Guild [Kinggggg][119] Create Guild Master: [BinhDuong]
+22:09:28 SELECT * FROM GuildMember WHERE G_Name = 'Kinggggg'
+22:09:28 [CreateRelationShipData] Guild:[118]
+22:09:28 [AddGuild] Guild [TEST][118] Create Guild Master: [test1]
+22:09:28 SELECT * FROM GuildMember WHERE G_Name = 'TEST'
+[MuOnlineDB] GuildData Loaded in 31 msec
+22:09:28 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+22:09:28 [IOCP] ST_DATASERVER1 Start! PORT [ 55960 ]
+22:09:29 [IOCP] ST_DATASERVER2 Start! PORT [ 55962 ]
+22:09:29 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]
+22:09:29 [IOCP] ST_EVENTSERVER Start! PORT [ 44456 ]
+22:09:29 [IOCP] ST_RANKINGSERVER Start! PORT [ 44455 ]
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:09:29 [IOCP] ST_CASHSHOPSERVER Start! PORT [ 55821 ]
+22:09:35 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 10
+(0)error-L2 MAX BUFFER OVER 5572 5572 864
+WSARecv() failed with error 10038
+WSASend(762) failed with error 10038 127.0.0.1 
+error-L1 : CloseClient connect error
+22:09:42 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+22:09:42 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+22:09:42 [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 9
+22:09:42 [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 8
+22:09:42 [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 4
+22:09:42 [DataServer] GameServer(0) connect
+22:09:42 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:09:42 [Server Engine] Connect : Index : 4 - IP : 127.0.0.1 - ServerType : 5
+22:09:42 [DataServer] GameServer(0) connect
+22:09:42 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:09:42 [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 6
+22:09:42 [ExDB] GameServer with ServerCode[0] connected.
+22:09:42 [Server Engine] Connect : Index : 6 - IP : 127.0.0.1 - ServerType : 10
+22:09:43 EXEC WZ_CS_GetCastleTotalInfo 0, 7
+22:09:43 EXEC WZ_CS_GetCastleNpcInfo 0
+22:09:43 EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:3)
+22:10:02 [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 4
+22:10:02 [DataServer] GameServer(0) connect
+22:10:02 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:10:10 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+22:10:10 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+22:10:10 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:10:10 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:10:10 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:10:10 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:10:10 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:10:10 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:10:10 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:10:10 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:10:10 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:10:10 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:10:10 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:10:10 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:10:14 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='asfasdfasf'
+22:10:14 UPDATE AccountCharacteInitializing...
+[MuOnlineDB] Connection Successfull!
+[MeMuOnlineDB] Connection Successfull!
+[RankingDB] Connection Successfull!
+[EventDB] Connection Successfull!
+[MuOnlineExDB] Connection Successfull!
+22:12:10 SELECT * FROM Guild
+22:12:10 [CreateRelationShipData] Guild:[119]
+22:12:10 [AddGuild] Guild [Kinggggg][119] Create Guild Master: [BinhDuong]
+22:12:10 SELECT * FROM GuildMember WHERE G_Name = 'Kinggggg'
+22:12:10 [CreateRelationShipData] Guild:[118]
+22:12:10 [AddGuild] Guild [TEST][118] Create Guild Master: [test1]
+22:12:10 SELECT * FROM GuildMember WHERE G_Name = 'TEST'
+[MuOnlineDB] GuildData Loaded in 15 msec
+22:12:10 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+22:12:10 [IOCP] ST_DATASERVER1 Start! PORT [ 55960 ]
+22:12:10 [IOCP] ST_DATASERVER2 Start! PORT [ 55962 ]
+22:12:10 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]
+22:12:10 [IOCP] ST_EVENTSERVER Start! PORT [ 44456 ]
+22:12:10 [IOCP] ST_RANKINGSERVER Start! PORT [ 44455 ]
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:12:11 [IOCP] ST_CASHSHOPSERVER Start! PORT [ 55821 ]
+Initializing...
+[MuOnlineDB] Connection Successfull!
+[MeMuOnlineDB] Connection Successfull!
+[RankingDB] Connection Successfull!
+[EventDB] Connection Successfull!
+[MuOnlineExDB] Connection Successfull!
+22:12:19 SELECT * FROM Guild
+22:12:19 [CreateRelationShipData] Guild:[119]
+22:12:19 [AddGuild] Guild [Kinggggg][119] Create Guild Master: [BinhDuong]
+22:12:19 SELECT * FROM GuildMember WHERE G_Name = 'Kinggggg'
+22:12:19 [CreateRelationShipData] Guild:[118]
+22:12:19 [AddGuild] Guild [TEST][118] Create Guild Master: [test1]
+22:12:19 SELECT * FROM GuildMember WHERE G_Name = 'TEST'
+[MuOnlineDB] GuildData Loaded in 31 msec
+22:12:19 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+22:12:20 [IOCP] ST_DATASERVER1 Start! PORT [ 55960 ]
+22:12:20 [IOCP] ST_DATASERVER2 Start! PORT [ 55962 ]
+22:12:20 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]
+22:12:20 [IOCP] ST_EVENTSERVER Start! PORT [ 44456 ]
+22:12:20 [IOCP] ST_RANKINGSERVER Start! PORT [ 44455 ]
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:12:20 [IOCP] ST_CASHSHOPSERVER Start! PORT [ 55821 ]
+Initializing...
+[MuOnlineDB] Connection Successfull!
+[MeMuOnlineDB] Connection Successfull!
+[RankingDB] Connection Successfull!
+[EventDB] Connection Successfull!
+[MuOnlineExDB] Connection Successfull!
+22:12:31 SELECT * FROM Guild
+22:12:31 [CreateRelationShipData] Guild:[119]
+22:12:31 [AddGuild] Guild [Kinggggg][119] Create Guild Master: [BinhDuong]
+22:12:31 SELECT * FROM GuildMember WHERE G_Name = 'Kinggggg'
+22:12:31 [CreateRelationShipData] Guild:[118]
+22:12:31 [AddGuild] Guild [TEST][118] Create Guild Master: [test1]
+22:12:31 SELECT * FROM GuildMember WHERE G_Name = 'TEST'
+[MuOnlineDB] GuildData Loaded in 31 msec
+22:12:31 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+22:12:32 [IOCP] ST_DATASERVER1 Start! PORT [ 55960 ]
+22:12:32 [IOCP] ST_DATASERVER2 Start! PORT [ 55962 ]
+22:12:32 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]
+22:12:32 [IOCP] ST_EVENTSERVER Start! PORT [ 44456 ]
+22:12:32 [IOCP] ST_RANKINGSERVER Start! PORT [ 44455 ]
+[Cash Shop] CashItemList.txt loaded in (0) msec !
+22:12:32 [IOCP] ST_CASHSHOPSERVER Start! PORT [ 55821 ]
+22:12:52 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 10
+(0)error-L2 MAX BUFFER OVER 5572 5572 864
+WSARecv() failed with error 10038
+WSASend(762) failed with error 10038 127.0.0.1 
+error-L1 : CloseClient connect error
+22:13:00 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+22:13:00 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+22:13:00 [Server Engine] Connect : Index : 1 - IP : 127.0.0.1 - ServerType : 8
+22:13:00 [Server Engine] Connect : Index : 2 - IP : 127.0.0.1 - ServerType : 9
+22:13:00 [Server Engine] Connect : Index : 3 - IP : 127.0.0.1 - ServerType : 4
+22:13:00 [DataServer] GameServer(0) connect
+22:13:00 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:13:00 [Server Engine] Connect : Index : 4 - IP : 127.0.0.1 - ServerType : 5
+22:13:00 [DataServer] GameServer(0) connect
+22:13:00 [Server Engine] Connect : Index : 5 - IP : 127.0.0.1 - ServerType : 6
+22:13:00 [ExDB] GameServer with ServerCode[0] connected.
+22:13:00 SELECT ItemCount FROM GameServerInfo WHERE Number=0
+22:13:00 [Server Engine] Connect : Index : 6 - IP : 127.0.0.1 - ServerType : 10
+22:13:01 EXEC WZ_CS_GetCastleTotalInfo 0, 7
+22:13:01 EXEC WZ_CS_GetCastleNpcInfo 0
+22:13:01 EXEC WZ_CW_InfoLoad 0
+22:14:00 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+22:14:00 EXEC WZ_CONNECT_MEMB 'datga','VOZ','171.224.8.122'
+22:14:01 SELECT Id FROM AccountCharacter WHERE Id='datga'
+22:14:01 SELECT * FROM AccountCharacter WHERE Id='datga'
+22:14:01 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+22:14:01 SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+22:14:01 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+22:14:01 SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+22:14:01 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+22:14:01 SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+22:14:01 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+22:14:01 SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+22:14:01 SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+22:14:01 SELECT G_Status FROM GuildMember WHERE Name='test1'
+22:14:05 SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint FROM Character WHERE Name='asfasdfasf'
+22:14:05 UPDATE AccountCharacter SET GameIDC='asfasdfasf' WHERE Id='datga'
+22:14:05 SELECT * FROM OptionData WHERE Name='asfasdfasf'
+22:14:05 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:14:05 WZ_PeriodItemSelect 19, 'asfasdfasf'
+22:14:05 [Guild Member Info Request] Member [asfasdfasf].
+22:14:05 SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='asfasdfasf'
+22:14:05 [Send Guild Member Info] No info returned from DB.
+22:14:05 [Friend List Request] Name[asfasdfasf].
+22:14:05 SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+22:14:05 SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2146
+22:14:05 [Friend List Send] Name[asfasdfasf].
+22:14:05 [Friend List Send] Friend Count[0].
+22:14:05 SELECT FriendName FROM T_WaitFriend where GUID=2146
+22:14:05 [Mail List Request] Name[asfasdfasf].
+22:14:05 [Mail List Send] Name[asfasdfasf].
+22:14:05 SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2146
+22:14:05 [Mail List Send] Mail Count: 0.
+22:14:06 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:14:06 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:14:11 SELECT CashPoint FROM MuCashShop_DATA WHERE memb_guid = 19
+22:14:21 UPDATE Character SET cLevel=302,Class=66,LevelUpPoint=841, Experience=405392750, Strength=26000, Dexterity=20000, Vitality=20000, Energy=14999, Money=2986569, Life=60072.000000, MaxLife=11799.000000, Mana=27123.000000, MaxMana=31562.000000, MapNumber=3, MapPosX=175, MapPosY=105, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25000, ChatLimitTime=0, FruitPoint=3 WHERE Name = 'asfasdfasf'
+22:14:21 EXEC WZ_DISCONNECT_MEMB 'datga'
+Connection Closed, dwIoSize == 0 (Index:2)
+Connection Closed, dwIoSize == 0 (Index:1)
+Connection Closed, dwIoSize == 0 (Index:4)
+Connection Closed, dwIoSize == 0 (Index:5)
+Connection Closed, dwIoSize == 0 (Index:0)
+Connection Closed, dwIoSize == 0 (Index:3)
+Connection Closed, dwIoSize == 0 (Index:6)

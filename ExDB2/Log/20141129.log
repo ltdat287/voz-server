@@ -1,0 +1,54 @@
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_CGuid]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendList]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMail]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMain]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_WaitFriend]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WriteMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_DelMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a exec WZ_Get_DBID
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[Guild]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[GuildMember]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+01:21:55a select count(*) from Guild
+01:21:55a select count(*) from Guild
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[MuCastle_SIEGE_GUILDLIST]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+01:21:55a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_CS_CheckSiegeGuildList]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+ GuildOnOff system : 0 Count: 1
+01:21:55a SELECT * FROM Guild
+Total 0 / Guild data load complete. 0(ms)
+ GuildOnOff system : 1 Count: 0
+01:21:56a ExDB Server Start!!
+Server Connect : index: (0)
+01:22:01a ChatServer Connected : (127.0.0.1) 0
+Server Connect : index: (1)
+01:22:31a GameServer Connected (VOZ) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+01:24:13a GameServer Connected (VOZ) : 1
+01:24:38a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+01:24:38a Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+01:24:38a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+01:24:38a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+01:24:38a SELECT FriendName FROM T_WaitFriend where GUID=2053
+01:24:38a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+01:29:42a Friend LogOut Queue Name: ( DatGa )
+01:43:13a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='fasdfasdf'
+01:43:13a Friend Login request : fasdfasdf 8402 server:0
+[8402] New Friend Master = fasdfasdf
+01:43:13a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'fasdfasdf'
+01:43:13a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2083
+01:43:13a SELECT FriendName FROM T_WaitFriend where GUID=2083
+01:43:13a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2083
+01:43:30a Friend LogOut Queue Name: ( fasdfasdf )
+01:52:17a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='asfasdfasf'
+01:52:17a Friend Login request : asfasdfasf 8403 server:0
+[8403] New Friend Master = asfasdfasf
+01:52:17a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+01:52:17a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2146
+01:52:17a SELE

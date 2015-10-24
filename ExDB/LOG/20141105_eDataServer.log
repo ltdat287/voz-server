@@ -1,0 +1,14 @@
+Initializing...
+[MeMuOnlineDB] Connection Successfull!
+[MuOnlineExDB] Connection Successfull!
+21:56:12 SELECT * FROM Guild
+[MuOnlineDB] GuildData Loaded in 15 msec
+21:56:12 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+21:56:12 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]
+Initializing...
+[MeMuOnlineDB] Connection Successfull!
+[MuOnlineExDB] Connection Successfull!
+21:57:40 SELECT * FROM Guild
+[MuOnlineDB] GuildData Loaded in 15 msec
+21:57:40 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+21:57:41 [IOCP] ST_EXDATASERVER Start! PORT [ 55906 ]

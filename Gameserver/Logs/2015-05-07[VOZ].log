@@ -1,0 +1,751 @@
+00:00:50 [DevilSquare] Start Event
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:01:30 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:39 Y:55
+00:02:03 ***0504*** [datga][DatGa] SI(0,Grand Soul Staff,13,0,1,7)serial:(634439680) dur:(138) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(1,Grand Soul Shield,13,0,1,7)serial:(-1342932480) dur:(102) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(3,Grand Soul Armor,13,0,0,7)serial:(-462612736) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(4,Grand Soul Pants,13,0,0,7)serial:(569736704) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(5,Grand Soul Gloves,13,0,0,7)serial:(877676800) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(6,Grand Soul Boots,13,0,0,7)serial:(-1723602944) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(7,Wings of Archangel,0,0,1,3)serial:(-523130624) dur:(215) Ex:(1,0,1,1,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(8,Guardian Angel,0,0,0,0)serial:(0) dur:(230) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(9,Pendant of Lightning,1,0,0,0)serial:(166) dur:(66) Ex:(0,0,0,1,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(10,Ring of Ice,1,0,0,2)serial:(167) dur:(66) Ex:(0,1,1,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(12,Food of Jack,0,0,0,0)serial:(15241) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(14,Calice of Jack,0,0,0,0)serial:(15242) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(15,Ring of Magic,0,0,0,0)serial:(160) dur:(65) Ex:(0,0,0,0,1,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(16,SD Potion,5,0,0,0)serial:(150) dur:(5) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(27,Ring of Wizardy,0,0,0,0)serial:(15662) dur:(30) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(30,Item 1348,0,0,0,0)serial:(296875776) dur:(6) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(38,Ring of Poison,0,0,0,0)serial:(165) dur:(65) Ex:(0,1,0,0,1,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(44,Item 1360,0,0,0,0)serial:(16011) dur:(0) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(45,Pendant of Lightning,9,0,0,1)serial:(0) dur:(64) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(46,Ring of Wind,0,0,0,1)serial:(16098) dur:(50) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(53,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(60,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(61,Item 1347,0,0,0,0)serial:(0) dur:(9) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(68,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(78,Nikea Axe,0,1,0,2)serial:(15155) dur:(59) Ex:(0,0,0,0,1,0,0) Set : (0)
+00:02:03 ***0504*** [datga][DatGa] SI(98,Pad Boots,13,0,1,1)serial:(13025) dur:(75) Ex:(0,0,0,0,0,1,0) Set : (0)
+00:02:03 ***0505*** [datga][DatGa] Item Save Complete. Money ( 280368977 )
+00:02:03 [datga][DatGa] CharInfoSave : Class=1 Level=300 LVPoint=389 Exp=95525355 Str=344 Dex=2760 Vit=1030 Energy=3330 Leadership:0 Map=0 Pk=3
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+00:02:44 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+00:02:46 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+00:02:46 [ KANTURU ][ TimeAttackEvent ] Date:20150507, Counter:1
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:03:32 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:74
+00:04:21 connect : [8402][127.0.0.1]
+Connection Closed, dwIoSize == 0 (Index:8402)
+00:04:21 (8402)logout :  [127.0.0.1]
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 3로 이동
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:05:34 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:42 Y:97
+00:05:50 [Devil Square] will close after 15 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:06:35 Experience : Map[0]-(205,142) [datga][DatGa](300) 95525355 2500 MonsterIndex : 2, EventType : 0
+00:06:35 Experience : Map[0]-(205,142) [datga][DatGa](300) 95527855 2500 MonsterIndex : 2, EventType : 0
+00:06:36 Monster Item Drop Request [Spider] [0][205][143] : [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+00:06:36 Monster Item Drop [0][205][143] : serial:16119 [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+00:06:38 Monster Item Drop Request [Spider] [0][199][138] : [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+00:06:38 Monster Item Drop Request [Spider] [0][196][139] : [Short Bow][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+00:06:38 Monster Item Drop [0][199][138] : serial:16120 [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+00:06:38 Monster Item Drop [0][196][139] : serial:16121 [Short Bow][0][1][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+Connection Closed, dwIoSize == 0 (Index:8401)
+00:06:39 [datga][DatGa] Skill Save Complete. 0 67
+00:06:39 [datga][DatGa] Skill Save Complete. 1 68
+00:06:39 [datga][DatGa] Skill Save Complete. 2 69
+00:06:39 [datga][DatGa] Skill Save Complete. 3 70
+00:06:39 [datga][DatGa] Skill Save Complete. 4 71
+00:06:39 [datga][DatGa] Skill Save Complete. 5 17
+00:06:39 [datga][DatGa] Skill Save Complete. 6 45
+00:06:39 [datga][DatGa] Skill Save Complete. 7 9
+00:06:39 [datga][DatGa] Skill Save Complete. 8 6
+00:06:39 [datga][DatGa] Skill Save Complete. 9 10
+00:06:39 [datga][DatGa] Skill Save Complete. 10 38
+00:06:39 [datga][DatGa] Skill Save Complete. 11 13
+00:06:39 [datga][DatGa] Skill Save Complete. 12 14
+00:06:39 [datga][DatGa] Skill Save Complete. 13 39
+00:06:39 [datga][DatGa] Skill Save Complete. 14 15
+00:06:39 [datga][DatGa] Skill Save Complete. 15 3
+00:06:39 ***0504*** [datga][DatGa] SI(0,Grand Soul Staff,13,0,1,7)serial:(634439680) dur:(138) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(1,Grand Soul Shield,13,0,1,7)serial:(-1342932480) dur:(102) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(3,Grand Soul Armor,13,0,0,7)serial:(-462612736) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(4,Grand Soul Pants,13,0,0,7)serial:(569736704) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(5,Grand Soul Gloves,13,0,0,7)serial:(877676800) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(6,Grand Soul Boots,13,0,0,7)serial:(-1723602944) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(7,Wings of Archangel,0,0,1,3)serial:(-523130624) dur:(215) Ex:(1,0,1,1,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(8,Guardian Angel,0,0,0,0)serial:(0) dur:(228) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(9,Pendant of Lightning,1,0,0,0)serial:(166) dur:(66) Ex:(0,0,0,1,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(10,Ring of Ice,1,0,0,2)serial:(167) dur:(66) Ex:(0,1,1,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(12,Food of Jack,0,0,0,0)serial:(15241) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(14,Calice of Jack,0,0,0,0)serial:(15242) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(15,Ring of Magic,0,0,0,0)serial:(160) dur:(65) Ex:(0,0,0,0,1,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(16,SD Potion,5,0,0,0)serial:(150) dur:(5) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(27,Ring of Wizardy,0,0,0,0)serial:(15662) dur:(30) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(30,Item 1348,0,0,0,0)serial:(296875776) dur:(6) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(38,Ring of Poison,0,0,0,0)serial:(165) dur:(65) Ex:(0,1,0,0,1,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(44,Item 1360,0,0,0,0)serial:(16011) dur:(0) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(45,Pendant of Lightning,9,0,0,1)serial:(0) dur:(64) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(46,Ring of Wind,0,0,0,1)serial:(16098) dur:(50) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(53,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(60,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(61,Item 1347,0,0,0,0)serial:(0) dur:(9) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(68,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(78,Nikea Axe,0,1,0,2)serial:(15155) dur:(59) Ex:(0,0,0,0,1,0,0) Set : (0)
+00:06:39 ***0504*** [datga][DatGa] SI(98,Pad Boots,13,0,1,1)serial:(13025) dur:(75) Ex:(0,0,0,0,0,1,0) Set : (0)
+00:06:39 ***0505*** [datga][DatGa] Item Save Complete. Money ( 280368977 )
+00:06:39 [datga][DatGa] CharInfoSave : Class=1 Level=300 LVPoint=389 Exp=95530355 Str=344 Dex=2760 Vit=1030 Energy=3330 Leadership:0 Map=0 Pk=3
+00:06:39 (8401)[datga][DatGa] Character closed
+00:06:39 [CUSTOM QUEST] Save Info [datga][DatGa]
+00:06:39 (8401)logout-send : datga [171.224.8.122]
+00:06:39 (8401)logout :  [171.224.8.122]
+00:06:47 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+00:06:47 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+00:06:57 Item has disappeared(Short Bow:2048/level:0/skill:0/serial:16119)
+00:06:59 Item has disappeared(Small Axe:512/level:0/skill:0/serial:16120)
+00:06:59 Item has disappeared(Short Bow:2048/level:0/skill:24/serial:16121)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:07:35 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:32 Y:96
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:09:37 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:32 Y:92
+00:09:39 [KUNDUN][Status Log] HP:5000000 RefillHP:8090 Map:36 X:32 Y:92
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:10:50 [Devil Square] will close after 10 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:11:41 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:36 Y:91
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:13:42 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:23 Y:83
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:15:44 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:26 Y:76
+00:15:50 [Devil Square] will close after 5 minute(s)
+00:15:50 [DevilSquare] Boss 9 134 81 create 
+00:15:50 [DevilSquare] Boss 9 134 81 create 
+00:15:50 [DevilSquare] Boss 9 134 81 create 
+00:15:50 [DevilSquare] Boss 9 134 81 create 
+00:15:50 [DevilSquare] Boss 9 134 81 create 
+00:15:50 [DevilSquare] Boss 9 141 160 create 
+00:15:50 [DevilSquare] Boss 9 141 160 create 
+00:15:50 [DevilSquare] Boss 9 141 160 create 
+00:15:50 [DevilSquare] Boss 9 141 160 create 
+00:15:50 [DevilSquare] Boss 9 141 160 create 
+00:15:50 [DevilSquare] Boss 9 69 139 create 
+00:15:50 [DevilSquare] Boss 9 69 139 create 
+00:15:50 [DevilSquare] Boss 9 69 139 create 
+00:15:50 [DevilSquare] Boss 9 69 139 create 
+00:15:50 [DevilSquare] Boss 9 69 139 create 
+00:15:50 [DevilSquare] Boss 9 73 75 create 
+00:15:50 [DevilSquare] Boss 9 73 75 create 
+00:15:50 [DevilSquare] Boss 9 73 75 create 
+00:15:50 [DevilSquare] Boss 9 73 75 create 
+00:15:50 [DevilSquare] Boss 9 73 75 create 
+00:15:50 [DevilSquare] Boss 32 140 81 create 
+00:15:50 [DevilSquare] Boss 32 140 81 create 
+00:15:50 [DevilSquare] Boss 32 140 81 create 
+00:15:50 [DevilSquare] Boss 32 140 81 create 
+00:15:50 [DevilSquare] Boss 32 140 81 create 
+00:15:50 [DevilSquare] Boss 32 136 160 create 
+00:15:50 [DevilSquare] Boss 32 136 160 create 
+00:15:50 [DevilSquare] Boss 32 136 160 create 
+00:15:50 [DevilSquare] Boss 32 136 160 create 
+00:15:50 [DevilSquare] Boss 32 136 160 create 
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:17:46 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:50 Y:65
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 2로 이동
+00:19:47 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:49 Y:62
+00:19:49 [KUNDUN][Status Log] HP:5000000 RefillHP:2567 Map:36 X:49 Y:62
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:20:51 [DevilSquare] Close
+00:20:51 [DevilSquare] Sync Open Time. [95]min remain
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:21:51 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:41 Y:53
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(2) -> END
+[ KANTURU ][ BattleStanby ] State(3) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+00:22:44 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:23:53 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:34 Y:67
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+00:24:43 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+00:24:45 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+00:24:45 [ KANTURU ][ TimeAttackEvent ] Date:20150507, Counter:2
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:25:54 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:75
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:27:56 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:37 Y:74
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:29:58 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:73
+00:30:00 [KUNDUN][Status Log] HP:5000000 RefillHP:11243 Map:36 X:32 Y:72
+00:30:00 [Blood Castle] (1) SetState PLAYING
+00:30:00 [Blood Castle] (2) SetState PLAYING
+00:30:00 [Blood Castle] (3) SetState PLAYING
+00:30:00 [Blood Castle] (4) SetState PLAYING
+00:30:00 [Blood Castle] (5) SetState PLAYING
+00:30:00 [Blood Castle] (6) SetState PLAYING
+00:30:00 [Blood Castle] (7) SetState PLAYING
+00:30:01 [Blood Castle] (1) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (1) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (1) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (1) SetState CLOSED
+00:30:01 [Blood Castle] (1) Blood Castle Quest Failed -> Every User Out
+00:30:01 [Blood Castle] (2) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (2) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (2) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (2) SetState CLOSED
+00:30:01 [Blood Castle] (2) Blood Castle Quest Failed -> Every User Out
+00:30:01 [Blood Castle] (3) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (3) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (3) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (3) SetState CLOSED
+00:30:01 [Blood Castle] (3) Blood Castle Quest Failed -> Every User Out
+00:30:01 [Blood Castle] (4) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (4) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (4) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (4) SetState CLOSED
+00:30:01 [Blood Castle] (4) Blood Castle Quest Failed -> Every User Out
+00:30:01 [Blood Castle] (5) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (5) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (5) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (5) SetState CLOSED
+00:30:01 [Blood Castle] (5) Blood Castle Quest Failed -> Every User Out
+00:30:01 [Blood Castle] (6) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (6) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (6) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (6) SetState CLOSED
+00:30:01 [Blood Castle] (6) Blood Castle Quest Failed -> Every User Out
+00:30:01 [Blood Castle] (7) Blood Castle Quest Fail Result -> Destroy Castle Door [][]
+00:30:01 [Blood Castle] (7) Blood Castle Quest Fail Result -> Destroy Saint Status [][]
+00:30:01 [Blood Castle] (7) Sync Open Time. [119] min remain
+00:30:01 [Blood Castle] (7) SetState CLOSED
+00:30:01 [Blood Castle] (7) Blood Castle Quest Failed -> Every User Out
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:32:02 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:26 Y:71
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:34:03 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:24 Y:71
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 1로 이동
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:36:05 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:28 Y:62
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:38:07 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:20 Y:74
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:40:08 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:25 Y:84
+00:40:10 [KUNDUN][Status Log] HP:5000000 RefillHP:4390 Map:36 X:25 Y:84
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:42:12 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:29 Y:85
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:44:14 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:28 Y:80
+[ KANTURU ][ BattleStanby ] State(2) -> END
+[ KANTURU ][ BattleStanby ] State(3) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+00:44:44 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:46:15 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:31 Y:52
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+00:46:43 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+00:46:45 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+00:46:45 [ KANTURU ][ TimeAttackEvent ] Date:20150507, Counter:3
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:48:17 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:26 Y:60
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:50:00 [Event Management] Event Schedule (1) 00 50 (state=0)
+00:50:00 ○●[Event Management] [Start] Attack Event!
+event 2 159 122 create 
+event 2 68 239 create 
+event 3 78 14 create 
+event 0 203 227 create 
+event 0 153 236 create 
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 2로 이동
+00:50:19 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:29 Y:59
+00:50:21 [KUNDUN][Status Log] HP:5000000 RefillHP:1178 Map:36 X:28 Y:59
+00:50:44 connect : [8403][171.224.8.122]
+00:50:46 join send : (8403)datga
+00:50:46 ***0467*** login     : (171.224.8.122)[datga] number:2/ db:19
+00:50:47 error-L2 : Index E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\protocol.cpp 13896
+Same skill already exists. 45 45
+Same skill already exists. 67 67
+Same skill already exists. 68 68
+Same skill already exists. 69 69
+Same skill already exists. 70 70
+Same skill already exists. 71 71
+error-L2: His class is not allowed to use the skill
+(datga)(DatGa) Set Event GM
+00:50:51 (8403)[datga][DatGa] Character select
+00:50:51 [ShieldSystem][CalcSDPoint] [datga][DatGa] user SD Gage : 12582
+00:50:51 [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [datga][DatGa] : MAP-0 / SVR-0 (State Map:0 X:205 Y:142)
+00:50:51 [FRUIT System] [datga][DatGa] (MinusPoint:0/PlusPoint:6277) (MaxMinus:74/MaxPlus:74)
+00:50:51 [FRUIT System] Character Stat Error [datga][DatGa] (MinusPoint:0/PlusPoint:6277) (MaxMinus:74/MaxPlus:74)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(0) name(EmperorScroll) state(None)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(1) name(ClassChange) state(None)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(2) name(HeroStatus) state(None)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(3) name(DarkStone) state(None)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(4) name(Certificate of Strength) state(None)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(5) name(Infiltration of Barracks of Ballgass) state(None)
+00:50:51 [Quest] QuestSave [datga][DatGa] index(6) name(Into The Darkness) state(None)
+[DatGa] Friend List Request
+00:50:51 [CUSTOM QUEST] Request Info [datga][DatGa]
+00:50:51 [CashShop][PeriodItemSelect Ans] Failed - Item over 1 item ID : datga, Name : DatGa
+00:50:51 [CUSTOM QUEST] Info Loaded [datga][DatGa] Group:[0],Index:[1] - Item1:[1], Item2[0], Item3[0]
+00:50:51 [datga][DatGa] [CUSTOM QUEST2] [Group1][Quest:1, State 1], [Group2][Quest:0, State 0], [Group3][Quest:0, State 0]
+[DatGa] Friend List Count (0) Send
+00:51:02 Experience : Map[0]-(201,160) [datga][DatGa](300) 95530355 2500 MonsterIndex : 2, EventType : 0
+Connection Closed, dwIoSize == 0 (Index:8403)
+00:51:03 [datga][DatGa] Skill Save Complete. 0 67
+00:51:03 [datga][DatGa] Skill Save Complete. 1 68
+00:51:03 [datga][DatGa] Skill Save Complete. 2 69
+00:51:03 [datga][DatGa] Skill Save Complete. 3 70
+00:51:03 [datga][DatGa] Skill Save Complete. 4 71
+00:51:03 [datga][DatGa] Skill Save Complete. 5 17
+00:51:03 [datga][DatGa] Skill Save Complete. 6 45
+00:51:03 [datga][DatGa] Skill Save Complete. 7 9
+00:51:03 [datga][DatGa] Skill Save Complete. 8 6
+00:51:03 [datga][DatGa] Skill Save Complete. 9 10
+00:51:03 [datga][DatGa] Skill Save Complete. 10 38
+00:51:03 [datga][DatGa] Skill Save Complete. 11 13
+00:51:03 [datga][DatGa] Skill Save Complete. 12 14
+00:51:03 [datga][DatGa] Skill Save Complete. 13 39
+00:51:03 [datga][DatGa] Skill Save Complete. 14 15
+00:51:03 [datga][DatGa] Skill Save Complete. 15 3
+00:51:03 ***0504*** [datga][DatGa] SI(0,Grand Soul Staff,13,0,1,7)serial:(634439680) dur:(138) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(1,Grand Soul Shield,13,0,1,7)serial:(-1342932480) dur:(102) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(3,Grand Soul Armor,13,0,0,7)serial:(-462612736) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(4,Grand Soul Pants,13,0,0,7)serial:(569736704) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(5,Grand Soul Gloves,13,0,0,7)serial:(877676800) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(6,Grand Soul Boots,13,0,0,7)serial:(-1723602944) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(7,Wings of Archangel,0,0,1,3)serial:(-523130624) dur:(215) Ex:(1,0,1,1,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(8,Guardian Angel,0,0,0,0)serial:(0) dur:(228) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(9,Pendant of Lightning,1,0,0,0)serial:(166) dur:(66) Ex:(0,0,0,1,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(10,Ring of Ice,1,0,0,2)serial:(167) dur:(66) Ex:(0,1,1,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(12,Food of Jack,0,0,0,0)serial:(15241) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(14,Calice of Jack,0,0,0,0)serial:(15242) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(15,Ring of Magic,0,0,0,0)serial:(160) dur:(65) Ex:(0,0,0,0,1,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(16,SD Potion,5,0,0,0)serial:(150) dur:(5) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(27,Ring of Wizardy,0,0,0,0)serial:(15662) dur:(30) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(30,Item 1348,0,0,0,0)serial:(296875776) dur:(6) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(38,Ring of Poison,0,0,0,0)serial:(165) dur:(65) Ex:(0,1,0,0,1,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(44,Item 1360,0,0,0,0)serial:(16011) dur:(0) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(45,Pendant of Lightning,9,0,0,1)serial:(0) dur:(64) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(46,Ring of Wind,0,0,0,1)serial:(16098) dur:(50) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(53,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(60,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(61,Item 1347,0,0,0,0)serial:(0) dur:(9) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(68,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(78,Nikea Axe,0,1,0,2)serial:(15155) dur:(59) Ex:(0,0,0,0,1,0,0) Set : (0)
+00:51:03 ***0504*** [datga][DatGa] SI(98,Pad Boots,13,0,1,1)serial:(13025) dur:(75) Ex:(0,0,0,0,0,1,0) Set : (0)
+00:51:03 ***0505*** [datga][DatGa] Item Save Complete. Money ( 280368977 )
+00:51:03 [datga][DatGa] CharInfoSave : Class=1 Level=300 LVPoint=389 Exp=95532855 Str=344 Dex=2760 Vit=1030 Energy=3330 Leadership:0 Map=0 Pk=3
+00:51:03 (8403)[datga][DatGa] Character closed
+00:51:03 [CUSTOM QUEST] Save Info [datga][DatGa]
+00:51:03 (8403)logout-send : datga [171.224.8.122]
+00:51:03 (8403)logout :  [171.224.8.122]
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:51:14 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:52:22 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:30 Y:49
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:54:24 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:53
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:56:26 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:40 Y:56
+00:56:55 connect : [8404][127.0.0.1]
+Connection Closed, dwIoSize == 0 (Index:8404)
+00:56:55 (8404)logout :  [127.0.0.1]
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:58:27 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:47 Y:72
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+00:59:49 connect : [8405][171.224.8.122]
+00:59:58 join send : (8405)datga
+00:59:58 ***0467*** login     : (171.224.8.122)[datga] number:4/ db:19
+00:59:58 error-L2 : Index E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\protocol.cpp 13896
+Same skill already exists. 45 45
+Same skill already exists. 67 67
+Same skill already exists. 68 68
+Same skill already exists. 69 69
+Same skill already exists. 70 70
+Same skill already exists. 71 71
+error-L2: His class is not allowed to use the skill
+(datga)(DatGa) Set Event GM
+01:00:06 (8405)[datga][DatGa] Character select
+01:00:06 [ShieldSystem][CalcSDPoint] [datga][DatGa] user SD Gage : 12582
+01:00:06 [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [datga][DatGa] : MAP-0 / SVR-0 (State Map:0 X:201 Y:160)
+01:00:06 [FRUIT System] [datga][DatGa] (MinusPoint:0/PlusPoint:6277) (MaxMinus:74/MaxPlus:74)
+01:00:06 [FRUIT System] Character Stat Error [datga][DatGa] (MinusPoint:0/PlusPoint:6277) (MaxMinus:74/MaxPlus:74)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(0) name(EmperorScroll) state(None)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(1) name(ClassChange) state(None)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(2) name(HeroStatus) state(None)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(3) name(DarkStone) state(None)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(4) name(Certificate of Strength) state(None)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(5) name(Infiltration of Barracks of Ballgass) state(None)
+01:00:06 [Quest] QuestSave [datga][DatGa] index(6) name(Into The Darkness) state(None)
+[DatGa] Friend List Request
+01:00:06 [CUSTOM QUEST] Request Info [datga][DatGa]
+01:00:06 [CashShop][PeriodItemSelect Ans] Failed - Item over 1 item ID : datga, Name : DatGa
+[DatGa] Friend List Count (0) Send
+01:00:06 [CUSTOM QUEST] Info Loaded [datga][DatGa] Group:[0],Index:[1] - Item1:[1], Item2[0], Item3[0]
+01:00:06 [datga][DatGa] [CUSTOM QUEST2] [Group1][Quest:1, State 1], [Group2][Quest:0, State 0], [Group3][Quest:0, State 0]
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:00:29 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:43 Y:78
+01:00:31 [KUNDUN][Status Log] HP:5000000 RefillHP:3158 Map:36 X:41 Y:76
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:02:33 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:28 Y:75
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:04:35 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:20 Y:72
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 0로 이동
+01:05:28 connect : [8406][127.0.0.1]
+Connection Closed, dwIoSize == 0 (Index:8406)
+01:05:28 (8406)logout :  [127.0.0.1]
+[ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:06:36 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:23 Y:81
+[ KANTURU ][ BattleStanby ] State(2) -> END
+[ KANTURU ][ BattleStanby ] State(3) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:06:43 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:08:38 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:27 Y:74
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:08:42 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:08:44 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+01:08:45 [ KANTURU ][ TimeAttackEvent ] Date:20150507, Counter:4
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+Connection Closed, dwIoSize == 0 (Index:8405)
+01:09:43 [datga][DatGa] Skill Save Complete. 0 67
+01:09:43 [datga][DatGa] Skill Save Complete. 1 68
+01:09:43 [datga][DatGa] Skill Save Complete. 2 69
+01:09:43 [datga][DatGa] Skill Save Complete. 3 70
+01:09:43 [datga][DatGa] Skill Save Complete. 4 71
+01:09:43 [datga][DatGa] Skill Save Complete. 5 17
+01:09:43 [datga][DatGa] Skill Save Complete. 6 45
+01:09:43 [datga][DatGa] Skill Save Complete. 7 9
+01:09:43 [datga][DatGa] Skill Save Complete. 8 6
+01:09:43 [datga][DatGa] Skill Save Complete. 9 10
+01:09:43 [datga][DatGa] Skill Save Complete. 10 38
+01:09:43 [datga][DatGa] Skill Save Complete. 11 13
+01:09:43 [datga][DatGa] Skill Save Complete. 12 14
+01:09:43 [datga][DatGa] Skill Save Complete. 13 39
+01:09:43 [datga][DatGa] Skill Save Complete. 14 15
+01:09:43 [datga][DatGa] Skill Save Complete. 15 3
+01:09:43 ***0504*** [datga][DatGa] SI(0,Grand Soul Staff,13,0,1,7)serial:(634439680) dur:(138) Ex:(1,1,1,1,1,1,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(1,Grand Soul Shield,13,0,1,7)serial:(-1342932480) dur:(102) Ex:(1,1,1,1,1,1,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(3,Grand Soul Armor,13,0,0,7)serial:(-462612736) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(4,Grand Soul Pants,13,0,0,7)serial:(569736704) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(5,Grand Soul Gloves,13,0,0,7)serial:(877676800) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(6,Grand Soul Boots,13,0,0,7)serial:(-1723602944) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(7,Wings of Archangel,0,0,1,3)serial:(-523130624) dur:(215) Ex:(1,0,1,1,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(8,Guardian Angel,0,0,0,0)serial:(0) dur:(225) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(9,Pendant of Lightning,1,0,0,0)serial:(166) dur:(66) Ex:(0,0,0,1,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(10,Ring of Ice,1,0,0,2)serial:(167) dur:(66) Ex:(0,1,1,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(12,Food of Jack,0,0,0,0)serial:(15241) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(14,Calice of Jack,0,0,0,0)serial:(15242) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(15,Ring of Magic,0,0,0,0)serial:(160) dur:(65) Ex:(0,0,0,0,1,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(16,SD Potion,5,0,0,0)serial:(150) dur:(5) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(27,Ring of Wizardy,0,0,0,0)serial:(15662) dur:(30) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(30,Item 1348,0,0,0,0)serial:(296875776) dur:(6) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(38,Ring of Poison,0,0,0,0)serial:(165) dur:(65) Ex:(0,1,0,0,1,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(44,Item 1360,0,0,0,0)serial:(16011) dur:(0) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(45,Pendant of Lightning,9,0,0,1)serial:(0) dur:(64) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(46,Ring of Wind,0,0,0,1)serial:(16098) dur:(50) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(53,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(60,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(61,Item 1347,0,0,0,0)serial:(0) dur:(9) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(68,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(78,Nikea Axe,0,1,0,2)serial:(15155) dur:(59) Ex:(0,0,0,0,1,0,0) Set : (0)
+01:09:43 ***0504*** [datga][DatGa] SI(98,Pad Boots,13,0,1,1)serial:(13025) dur:(75) Ex:(0,0,0,0,0,1,0) Set : (0)
+01:09:43 ***0505*** [datga][DatGa] Item Save Complete. Money ( 280368977 )
+01:09:43 [datga][DatGa] CharInfoSave : Class=1 Level=300 LVPoint=389 Exp=95532855 Str=344 Dex=2760 Vit=1030 Energy=3330 Leadership:0 Map=0 Pk=3
+01:09:43 (8405)[datga][DatGa] Character closed
+01:09:43 [CUSTOM QUEST] Save Info [datga][DatGa]
+01:09:43 (8405)logout-send : datga [171.224.8.122]
+01:09:43 (8405)logout :  [171.224.8.122]
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:10:40 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:28 Y:61
+01:10:42 [KUNDUN][Status Log] HP:5000000 RefillHP:14590 Map:36 X:27 Y:60
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:12:43 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:26 Y:64
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:14:45 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:32 Y:76
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:16:47 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:23 Y:71
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:18:48 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:28 Y:80
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 3로 이동
+01:20:50 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:26 Y:83
+01:20:52 [KUNDUN][Status Log] HP:5000000 RefillHP:6395 Map:36 X:26 Y:83
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:22:54 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:40 Y:104
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:24:55 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:43 Y:104
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:26:57 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:101
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(2) -> END
+[ KANTURU ][ BattleStanby ] State(3) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:28:43 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:28:59 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:37 Y:99
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:30:42 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:30:44 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+01:30:44 [ KANTURU ][ TimeAttackEvent ] Date:20150507, Counter:5
+01:31:00 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:98
+01:31:02 [KUNDUN][Status Log] HP:5000000 RefillHP:7595 Map:36 X:33 Y:97
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:33:04 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:45 Y:86
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:35:06 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:52 Y:99
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 2로 이동
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:37:07 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:40 Y:87
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:39:09 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:21 Y:74
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:40:57 15 minute(s) left before Devil Square opens!
+01:41:11 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:31 Y:64
+01:41:13 [KUNDUN][Status Log] HP:5000000 RefillHP:13557 Map:36 X:28 Y:66
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:43:15 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:29 Y:61
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:45:16 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:26 Y:74
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:45:57 10 minute(s) left before Devil Square opens!
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:47:18 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:45 Y:62
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:49:20 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:40 Y:60
+[ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(2) -> END
+[ KANTURU ][ BattleStanby ] State(3) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:50:42 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:50:57 5 minute(s) left before Devil Square opens!
+NPC 0로 이동
+01:51:21 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:73
+01:51:23 [KUNDUN][Status Log] HP:5000000 RefillHP:2093 Map:36 X:31 Y:75
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:52:41 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:52:43 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+01:52:44 [ KANTURU ][ TimeAttackEvent ] Date:20150507, Counter:6
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:53:25 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:25 Y:83
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:55:27 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:24 Y:86
+01:55:58 [Devil Square] The gates of Devil Square are open!
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:56:58 [Devil Square] will start after 4 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:57:28 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:27 Y:71
+01:57:58 [Devil Square] will start after 3 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:58:58 [Devil Square] will start after 2 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+01:59:30 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:32 Y:88
+01:59:58 [Devil Square] will start after 1 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+02:00:58 [DevilSquare] Start Event
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+02:01:32 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:34 Y:78
+02:01:34 [KUNDUN][Status Log] HP:5000000 RefillHP:6965 Map:36 X:36 Y:79
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+02:03:35 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:78
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+02:05:37 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:36 Y:91
+02:05:58 [Devil Square] will close after 15 minute(s)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 1로 이동
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+02:07:39 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:45 Y:81
+Game server closed because Authentication server is closed.
+[ShopServer] - Disconnect From Shop Server!!
+Gamer server closed because Data server is closed.
+02:07:59 Error-L1 : Friend Server Down (State Send Ok)
+Error-L1 : Friend Server Down (State Send Ok)
+Active DB Change
+Active DB Change
+error-L3 : 10054 (E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\wsJoinServerCli.cpp 132)
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+[CashShop][ShopServer] - Disconnect From Shop Server!!
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55960 )
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55962 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+02:08:14 Can not connect Ranking Server
+[CashShop][ShopServer] - Disconnect From Shop Server!!
+Active DB Change
+Active DB Change
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55960 )
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55962 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+Active DB Change
+[CashShop][ShopServer] - Disconnect From Shop Server!!
+Active DB Change
+Active DB Change
+Whole connection closed

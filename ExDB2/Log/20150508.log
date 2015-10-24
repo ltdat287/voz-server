@@ -1,0 +1,56 @@
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_CGuid]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendList]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMail]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMain]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[T_WaitFriend]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WriteMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_DelMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a exec WZ_Get_DBID
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[Guild]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[GuildMember]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+08:23:53a select count(*) from Guild
+08:23:53a select count(*) from Guild
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[MuCastle_SIEGE_GUILDLIST]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+08:23:53a select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_CS_CheckSiegeGuildList]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+ GuildOnOff system : 0 Count: 1
+08:23:53a SELECT * FROM Guild
+[Kinggggg] Create Guild  Master = BinhDuong
+08:23:53a SELECT * FROM GuildMember where G_Name = 'Kinggggg'
+[TEST] Create Guild  Master = test1
+08:23:53a SELECT * FROM GuildMember where G_Name = 'TEST'
+Total 2 / Guild data load complete. 15(ms)
+ GuildOnOff system : 1 Count: 0
+08:23:54a ExDB Server Start!!
+Server Connect : index: (0)
+08:23:57a ChatServer Connected : (127.0.0.1) 0
+Server Connect : index: (1)
+08:34:15a GameServer Connected (VOZ) : 1
+09:10:10a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+09:10:10a Friend Login request : DatGa 8402 server:0
+[8402] New Friend Master = DatGa
+09:10:10a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+09:10:10a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+09:10:10a SELECT FriendName FROM T_WaitFriend where GUID=2053
+09:10:10a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+09:13:04a Friend LogOut Queue Name: ( DatGa )
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:13:45a GameServer Connected (VOZ) : 1
+09:14:08a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+09:14:08a Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+09:14:08a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+09:14:08a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+09:14:08a SELECT FriendName FROM T_WaitFriend where GUID=2053
+09:14:08a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+09:17:40a Friend LogOut Queue Name: ( DatGa )
+09:18:00a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+09:18:00a Friend Login request : DatGa 8401 server:0
+[8401] New Friend Master = DatGa
+09:18:

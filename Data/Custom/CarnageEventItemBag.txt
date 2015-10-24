@@ -1,0 +1,105 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Nightmare Drop Settings                                                     ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Nightmare"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+								
+
+//엑설런트 무기류									
+        0	22	0	0	1	1	0	1	//"Sword of Destruction"
+        0	23	0	0	1	1	0	1	//"Sword of Destruction"
+        2	14	0	0	1	1	0	1	//"Sword of Destruction"
+        4	21	0	0	1	1	0	1	//"Sword of Destruction"
+        5	12	0	0	1	1	0	1	//"Sword of Destruction"
+	6	13	0	0	1	1	0	1	//"Chaos Dragon Shield"
+	6	17	0	0	1	1	0	1	//"Elemental Shield"
+        6	16	0	0	1	1	0	1	//"Elemental Shield"
+									
+	
+	7	21	0	0	0	1	0	1	//"Great Dragon Boots"
+	8	21	0	0	0	1	0	1	//"Great Dragon Gloves"
+	9	21	0	0	0	1	0	1	//"Great Dragon Boots"
+	10	21	0	0	0	1	0	1	//"Great Dragon Gloves"
+	11	21	0	0	0	1	0	1	//"Great Dragon Boots"
+
+	7	22	0	0	0	1	0	1	//"Dark Soul gloves"
+	8	22	0	0	0	1	0	1	//"Dark Soul boots"
+	9	22	0	0	0	1	0	1	//"Dark Soul gloves"
+	10	22	0	0	0	1	0	1	//"Dark Soul boots"
+	11	22	0	0	0	1	0	1	//"Dark Soul gloves"
+
+	7	24	0	0	0	1	0	1	//"Red Spirit gloves"
+	8	24	0	0	0	1	0	1	//"Red Spirit bots"
+	9	24	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	24	0	0	0	1	0	1	//"Red Spirit bots"
+	11	24	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	7	28	0	0	0	1	0	1	//"Red Spirit gloves"
+	8	28	0	0	0	1	0	1	//"Red Spirit bots"
+	9	28	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	28	0	0	0	1	0	1	//"Red Spirit bots"
+	11	28	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	8	23	0	0	0	1	0	1	//"Red Spirit bots"
+	9	23	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	23	0	0	0	1	0	1	//"Red Spirit bots"
+	11	23	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	7	29	0	0	0	1	0	1	//"Red Spirit gloves"
+	8	29	0	0	0	1	0	1	//"Red Spirit bots"
+	9	29	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	29	0	0	0	1	0	1	//"Red Spirit bots"
+	11	29	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	7	30	0	0	0	1	0	1	//"Red Spirit gloves"
+	8	30	0	0	0	1	0	1	//"Red Spirit bots"
+	9	30	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	30	0	0	0	1	0	1	//"Red Spirit bots"
+	11	30	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	7	31	0	0	0	1	0	1	//"Red Spirit gloves"
+	8	31	0	0	0	1	0	1	//"Red Spirit bots"
+	9	31	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	31	0	0	0	1	0	1	//"Red Spirit bots"
+	11	31	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	7	33	0	0	0	1	0	1	//"Red Spirit gloves"
+	8	33	0	0	0	1	0	1	//"Red Spirit bots"
+	9	33	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	33	0	0	0	1	0	1	//"Red Spirit bots"
+	11	33	0	0	0	1	0	1	//"Red Spirit gloves"
+
+	8	32	0	0	0	1	0	1	//"Red Spirit bots"
+	9	32	0	0	0	1	0	1	//"Red Spirit gloves"
+	10	32	0	0	0	1	0	1	//"Red Spirit bots"
+	11	32	0	0	0	1	0	1	//"Red Spirit gloves"
+
+end									

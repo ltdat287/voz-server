@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="G:\MuServer\ALL\JoinServer\eDataServer2.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\ALL\EventRanking\eDataServer2.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\ALL\JoinServer1000\eDataServer2.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x25\eDataServer1\eDataServer2.exe" Parameters="55960 1" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x25\eDataServer2\eDataServer2.exe" Parameters="55962 2" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x25\ChatServer\ChatServer.exe" Parameters="127.0.0.1" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x25\ExDB\ExDB.exe" Parameters="127.0.0.1 55906" />
+  <Process Run="True" Delay="5000" Path="G:\MuServer\x25\Gameserver\GameServer.exe" Parameters="127.0.0.1 55970 127.0.0.1 55960 55901" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x1000\eDataServer1\eDataServer2.exe" Parameters="55964 1" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x1000\eDataServer2\eDataServer2.exe" Parameters="55966 2" />
+  <Process Run="True" Delay="1000" Path="G:\MuServer\x1000\ExDB\ExDB.exe" Parameters="127.0.0.1 55915" />
+  <Process Run="True" Delay="5000" Path="G:\MuServer\x1000\Gameserver\GameServer.exe" Parameters="127.0.0.1 55977 127.0.0.1 55964 55921 127.0.0.1 55966 127.0.0.1 55915" />
+</Processes>

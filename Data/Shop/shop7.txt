@@ -1,0 +1,28 @@
+// ----------------------------	//
+//	Isabella The Wizard	//
+//------------------------------//
+
+//--------------------------------------------------------------------------------------//
+//	Type	Index	Level	Dur	Skill	Luck	Opt				//
+//--------------------------------------------------------------------------------------//
+14  1 0  30 0 0 0 //Small Healing
+14  2 0  30 0 0 0 //Medium Heal
+14  3 0  30 0 0 0 //Large Healing
+14  3 0  60 0 0 0 //Large Healing
+14  4 0  30 0 0 0 //Small Mana
+14  5 0  30 0 0 0 //Medium Mana
+14  6 0  30 0 0 0 //Large Mana
+14  6 0  60 0 0 0 //Large Mana
+	7 	3 	3 	0 	0 	1 	1 	// Legendary Helm +3
+	8 	3 	3	0 	0 	1 	1 	// Legendary Armor +3
+	9 	3 	3	0 	0 	1 	1 	// Legendary Pants +3
+	10	3 	3	0 	0 	1 	1 	// Legendary Gloves +3
+	11 	3 	3	0	0 	1 	1 	// Legendary Boots +3
+	14 	10 	0 	0	0 	0 	0 	// Town Portal Scroll
+	13 	29 	0 	0	0 	0 	0 	// Armor of Guardman
+	5 	4 	3 	0 	0 	1 	1 	// Gorgon Staff +3 
+	5	5	3	0	0	1	1	// Legendary Staff +3
+	6	14	3	0	0	1	1	// Legendary Shield +3
+	15 	4 	0 	0 	0 	0 	0 	// Scroll of Flame
+	15 	7 	0 	0	0 	0 	0 	// Scroll of twister
+end

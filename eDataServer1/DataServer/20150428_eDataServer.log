@@ -1,0 +1,283 @@
+[ MuOnline ] connection successful !
+[ DataServer ] created on port [ 55960 ]
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+EXEC WZ_CS_GetCastleTotalInfo 0, 7
+EXEC WZ_CS_GetCastleNpcInfo 0
+EXEC WZ_CW_InfoLoad 0
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+SELECT ItemCount FROM GameServerInfo WHERE Number = 0
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Connect 
+SELECT Summoner FROM AccountCharacter WHERE Id = 'datga'
+SELECT * FROM AccountCharacter WHERE Id = 'datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='dddddd'
+SELECT G_Status FROM GuildMember WHERE Name='dddddd'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='test1'
+SELECT G_Status FROM GuildMember WHERE Name='test1'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'datga'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+UPDATE Character SET cLevel=2,Class=1,LevelUpPoint=5, Experience=100, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2730.000000, MaxLife=2370.000000, Mana=11724.000000, MaxMana=1084.000000, MapNumber=0, MapPosX=185, MapPosY=127, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=3,Class=1,LevelUpPoint=10, Experience=440, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2740.000000, MaxLife=2380.000000, Mana=11744.000000, MaxMana=1104.000000, MapNumber=0, MapPosX=187, MapPosY=124, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=4,Class=1,LevelUpPoint=15, Experience=1080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2750.000000, MaxLife=2390.000000, Mana=11764.000000, MaxMana=1124.000000, MapNumber=0, MapPosX=193, MapPosY=122, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=5,Class=1,LevelUpPoint=20, Experience=2080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2760.000000, MaxLife=2400.000000, Mana=11784.000000, MaxMana=1144.000000, MapNumber=0, MapPosX=196, MapPosY=121, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=6,Class=1,LevelUpPoint=25, Experience=3500, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2770.000000, MaxLife=2410.000000, Mana=11804.000000, MaxMana=1164.000000, MapNumber=0, MapPosX=198, MapPosY=129, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=7,Class=1,LevelUpPoint=30, Experience=5400, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2780.000000, MaxLife=2420.000000, Mana=11824.000000, MaxMana=1184.000000, MapNumber=0, MapPosX=198, MapPosY=132, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=8,Class=1,LevelUpPoint=35, Experience=7840, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2790.000000, MaxLife=2430.000000, Mana=11844.000000, MaxMana=1204.000000, MapNumber=0, MapPosX=195, MapPosY=144, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=9,Class=1,LevelUpPoint=40, Experience=10880, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2800.000000, MaxLife=2440.000000, Mana=11864.000000, MaxMana=1224.000000, MapNumber=0, MapPosX=192, MapPosY=153, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=10,Class=1,LevelUpPoint=45, Experience=14580, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2810.000000, MaxLife=2450.000000, Mana=11924.000000, MaxMana=1244.000000, MapNumber=0, MapPosX=189, MapPosY=157, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=11,Class=1,LevelUpPoint=50, Experience=19000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2820.000000, MaxLife=2460.000000, Mana=11944.000000, MaxMana=1264.000000, MapNumber=0, MapPosX=189, MapPosY=161, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=12,Class=1,LevelUpPoint=55, Experience=24200, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2830.000000, MaxLife=2470.000000, Mana=11964.000000, MaxMana=1284.000000, MapNumber=0, MapPosX=185, MapPosY=161, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=13,Class=1,LevelUpPoint=60, Experience=30240, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2840.000000, MaxLife=2480.000000, Mana=11984.000000, MaxMana=1304.000000, MapNumber=0, MapPosX=185, MapPosY=161, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=14,Class=1,LevelUpPoint=65, Experience=37180, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2850.000000, MaxLife=2490.000000, Mana=12004.000000, MaxMana=1324.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=15,Class=1,LevelUpPoint=70, Experience=45080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2860.000000, MaxLife=2500.000000, Mana=12024.000000, MaxMana=1344.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=16,Class=1,LevelUpPoint=75, Experience=54000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2910.000000, MaxLife=2510.000000, Mana=12044.000000, MaxMana=1364.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=17,Class=1,LevelUpPoint=80, Experience=64000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2920.000000, MaxLife=2520.000000, Mana=12064.000000, MaxMana=1384.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=18,Class=1,LevelUpPoint=85, Experience=75140, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2930.000000, MaxLife=2530.000000, Mana=12084.000000, MaxMana=1404.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=19,Class=1,LevelUpPoint=90, Experience=87480, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2940.000000, MaxLife=2540.000000, Mana=12104.000000, MaxMana=1424.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=20,Class=1,LevelUpPoint=95, Experience=101080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2950.000000, MaxLife=2550.000000, Mana=12124.000000, MaxMana=1444.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=21,Class=1,LevelUpPoint=100, Experience=116000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483893222, Life=2960.000000, MaxLife=2560.000000, Mana=12144.000000, MaxMana=1464.000000, MapNumber=0, MapPosX=187, MapPosY=160, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=22,Class=1,LevelUpPoint=105, Experience=132300, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483883222, Life=2970.000000, MaxLife=2570.000000, Mana=12204.000000, MaxMana=1484.000000, MapNumber=3, MapPosX=195, MapPosY=169, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=23,Class=1,LevelUpPoint=110, Experience=150040, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483883222, Life=2980.000000, MaxLife=2580.000000, Mana=12224.000000, MaxMana=1504.000000, MapNumber=3, MapPosX=182, MapPosY=170, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=24,Class=1,LevelUpPoint=115, Experience=169280, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483873222, Life=2990.000000, MaxLife=2590.000000, Mana=12244.000000, MaxMana=1524.000000, MapNumber=0, MapPosX=123, MapPosY=174, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=25,Class=1,LevelUpPoint=120, Experience=190080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3000.000000, MaxLife=2600.000000, Mana=12264.000000, MaxMana=1544.000000, MapNumber=0, MapPosX=136, MapPosY=195, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=26,Class=1,LevelUpPoint=125, Experience=212500, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3010.000000, MaxLife=2610.000000, Mana=12284.000000, MaxMana=1564.000000, MapNumber=0, MapPosX=139, MapPosY=215, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=27,Class=1,LevelUpPoint=130, Experience=236600, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3020.000000, MaxLife=2620.000000, Mana=12304.000000, MaxMana=1584.000000, MapNumber=0, MapPosX=139, MapPosY=215, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=28,Class=1,LevelUpPoint=135, Experience=262440, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3030.000000, MaxLife=2630.000000, Mana=12324.000000, MaxMana=1604.000000, MapNumber=0, MapPosX=139, MapPosY=215, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=29,Class=1,LevelUpPoint=140, Experience=290080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3040.000000, MaxLife=2640.000000, Mana=12344.000000, MaxMana=1624.000000, MapNumber=0, MapPosX=136, MapPosY=221, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=30,Class=1,LevelUpPoint=145, Experience=319580, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3050.000000, MaxLife=2650.000000, Mana=12364.000000, MaxMana=1644.000000, MapNumber=0, MapPosX=136, MapPosY=216, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=31,Class=1,LevelUpPoint=150, Experience=351000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483875543, Life=3060.000000, MaxLife=2660.000000, Mana=12384.000000, MaxMana=1664.000000, MapNumber=0, MapPosX=142, MapPosY=219, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=32,Class=1,LevelUpPoint=155, Experience=384400, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483855543, Life=3070.000000, MaxLife=2670.000000, Mana=12404.000000, MaxMana=1684.000000, MapNumber=2, MapPosX=242, MapPosY=84, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=32,Class=1,LevelUpPoint=155, Experience=392100, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483855543, Life=3070.000000, MaxLife=2670.000000, Mana=47393.000000, MaxMana=1684.000000, MapNumber=2, MapPosX=242, MapPosY=84, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=33,Class=1,LevelUpPoint=160, Experience=419840, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483855543, Life=3080.000000, MaxLife=2680.000000, Mana=12424.000000, MaxMana=1704.000000, MapNumber=2, MapPosX=215, MapPosY=114, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=34,Class=1,LevelUpPoint=165, Experience=457380, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483861334, Life=3090.000000, MaxLife=2690.000000, Mana=12444.000000, MaxMana=1724.000000, MapNumber=2, MapPosX=203, MapPosY=150, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=35,Class=1,LevelUpPoint=170, Experience=497080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483861334, Life=3100.000000, MaxLife=2700.000000, Mana=12504.000000, MaxMana=1744.000000, MapNumber=2, MapPosX=188, MapPosY=150, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=36,Class=1,LevelUpPoint=175, Experience=539000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483861334, Life=3110.000000, MaxLife=2710.000000, Mana=12524.000000, MaxMana=1764.000000, MapNumber=2, MapPosX=188, MapPosY=163, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=37,Class=1,LevelUpPoint=180, Experience=583200, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483861334, Life=3120.000000, MaxLife=2720.000000, Mana=12544.000000, MaxMana=1784.000000, MapNumber=2, MapPosX=199, MapPosY=178, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=38,Class=1,LevelUpPoint=185, Experience=629740, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483861334, Life=3130.000000, MaxLife=2730.000000, Mana=12564.000000, MaxMana=1804.000000, MapNumber=2, MapPosX=197, MapPosY=222, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=39,Class=1,LevelUpPoint=190, Experience=678680, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483861334, Life=3140.000000, MaxLife=2740.000000, Mana=12584.000000, MaxMana=1824.000000, MapNumber=2, MapPosX=197, MapPosY=222, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=40,Class=1,LevelUpPoint=195, Experience=730080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483899174, Life=3150.000000, MaxLife=2750.000000, Mana=12604.000000, MaxMana=1844.000000, MapNumber=2, MapPosX=197, MapPosY=232, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=41,Class=1,LevelUpPoint=200, Experience=784000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483899174, Life=3200.000000, MaxLife=2760.000000, Mana=12624.000000, MaxMana=1864.000000, MapNumber=2, MapPosX=197, MapPosY=230, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=42,Class=1,LevelUpPoint=205, Experience=840500, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483916755, Life=3210.000000, MaxLife=2770.000000, Mana=12644.000000, MaxMana=1884.000000, MapNumber=2, MapPosX=201, MapPosY=239, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=43,Class=1,LevelUpPoint=210, Experience=899640, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483923093, Life=3220.000000, MaxLife=2780.000000, Mana=12664.000000, MaxMana=1904.000000, MapNumber=2, MapPosX=199, MapPosY=239, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=44,Class=1,LevelUpPoint=215, Experience=961480, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483935051, Life=3230.000000, MaxLife=2790.000000, Mana=12684.000000, MaxMana=1924.000000, MapNumber=2, MapPosX=199, MapPosY=242, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=45,Class=1,LevelUpPoint=220, Experience=1026080, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3240.000000, MaxLife=2800.000000, Mana=12704.000000, MaxMana=1944.000000, MapNumber=2, MapPosX=198, MapPosY=240, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=46,Class=1,LevelUpPoint=225, Experience=1093500, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3250.000000, MaxLife=2810.000000, Mana=12724.000000, MaxMana=1964.000000, MapNumber=2, MapPosX=199, MapPosY=240, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=47,Class=1,LevelUpPoint=230, Experience=1163800, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3260.000000, MaxLife=2820.000000, Mana=12784.000000, MaxMana=1984.000000, MapNumber=2, MapPosX=199, MapPosY=240, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=48,Class=1,LevelUpPoint=235, Experience=1237040, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3270.000000, MaxLife=2830.000000, Mana=12804.000000, MaxMana=2004.000000, MapNumber=2, MapPosX=199, MapPosY=240, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=49,Class=1,LevelUpPoint=240, Experience=1313280, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3280.000000, MaxLife=2840.000000, Mana=12824.000000, MaxMana=2024.000000, MapNumber=2, MapPosX=199, MapPosY=240, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=50,Class=1,LevelUpPoint=245, Experience=1392580, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3290.000000, MaxLife=2850.000000, Mana=12844.000000, MaxMana=2044.000000, MapNumber=2, MapPosX=199, MapPosY=240, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=51,Class=1,LevelUpPoint=250, Experience=1475000, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483941810, Life=3300.000000, MaxLife=2860.000000, Mana=12864.000000, MaxMana=2064.000000, MapNumber=2, MapPosX=199, MapPosY=240, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=52,Class=1,LevelUpPoint=255, Experience=1560600, Strength=330, Dexterity=2518, Vitality=103, Energy=3330, Money=483947862, Life=3810.000000, MaxLife=2870.000000, Mana=12884.000000, MaxMana=2084.000000, MapNumber=2, MapPosX=198, MapPosY=242, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=53,Class=1,LevelUpPoint=5, Experience=1649440, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483918646, Life=3930.000000, MaxLife=2880.000000, Mana=15604.000000, MaxMana=2104.000000, MapNumber=1, MapPosX=108, MapPosY=240, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=54,Class=1,LevelUpPoint=10, Experience=1741580, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483946902, Life=3940.000000, MaxLife=2890.000000, Mana=15624.000000, MaxMana=2124.000000, MapNumber=1, MapPosX=106, MapPosY=222, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=55,Class=1,LevelUpPoint=15, Experience=1837080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483946902, Life=3950.000000, MaxLife=2900.000000, Mana=15644.000000, MaxMana=2144.000000, MapNumber=1, MapPosX=99, MapPosY=223, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=56,Class=1,LevelUpPoint=20, Experience=1936000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483946902, Life=3960.000000, MaxLife=2910.000000, Mana=15664.000000, MaxMana=2164.000000, MapNumber=1, MapPosX=82, MapPosY=215, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=57,Class=1,LevelUpPoint=25, Experience=2038400, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483946902, Life=3970.000000, MaxLife=2920.000000, Mana=15684.000000, MaxMana=2184.000000, MapNumber=1, MapPosX=83, MapPosY=208, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=58,Class=1,LevelUpPoint=30, Experience=2144340, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483946902, Life=3980.000000, MaxLife=2930.000000, Mana=15704.000000, MaxMana=2204.000000, MapNumber=1, MapPosX=81, MapPosY=208, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=59,Class=1,LevelUpPoint=35, Experience=2253880, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483967133, Life=3990.000000, MaxLife=2940.000000, Mana=15724.000000, MaxMana=2224.000000, MapNumber=1, MapPosX=79, MapPosY=209, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=60,Class=1,LevelUpPoint=40, Experience=2367080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483967133, Life=4000.000000, MaxLife=2950.000000, Mana=15794.000000, MaxMana=2244.000000, MapNumber=1, MapPosX=79, MapPosY=209, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=61,Class=1,LevelUpPoint=45, Experience=2484000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483967133, Life=4010.000000, MaxLife=2960.000000, Mana=15814.000000, MaxMana=2264.000000, MapNumber=1, MapPosX=79, MapPosY=208, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=62,Class=1,LevelUpPoint=50, Experience=2604700, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483986077, Life=4020.000000, MaxLife=2970.000000, Mana=15834.000000, MaxMana=2284.000000, MapNumber=1, MapPosX=78, MapPosY=208, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=63,Class=1,LevelUpPoint=55, Experience=2729240, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=483986077, Life=4030.000000, MaxLife=2980.000000, Mana=15854.000000, MaxMana=2304.000000, MapNumber=1, MapPosX=78, MapPosY=208, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=64,Class=1,LevelUpPoint=60, Experience=2857680, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484002903, Life=4040.000000, MaxLife=2990.000000, Mana=15874.000000, MaxMana=2324.000000, MapNumber=1, MapPosX=75, MapPosY=206, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=65,Class=1,LevelUpPoint=65, Experience=2990080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484022108, Life=4050.000000, MaxLife=3000.000000, Mana=15894.000000, MaxMana=2344.000000, MapNumber=1, MapPosX=79, MapPosY=208, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=66,Class=1,LevelUpPoint=70, Experience=3126500, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484022108, Life=4110.000000, MaxLife=3010.000000, Mana=15914.000000, MaxMana=2364.000000, MapNumber=1, MapPosX=79, MapPosY=208, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=67,Class=1,LevelUpPoint=75, Experience=3267000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484037842, Life=4120.000000, MaxLife=3020.000000, Mana=15934.000000, MaxMana=2384.000000, MapNumber=1, MapPosX=80, MapPosY=208, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=68,Class=1,LevelUpPoint=80, Experience=3411640, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484037842, Life=4130.000000, MaxLife=3030.000000, Mana=15954.000000, MaxMana=2404.000000, MapNumber=1, MapPosX=80, MapPosY=208, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=69,Class=1,LevelUpPoint=85, Experience=3560480, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484046864, Life=4140.000000, MaxLife=3040.000000, Mana=15974.000000, MaxMana=2424.000000, MapNumber=1, MapPosX=85, MapPosY=210, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=70,Class=1,LevelUpPoint=90, Experience=3713580, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484054857, Life=4150.000000, MaxLife=3050.000000, Mana=15994.000000, MaxMana=2444.000000, MapNumber=1, MapPosX=80, MapPosY=208, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=71,Class=1,LevelUpPoint=95, Experience=3871000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484054857, Life=4160.000000, MaxLife=3060.000000, Mana=16014.000000, MaxMana=2464.000000, MapNumber=1, MapPosX=82, MapPosY=209, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=72,Class=1,LevelUpPoint=100, Experience=4032800, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484054857, Life=4170.000000, MaxLife=3070.000000, Mana=16084.000000, MaxMana=2484.000000, MapNumber=1, MapPosX=82, MapPosY=209, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=73,Class=1,LevelUpPoint=105, Experience=4199040, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4180.000000, MaxLife=3080.000000, Mana=16104.000000, MaxMana=2504.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=74,Class=1,LevelUpPoint=110, Experience=4369780, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4190.000000, MaxLife=3090.000000, Mana=16124.000000, MaxMana=2524.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=75,Class=1,LevelUpPoint=115, Experience=4545080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4200.000000, MaxLife=3100.000000, Mana=16144.000000, MaxMana=2544.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=76,Class=1,LevelUpPoint=120, Experience=4725000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4210.000000, MaxLife=3110.000000, Mana=16164.000000, MaxMana=2564.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=77,Class=1,LevelUpPoint=125, Experience=4909600, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4220.000000, MaxLife=3120.000000, Mana=16184.000000, MaxMana=2584.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=78,Class=1,LevelUpPoint=130, Experience=5098940, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4230.000000, MaxLife=3130.000000, Mana=16204.000000, MaxMana=2604.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=78,Class=1,LevelUpPoint=130, Experience=5204865, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4190.000000, MaxLife=3130.000000, Mana=12924.000000, MaxMana=2604.000000, MapNumber=1, MapPosX=83, MapPosY=213, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=79,Class=1,LevelUpPoint=135, Experience=5293080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4240.000000, MaxLife=3140.000000, Mana=16224.000000, MaxMana=2624.000000, MapNumber=1, MapPosX=83, MapPosY=212, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=80,Class=1,LevelUpPoint=140, Experience=5492080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484063174, Life=4250.000000, MaxLife=3150.000000, Mana=16244.000000, MaxMana=2644.000000, MapNumber=1, MapPosX=81, MapPosY=210, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=81,Class=1,LevelUpPoint=145, Experience=5696000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484018174, Life=4260.000000, MaxLife=3160.000000, Mana=16264.000000, MaxMana=2664.000000, MapNumber=7, MapPosX=231, MapPosY=53, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=82,Class=1,LevelUpPoint=150, Experience=5904900, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484018174, Life=4270.000000, MaxLife=3170.000000, Mana=16284.000000, MaxMana=2684.000000, MapNumber=7, MapPosX=227, MapPosY=72, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=83,Class=1,LevelUpPoint=155, Experience=6118840, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484051590, Life=4280.000000, MaxLife=3180.000000, Mana=16304.000000, MaxMana=2704.000000, MapNumber=7, MapPosX=227, MapPosY=72, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=84,Class=1,LevelUpPoint=160, Experience=6337880, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484087424, Life=4290.000000, MaxLife=3190.000000, Mana=16324.000000, MaxMana=2724.000000, MapNumber=7, MapPosX=220, MapPosY=90, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=85,Class=1,LevelUpPoint=165, Experience=6562080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484087424, Life=4300.000000, MaxLife=3200.000000, Mana=16394.000000, MaxMana=2744.000000, MapNumber=7, MapPosX=213, MapPosY=95, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=86,Class=1,LevelUpPoint=170, Experience=6791500, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484106556, Life=4310.000000, MaxLife=3210.000000, Mana=16414.000000, MaxMana=2764.000000, MapNumber=7, MapPosX=223, MapPosY=117, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=87,Class=1,LevelUpPoint=175, Experience=7026200, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484106556, Life=4320.000000, MaxLife=3220.000000, Mana=16434.000000, MaxMana=2784.000000, MapNumber=7, MapPosX=221, MapPosY=133, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=88,Class=1,LevelUpPoint=180, Experience=7266240, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484125904, Life=4330.000000, MaxLife=3230.000000, Mana=16454.000000, MaxMana=2804.000000, MapNumber=7, MapPosX=224, MapPosY=149, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=89,Class=1,LevelUpPoint=185, Experience=7511680, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484125904, Life=4340.000000, MaxLife=3240.000000, Mana=16474.000000, MaxMana=2824.000000, MapNumber=7, MapPosX=223, MapPosY=150, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=90,Class=1,LevelUpPoint=190, Experience=7762580, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484145636, Life=4350.000000, MaxLife=3250.000000, Mana=16494.000000, MaxMana=2844.000000, MapNumber=7, MapPosX=231, MapPosY=165, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=91,Class=1,LevelUpPoint=195, Experience=8019000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484203119, Life=4410.000000, MaxLife=3260.000000, Mana=16514.000000, MaxMana=2864.000000, MapNumber=7, MapPosX=222, MapPosY=187, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=92,Class=1,LevelUpPoint=200, Experience=8281000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484203119, Life=4420.000000, MaxLife=3270.000000, Mana=16534.000000, MaxMana=2884.000000, MapNumber=7, MapPosX=221, MapPosY=188, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=93,Class=1,LevelUpPoint=205, Experience=8548640, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484298806, Life=4430.000000, MaxLife=3280.000000, Mana=16554.000000, MaxMana=2904.000000, MapNumber=7, MapPosX=221, MapPosY=185, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=94,Class=1,LevelUpPoint=210, Experience=8821980, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484285642, Life=4440.000000, MaxLife=3290.000000, Mana=16574.000000, MaxMana=2924.000000, MapNumber=4, MapPosX=204, MapPosY=61, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=95,Class=1,LevelUpPoint=215, Experience=9101080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484285642, Life=4450.000000, MaxLife=3300.000000, Mana=16594.000000, MaxMana=2944.000000, MapNumber=4, MapPosX=205, MapPosY=25, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=96,Class=1,LevelUpPoint=220, Experience=9386000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484235642, Life=4460.000000, MaxLife=3310.000000, Mana=16614.000000, MaxMana=2964.000000, MapNumber=7, MapPosX=81, MapPosY=169, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=97,Class=1,LevelUpPoint=225, Experience=9676800, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484255134, Life=4470.000000, MaxLife=3320.000000, Mana=16684.000000, MaxMana=2984.000000, MapNumber=7, MapPosX=107, MapPosY=181, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=98,Class=1,LevelUpPoint=230, Experience=9973540, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484255134, Life=4480.000000, MaxLife=3330.000000, Mana=16704.000000, MaxMana=3004.000000, MapNumber=7, MapPosX=132, MapPosY=169, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=99,Class=1,LevelUpPoint=235, Experience=10276280, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484255134, Life=4490.000000, MaxLife=3340.000000, Mana=16724.000000, MaxMana=3024.000000, MapNumber=7, MapPosX=144, MapPosY=164, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=100,Class=1,LevelUpPoint=240, Experience=10585080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484255134, Life=4500.000000, MaxLife=3350.000000, Mana=16744.000000, MaxMana=3044.000000, MapNumber=7, MapPosX=156, MapPosY=154, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=101,Class=1,LevelUpPoint=245, Experience=10900000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484255134, Life=4510.000000, MaxLife=3360.000000, Mana=16764.000000, MaxMana=3064.000000, MapNumber=7, MapPosX=176, MapPosY=144, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=102,Class=1,LevelUpPoint=250, Experience=11221100, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484344581, Life=4520.000000, MaxLife=3370.000000, Mana=16784.000000, MaxMana=3084.000000, MapNumber=7, MapPosX=177, MapPosY=169, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=102,Class=1,LevelUpPoint=250, Experience=11457275, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484380256, Life=4325.000000, MaxLife=3370.000000, Mana=16614.000000, MaxMana=3084.000000, MapNumber=7, MapPosX=165, MapPosY=196, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=103,Class=1,LevelUpPoint=255, Experience=11548440, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484380256, Life=4530.000000, MaxLife=3380.000000, Mana=16804.000000, MaxMana=3104.000000, MapNumber=7, MapPosX=145, MapPosY=200, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=104,Class=1,LevelUpPoint=260, Experience=11882080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484449182, Life=4540.000000, MaxLife=3390.000000, Mana=16824.000000, MaxMana=3124.000000, MapNumber=7, MapPosX=128, MapPosY=206, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=105,Class=1,LevelUpPoint=265, Experience=12222080, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484480531, Life=4550.000000, MaxLife=3400.000000, Mana=16844.000000, MaxMana=3144.000000, MapNumber=7, MapPosX=48, MapPosY=220, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=106,Class=1,LevelUpPoint=270, Experience=12568500, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484545056, Life=4560.000000, MaxLife=3410.000000, Mana=16864.000000, MaxMana=3164.000000, MapNumber=7, MapPosX=49, MapPosY=220, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=107,Class=1,LevelUpPoint=275, Experience=12921400, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484545056, Life=4570.000000, MaxLife=3420.000000, Mana=16884.000000, MaxMana=3184.000000, MapNumber=7, MapPosX=42, MapPosY=219, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=108,Class=1,LevelUpPoint=280, Experience=13280840, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484545056, Life=4580.000000, MaxLife=3430.000000, Mana=16904.000000, MaxMana=3204.000000, MapNumber=7, MapPosX=42, MapPosY=220, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=109,Class=1,LevelUpPoint=285, Experience=13646880, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484516054, Life=4590.000000, MaxLife=3440.000000, Mana=16924.000000, MaxMana=3224.000000, MapNumber=1, MapPosX=83, MapPosY=211, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=110,Class=1,LevelUpPoint=290, Experience=14019580, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484516054, Life=4600.000000, MaxLife=3450.000000, Mana=16994.000000, MaxMana=3244.000000, MapNumber=1, MapPosX=83, MapPosY=211, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=111,Class=1,LevelUpPoint=295, Experience=14399000, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=484516054, Life=4610.000000, MaxLife=3460.000000, Mana=17014.000000, MaxMana=3264.000000, MapNumber=1, MapPosX=81, MapPosY=211, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+SELECT Money, DbVersion, pw FROM warehouse WHERE AccountID='datga'
+UPDATE warehouse SET Money=279000390, pw=0, DbVersion=3 WHERE AccountID='datga'
+UPDATE Character SET DbVersion=3 WHERE Name = 'DatGa'
+UPDATE Character SET cLevel=111,Class=1,LevelUpPoint=295, Experience=14782225, Strength=344, Dexterity=2759, Vitality=103, Energy=3330, Money=482942554, Life=4610.000000, MaxLife=3460.000000, Mana=17064.000000, MaxMana=3264.000000, MapNumber=4, MapPosX=130, MapPosY=48, MapDir=1, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa

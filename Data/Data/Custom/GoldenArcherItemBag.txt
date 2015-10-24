@@ -1,0 +1,75 @@
+
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Nightmare"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+								
+
+//엑설런트방어구류									
+7	1	5       7	0       1	1	1  // Dragon Helm 
+8	1	5       7	0       1	1	1  // Dragon Armor 
+9	1	5       7	0       1	1	1  // Dragon Pants 
+10	1	5       7	0       1	1	1  // Dragon Gloves 
+11	1	5       7	0       1	1	1  // Dragon Bots 
+
+7	14	5       7	0       1	1	1  // Guardian Helm 
+8	14	5       7	0       1	1	1  // Guardian Armor 
+9	14	5       7	0       1	1	1  // Guardian Pants 
+10	14	5       7	0       1	1	1  // Guardian Gloves 
+11	14	5       7	0       1	1	1  // Guardian Bots 
+
+7	3	5       7	0       1	1	1  // Legendary Helm 
+8	3	5       7	0       1	1	1  // Legendary Armor 
+9	3	5       7	0       1	1	1  // Legendary Pants 
+10	3	5       7	0       1	1	1  // Legendary Gloves 
+11	3	5       7	0       1	1	1  // Legendary Bots 
+
+7	25	5       7	0       1	1	1  // Legendary Helm 
+8	25	5       7	0       1	1	1  // Legendary Armor 
+9	25	5       7	0       1	1	1  // Legendary Pants 
+10	25	5       7	0       1	1	1 // Legendary Gloves 
+11	25	5       7	0       1	1	1  // Legendary Bots 
+
+8	20	5       7	0       1	1	1  // Legendary Armor 
+9	20	5       7	0       1	1	1  // Legendary Pants 
+10	20	5       7	0       1	1	1  // Legendary Gloves 
+11	20	5       7	0       1	1	1  // Legendary Bots 
+
+
+5	5	5       7	1       1	1	1  // Legendary Staff
+4	14	5       7	1       1	1	1  // Aquagold Crossbow 
+4	13	5       7	1       1	1	1  // Bluewing Crossbow 
+2	5	5       7	1       1	1	1 // Crystal Sword 
+2	4	5       7	1       1	1	1  // Crystal Morning Star 
+3	9	5       7	1       1	1	1  // Bill of Balrog
+5	8	5       7	1       1	1	1 // Staff of Destruction
+4	16	5       7	1       1	1	1  // Saint Crossbow
+0	16	5       7	1       1	1	1  // Sword of Destruction
+
+end									

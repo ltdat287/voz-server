@@ -1,0 +1,315 @@
+/////////////////////////////////////////////////////////////////////////
+////////////      Custom Quest Settings                  //////////////// 
+////////////      Last Edited: 01.02.2010                ////////////////
+////////////      By: eRRoR, MOHAPX                      ////////////////
+/////////////////////////////////////////////////////////////////////////
+// Group Settings
+// ID
+// GEM  ITEM  STATS
+//
+0
+/////////      KO-BO   KODE ITEM  npoceHt     ////////////////
+
+ 1	6159	 5	// Chaos
+"Spider web"	3		3		 8	"Spider (Lorencia)" //2
+"Eye of goblin"	3		26		 7	"Goblin (Noria)" //3
+end
+
+ 1	7182	 5	// Soul
+"Tail of dragon" 3		2		 7	"Budge Dragon (Lorencia)" // 4
+"Jar of poison"	 4		27		10	"Chain Scorpion (Noria)" // 5
+end
+
+ 1	6659	 5	// dinorant
+"Fragment" 		5		 1		 5	"Hound (Lorencia)" // 9
+"Elite Eye"		3		33		 7	"Elite Goblin (Noria)" // 8
+end
+
+ 1	7182	 5	// Soul
+"Alcohol"		3		6		10	"Lich  (Lorencia)" // 14
+"Apple"			4		29		10	"Hunter (Noria)" // 13
+end
+
+ 1	7181	 5	// bless
+"Key"			9		 4		 5	"Elite Bull Fighter (Lorencia)" // 12
+"Horn"			5		28		10	"Beetle Monster (Noria)" // 10
+end
+
+ 2	7222	10	// kard chaos
+"Book of fire"	4		 6		 5	"Lich (Lorencia)" // 14
+"Brushwood"		4		30		10	"Forest Monster (Noria)" // 15
+end
+
+ 2	7184	 5	// life
+"Piece"			4		24		10	"Worm (Devias)" // 20
+"Wailing stone"	4		31		10	"Agon (Noria)" // 16
+end
+
+ 2	6177	 5	// Green Ribbon Box
+"Skelet"		6		14		 7	"Skeleton (Dungeon)" // 19
+"Wailing stone"	4		31		10	"Agon (Noria)" // 16
+end
+
+ 3	7222	10	// kard chaos
+"Piece"			3		24		15	"Worm (Devias)" // 20
+"Key"			8		4		 7	"EliteBullFighter(Lorencia)" // 12
+"Skelet"		4		14		 7	"Skeleton (Dungeon)" // 19
+end
+
+ 5	7189	20	// Rena
+"Check Point1"	3		12		15	"Larva (Dungeon)" // 25
+"Check Point1"	7		7		6	"Giant (Lorencia)" // 17
+"Check Point1"	7		32		6	"Stone Golem (Noria)" // 18
+end
+end
+
+//---------- 10 --------- 4 - (20)  gem ---------- 35 stat ----(75)------------------------
+
+1
+
+ 1	6159	 5	// Chaos
+"Horned helmet"	 10		23		 7	"Hommerd (Devias)" // 24
+end
+
+ 1	7184	 5	// Life
+"Leech"			10		12		10	"Larva (Dungeon)" // 25
+end
+
+ 1	6703	 5	// BC
+"Piece of ice"	 9		22		10	"Ice Monster (Devias)" // 22
+end
+
+ 1	6177	 5	// Green Ribbon Box
+"Orb"			 8		17		10  "Cyclops (Dungeon)" // 28
+end
+
+ 1	7222	 5	// kard chaos
+"Helmet"		  5		147		10	"Aegis (Kalima 1)" // 27
+end
+
+ 1	6177	 5	// Green Ribbon Box
+"Box"			 10		11		15	"Ghost(Dungeon)" // 32
+end
+
+ 1	7181	 5	// Bless
+"Blade "		 10		21		5	"Assassin (Devias)" // 26
+end
+
+2	7222	 5	// kard chaos
+"lump of snow"	 8		19		10	"Yeti (Devias)" // 30
+"Orb"			 5		17		10  "Cyclops (Dungeon)" // 28
+end
+
+2	6704	20	// kalima
+"Piece of ice"	 5		22		10	"Ice Monster (Devias)" // 22
+"Mucus of leech" 5		12		10	"Larva (Dungeon)" // 25
+end
+
+2	7189	 5	// Green Ribbon Box
+"Horned helmet"	 10		23		 7	"Hommerd (Devias)" // 24
+"Cocoon"		  5		13		10	"Hell Spider (Dungeon)" // 40
+end
+
+2	7222	 5	// kard chaos
+"Armor" 		 20		20		10	"Elite Yeti (Devias)" // 36
+"Ring"			  7		15		10	"Skeleton Archery (Dungeon)" // 34
+end
+
+2	7181	 5	// Bless
+"Cocoon"		  6		13		 8	"Hell Spider (Dungeon)" // 40
+"box"			 10		45		10	"Bahamut (Atlans)" // 43
+end
+
+
+3	6177	10	// Green Ribbon Box
+"Piece of ice"	  7		22		10	"Ice Monster (Devias)" // 22
+"Staff"			  7		 9		15	"Thunder Lich (Dungeon3)" // 44
+"Cocoon"		  5		13		10	"Hell Spider (Dungeon)" // 40
+end
+
+5	7189	10	// Green Ribbon Box
+"Ring"			  7		15		10	"Skeleton Archery (Dungeon)" // 34
+"Sel"			 10		45		10	"Bahamut (Atlans)" // 43
+"Read Ice" 		 5		144		10	"Death Angel(Kalima 1)" // 34
+end
+
+
+5	7222	20	// kard chaos
+"Black Fire"	 10		20		10	"Elite Yeti (Devias)" // 36
+"Ring"			 7		10		10	"Dark Knight (Dungeon)" // 48
+"Arrows"		10		46		10	"Vepar (Atlans)" // 45
+end
+
+5	6177	30	// Green Ribbon Box
+"Staff"			 20		8		10	"Poison Bull Fighter(Dungeon)" // 46
+"Pressed"		 7		149		10	"Necron (Kalima 1)" // 38
+"Ice Bow"		 5		47		10 	 "Valkyrie (Atlans)" //	46
+end
+
+10	7222	50	// kard chaos
+"Check Point2"	  5		36		10	"Shadow (LostTower)" // 47
+"Check Point2"	  5		18		10	"Gorgon (Dungeon)" // 55
+"Check Point2"	 10		25		10	"Ice Queen(Devias)" // 52
+end
+
+end
+
+//---10+17=27--------4+18=22 - (19 + 47=64) gem---//--- 35+100=135-------(75+195=270)-
+
+2
+
+ 1	7181	 5	// Bless
+"Water"		15		46		10	"Vepar (Atlans)" // 45
+end
+
+ 1	7222	 5	// Green Ribbon Box
+"Thorn"			15		36		10	"Shadow (LostTower)" // 47
+end
+
+ 1	7189	 5	// Rena
+"Pressed"		10		176		10	"BloodySoldier (Kalima 2)" // 47
+end
+
+ 1	6177	 5	// Green Ribbon Box
+"Thorn"			10		39		10	"Poison Shadow (LostTower)" // 50
+end
+
+ 1	7222	 5	// kard chaos
+"Scale "		10		52		10	"Silver Valkyre (Atlans)" // 68
+end
+
+ 1	6177	 5	// Green Ribbon Box
+"Orb of Ice"	10		41		8	"Death Cow (LostTower3)" // 57
+end
+
+ 2	7189	10	// Rena
+"Ice Bow"		 9		47		10 	 "Valkyrie (Atlans)" //	46
+"Zen"			 8		34		10	"Cursed Wizard (LostTower3)"	// 54
+end
+
+ 2	6177	10	// Green Ribbon Box
+"Love Charm"	12		36		10	"Shadow (LostTower)" // 47
+"Alcohol"		12		174		10	"DeathAngel (Kalima 2)" // 50
+end
+
+ 2	7222	20	// kard chaos
+"Thorn"			9		179		10	"Necron (Kalima 2)" // 53
+"Red Box"		10		39		10	"Poison Shadow (LostTower)" // 50
+end
+
+ 2	7189	10	// Green Ribbon Box
+"Talon"			10		150		10	"Bali (Arena)"	// 57
+"Book "			10		48		10	"Lizard King (Atlans)" // 70
+end
+
+ 3	6702	10	// DS
+"Thorn"			7		10		10	"Dark Knight (Noria, Lora)" // 62
+"Poisonous "	9		39		10	"Poison Shadow (LostTower)" // 50
+"Scale "		9		52		10	"Silver Valkyre (Atlans)" // 68
+end
+
+ 3	6177	10	// Green Ribbon Box
+"Tear of Elf"	 8		34		10	"Cursed Wizard (LostTower3)" // 54
+"Wolf Talon"	 6		175		10	"deathCenturion (Kalima 2)" // 58
+"Thorn"			10		36		10	"Shadow (LostTower)" // 47
+end
+
+ 5	7222	20	// kard chaos
+"Ice Bow"		 12		47		10 	"Valkyrie (Atlans)" //	46
+"Book Fire"		 8		41		10	"Death Cow (LostTower3)" // 57
+"Scale "		 8		308		10	"Death Tree (Aida)" // 62
+end
+
+ 5	7184	30	// Life
+"Siege Summon"   8		51		10	"Great Bahamut (Atlans)" // 66
+"Book"			 10		37		10	"Devil (LostTower3)" // 60
+"Wolf Talon"	 6		184		10	"Bloody Soldier (Kalima 3)" // 62
+end
+
+ 10	7189	60	// Rena
+"Check Point 3"	  5		307		10	"Forest Orc (Aida)" // 64
+"Check Point 3"	  8		48		10	"Lizard King (Atlans)" // 70
+"Check Point 3"	  5		62		10	"Mutant (Tarkan)" // 72
+end
+end
+
+//-------22+18=40-----(40+64=104)---//----135+160=295-----(210+270=480)---------------
+
+3
+ 1	7181	 5	// Bless
+"Eye"			7		182		10	"Death Angel (Kalima 3)" // 65
+end
+
+ 1	7210	 5	// Harmony
+"Feather"		10		62		5	"Mutant (Tarkan)" // 72
+end
+
+ 1	6177	 5	// Green Ribbon Box
+"Stone"			10		38		5	"Balrog (LostTower7)" // 66
+end
+
+ 1	6704	 5	// kalima
+"Blade "		10		58		5	"Tantalos (Tarkan)" // 83
+end
+
+ 1	6177	 5	// Green Ribbon Box
+"Apple"			8		70		5	"Queen Ranier (Icarus)" // 82
+end
+
+ 2	7222	20	// kard chaos
+"Feather"		10		62		5	"Mutant (Tarkan)" // 72
+"Green Box"		15		473		10	"Red Ween (Arena)"	// 67
+end
+
+ 2	6177	 5	// Green Ribbon Box
+"Katana"		5		57		8	"Iron Wheel (Tarkan)" // 80
+"Ball"			5		183		5	"deathCenturion (Kalima 3)" // 73
+end
+
+ 2	7189	 5	// Rena
+"Cloak "		6		70		5	"Queen Ranier (Icarus)" // 82
+"Spirit"		5		307		5	"Forest Orc (Aida)" // 64
+end
+
+ 2	6175	 5	// Bounch of Soul
+"Blade "		5		58		5	"Tantalos (Tarkan)" // 83
+"Pressed"		10		69		5	"Alquamos (Icarus)" // 75
+end
+
+ 2	6177	10	// Green Ribbon Box
+"Pressed"		10		69		5	"Alquamos (Icarus)" // 75
+"Scale "		10		52		5	"Silver Valkyre (Atlans)" // 68
+end
+
+3	7189	20	// Rena
+"Town Portal"	10		193		5	"Aegis (Kalima 4)" // 72
+"Book"			15		48		5	"Lizard King (Atlans)" // 70
+"Green Box"		15		473		5	"Red Ween (Arena)"	// 67
+end
+
+5	6177	10	// Green Ribbon Box
+"Eye"			5		60		5	"Bloody Wolf (Tarkan)"	// 76
+"Cloak "		7		70		5	"Queen Ranier (Icarus)" // 82
+"Eye of "		7		307		5	"Forest Orc (Aida)" // 64
+end
+
+5	6174	20	// Bounch of Bless
+"Pressed"		10		192		5	"Bloody Soldier (Kalima 4)" // 77
+"Orb of lord"	5		305		10	"Blue Golem (Aida)" // 74
+"Pressed"		7		57		5	"Iron Wheel (Tarkan)" // 80
+end
+
+10	7222	30	// kard chaos
+"Ball"			10		61		10	"Beam Knight (Tarkan)" // 84
+"Cloak"			8		71		5	"Mega Crust (Icarus)" // 78
+"Broken"		10		472		5	"Joun Ween (Arena)" // 76
+end
+
+20	7268	100	// Jewel of Exelent
+"Quest END"		5		59		10	"Zaikan (Tarkan)" // 90
+"Quest END"		5		355		15	"Kentauros (Kantru)" // 93
+"Quest END"		5		312		15	"Bow Scout (CryWolf)" // 97
+end
+
+end
+//--end----42+15=57-------62-----(58+104=163)---//-----295+180=475----250----(200+480=680)---

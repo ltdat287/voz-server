@@ -1,0 +1,4 @@
+// Custom Exp File
+// Overwriting commonserver.cfg value on setted maps
+// MapNumber	ExpValue
+end

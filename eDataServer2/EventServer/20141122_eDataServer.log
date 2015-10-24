@@ -1,0 +1,10 @@
+SQLSTATE:IM002, 진단정보:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+[ MuOnline ] connection successful !
+[ EventServer ] created on port [ 44456 ]
+23:44:37 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:2)
+[  ][ 127.0.0.1:0 ] GameServer Close
+23:49:00 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+23:56:18 [SUMMON PET] Data request (DatGa)

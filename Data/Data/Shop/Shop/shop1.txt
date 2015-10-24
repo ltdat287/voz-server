@@ -1,0 +1,38 @@
+// Shop1 [Lorencia] Bar
+//
+14  1 0  30 0 0 0 //Small Healing
+14  2 0  30 0 0 0 //Medium Heal
+14  3 0  30 0 0 0 //Large Healing
+14  3 0  60 0 0 0 //Large Healing
+14  4 0  30 0 0 0 //Small Mana
+14  5 0  30 0 0 0 //Medium Mana
+14  6 0  30 0 0 0 //Large Mana
+14  6 0  60 0 0 0 //Large Mana
+//
+14  1 7  30 0 0 0 //Small Healing +7
+14  2 7  30 0 0 0 //Medium Heal +7
+14  3 7  30 0 0 0 //Large Healing +7
+14  3 7  60 0 0 0 //Large Healing +7
+14  4 7  30 0 0 0 //Small Mana +7
+14  5 7  30 0 0 0 //Medium Mana +7
+14  6 7  30 0 0 0 //Large Mana +7
+14  6 7  60 0 0 0 //Large Mana +7
+//
+14 10 0   0 0 0 0 //Town Scroll
+14  9 0   0 0 0 0 //Alcohol
+14  9 1   0 0 0 0 //Olive of Love
+14 20 0   0 0 0 0 //Love Charm
+//
+ 4 15 0 100 0 0 0 //Arrows
+ 4 15 2 255 0 0 1 //Arrows
+ 4 15 4 255 0 0 1 //Arrows
+ 4 15 6 255 0 0 1 //Arrows
+14  8 0  30 0 0 0 //Antidote Tonic
+ 4  7 0 100 0 0 0 //Bolts
+ 4  7 2 255 0 0 1 //Bolts+2
+ 4  7 4 255 0 0 1 //Bolts+4
+ 4  7 6 255 0 0 1 //Bolts+6
+//
+13  0 0 255 0 0 0 //Guardian Angel
+13 29 0   0 0 0 0 //Armor of Guardman
+end

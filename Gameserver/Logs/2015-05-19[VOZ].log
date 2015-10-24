@@ -1,0 +1,1739 @@
+[..\data\Gate.txt] Gate information data load complete.
+(..\data\lang\kor\skill(kor).txt) Skill information data load complete
+[Quest] (EmperorScroll) Load : Index 0, SubInfoCount 2
+[Quest] (ClassChange) Load : Index 1, SubInfoCount 3
+[Quest] (HeroStatus) Load : Index 2, SubInfoCount 2
+[Quest] (DarkStone) Load : Index 3, SubInfoCount 1
+[Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[Quest] (Infiltration of Barracks of Ballgass) Load : Index 5, SubInfoCount 3
+[Quest] (Into The Darkness) Load : Index 6, SubInfoCount 1
+14:40:09 [Quest] [SetQuestItem] Scroll of Emperor
+14:40:09 [Quest] [SetQuestItem] Scroll of Emperor
+14:40:09 [Quest] [SetQuestItem] Broken Sword
+14:40:09 [Quest] [SetQuestItem] Tear of Elf
+14:40:09 [Quest] [SetQuestItem] Soul of Wizard
+14:40:09 [Quest] [SetQuestItem] Scroll of Emperor
+14:40:09 [Quest] [SetQuestItem] Scroll of Emperor
+14:40:09 [Quest] [SetQuestItem] Broken Sword
+14:40:09 [Quest] [SetQuestItem] Flame of Death Beam Knight
+14:40:09 [Quest] [SetQuestItem] Horn of Hell Maine
+14:40:09 [Quest] [SetQuestItem] Feather of Phoenix
+14:40:09 [Quest] [SetQuestItem] Flame of Death Beam Knight
+14:40:09 [Quest] [SetQuestItem] Horn of Hell Maine
+14:40:09 [Quest] [SetQuestItem] Feather of Phoenix
+14:40:09 [Quest] [SetQuestItem] Flame of Death Beam Knight
+14:40:09 [Quest] [SetQuestItem] Horn of Hell Maine
+14:40:09 [Quest] [SetQuestItem] Feather of Phoenix
+[Monster Element] - ..\data\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (7)(밀기)
+[Monster Skill Unit] - Found SkillElement (11)(내구도)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (17)(방향해제)
+[Monster Skill Unit] - Found SkillElement (23)(방향안걸림)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (3)(MP감소)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (16)(소환)
+[Monster Skill Unit] - Found SkillElement (13)(치료)
+[Monster Skill Unit] - Found SkillElement (43)(스턴2)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (17)(방향해제)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (3)(MP감소)
+[Monster Skill Unit] - Found SkillElement (4)(AG감소)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (44)(밀기2)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (44)(밀기2)
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (17)(방향해제)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (44)(밀기2)
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (24)(켄타우로스-멀티)
+[Monster Skill Unit] - Found SkillElement (25)(페르소나-악령)
+[Monster Skill Unit] - Found SkillElement (26)(트윈테일-일반)
+[Monster Skill Unit] - Found SkillElement (27)(트윈테일-독)
+[Monster Skill Unit] - Found SkillElement (28)(드레드피어-2회베기)
+[Monster Skill Unit] - Found SkillElement (29)(나이트-독)
+[Monster Skill Unit] - Found SkillElement (30)(나이트-독-일반)
+[Monster Skill Unit] - Found SkillElement (31)(나이트-돌개-일반)
+[Monster Skill Unit] - Found SkillElement (32)(나이트-화염진-일반)
+[Monster Skill Unit] - Found SkillElement (33)(나이트-화염진-밀기)
+[Monster Skill Unit] - Found SkillElement (34)(나이트메어-워프)
+[Monster Skill Unit] - Found SkillElement (35)(마야의손-프레셔-일반#)
+[Monster Skill Unit] - Found SkillElement (36)(마야의손-프레셔-밀기$)
+[Monster Skill Unit] - Found SkillElement (37)(마야의손-프레셔-내구%)
+[Monster Skill Unit] - Found SkillElement (38)(마야의손-파워-일반)
+[Monster Skill Unit] - Found SkillElement (39)(마야-아이스스톰-밀기')
+[Monster Skill Unit] - Found SkillElement (40)(마야-아이스스톰-일반()
+[Monster Skill Unit] - Found SkillElement (41)(마야-브로큰샤워-일반))
+[Monster Skill Unit] - Found SkillElement (42)(마야-브로큰샤워-스턴*)
+[Monster Skill Unit] - ..\data\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\data\MonsterSkill.txt file is Loaded
+[Monster AI Element] - ..\data\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\data\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->AGRO대->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->HP감소->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 치료->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 치료->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 치료->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->AGRO대->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->AGRO대->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->적없음->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->안에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->밖에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->무조건->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->무조건->워프 ]
+[Monster AI Automata] Loaded Transition Desc . [ 워프->무조건->AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->무조건->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->무조건->워프 ]
+[Monster AI Automata] Loaded Transition Desc . [ 워프->무조건->AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->무조건->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->무조건->워프 ]
+[Monster AI Automata] Loaded Transition Desc . [ 워프->무조건->AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] - ..\data\MonsterAutomata.txt file is Loaded
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:40:09 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+[Monster AI Unit] - ..\data\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\data\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\data\MonsterAIGroup.txt file is Loaded
+[ Crywolf ] State (0) -> NONE
+[ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+[Crywolf Main Job] - ..\data\Event\Crywolf.dat file is Loaded
+14:40:09 [Skill Addition Info] [Infinity Arrow] Skill Time[3600], UseLevel[220], Arrow MP Consumption +0[5] +1[7] +2[10]
+14:40:09 [Skill Addition Info] [Fire Scream] Use(1) : Explosion Distance(2) - Rate(3000), MaxAttack_SameSerial(3), SerialInitCount(100), Check Serial(1)
+[ KANTURU ] - ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ BattleStanby ] ..\data\Event\Kanturu.dat file is Loaded
+14:40:09 [ KANTURU ][ BattleOfMaya ] IceStorm Using Rate Load: 60
+[ KANTURU ][ BattleOfMaya ] ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ BattleOfNightmare ]  ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ TowerOfRefinement ] ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ MonsterSetBase ] - ..\data\Event\KanturuMonsterSetBase.txt file is Loaded
+14:40:09 [Option Reload] ★★★ MaxUser ☆☆☆  : 500
+Guild creation option 1
+Guild delete option 1
+Above level 300 can create guild
+14:40:09 (Option) Trade on
+[Option] ChaosBox = 1
+[Option] ChaosEvent = 1
+[Option] ChaosEventServer = 127.0.0.1	; [0] No 
+[Option] AttackEventRegenTime = 0
+14:40:09 [Option] Auto Looting Time Set : 20
+14:40:09 (Option) Dropping item when killed by Murderer
+14:40:09 (Option) Item drop rate : 20 %
+14:40:09 [DevilSquare] Close
+14:40:09 [DevilSquare] Sync Open Time. [78]min remain
+14:40:09 [Illusion Temple] (1) Sync Start Time. [409] min remain (START HOUR:21, MIN:30)
+14:40:09 [Illusion Temple] (1) SetState_CLOSED
+14:40:09 [Illusion Temple] (2) Sync Start Time. [409] min remain (START HOUR:21, MIN:30)
+14:40:09 [Illusion Temple] (2) SetState_CLOSED
+14:40:09 [Illusion Temple] (3) Sync Start Time. [409] min remain (START HOUR:21, MIN:30)
+14:40:09 [Illusion Temple] (3) SetState_CLOSED
+14:40:09 [Illusion Temple] (4) Sync Start Time. [409] min remain (START HOUR:21, MIN:30)
+14:40:09 [Illusion Temple] (4) SetState_CLOSED
+14:40:09 [Illusion Temple] (5) Sync Start Time. [409] min remain (START HOUR:21, MIN:30)
+14:40:09 [Illusion Temple] (5) SetState_CLOSED
+14:40:09 (Option) Connect Server IP(127.0.0.1) / PORT(55557)
+lator]
+..\data\EventItemBag\eventitembag.txt Item Load Complete
+..\data\EventItemBag\eventitembag2.txt Item Load Complete
+..\data\EventItemBag\eventitembag3.txt Item Load Complete
+14:40:09 [Star of Sacred Birch] Eventitemnum = 7179,EventItemLevel = 1, EventItemDropRate = 5, ItemDropRate = 150, ExItemDropRate = 100
+..\data\EventItemBag\eventitembag4.txt Item Load Complete
+..\data\EventItemBag\eventitembag5.txt Item Load Complete
+..\data\EventItemBag\eventitembag5.txt Item Load Complete
+..\data\EventItemBag\eventitembag6.txt Item Load Complete
+..\data\EventItemBag\eventitembag7.txt Item Load Complete
+..\data\EventItemBag\eventitembag8.txt Item Load Complete
+..\data\EventItemBag\eventitembag9.txt Item Load Complete
+..\data\EventItemBag\eventitembag10.txt Item Load Complete
+..\data\EventItemBag\eventitembag11.txt Item Load Complete
+..\data\EventItemBag\eventitembag12.txt Item Load Complete
+..\data\EventItemBag\eventitembag13.txt Item Load Complete
+..\data\EventItemBag\eventitembag14.txt Item Load Complete
+..\data\EventItemBag\eventitembag15.txt Item Load Complete
+14:40:09 [Kundun] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag17.txt Item Load Complete
+14:40:09 [Erohim] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag18.txt Item Load Complete
+14:40:09 [LordMix] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag19.txt Item Load Complete
+14:40:09 [Crystal Event] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag20.txt Item Load Complete
+14:40:09 [Red Ribbon] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 10, ExItemDropRate = 100
+..\data\EventItemBag\eventitembag21.txt Item Load Complete
+14:40:09 [Green Ribbon] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 10, ExItemDropRate = 100
+..\data\EventItemBag\eventitembag22.txt Item Load Complete
+14:40:09 [Blue Ribbon] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag23.txt Item Load Complete
+14:40:09 [Pink Chocolate] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag24.txt Item Load Complete
+14:40:09 [Red Chocolate] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag25.txt Item Load Complete
+14:40:09 [Blue Chocolate] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag26.txt Item Load Complete
+14:40:09 [LightPurpleCandy] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag27.txt Item Load Complete
+14:40:09 [VermilionCandy] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag28.txt Item Load Complete
+14:40:09 [DeepBlueCandy] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag29.txt Item Load Complete
+14:40:09 [Dark Elf] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag30.txt Item Load Complete
+14:40:09 [Balgass] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag31.txt Item Load Complete
+14:40:09 [Maya Hands] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag32.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag33.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag34.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\GoldenArcherItemBag.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category1.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category2.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category3.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category4.txt Item Load Complete
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category5.txt Item Load Complete
+..\data\Event\DevilSquare.dat file load!
+..\data\Event\BloodCastle.dat file load!
+..\data\Event\RingAttackEvent.dat file load!
+14:40:09 [Ring Event] Sync Start Time. [559] min remain (START HOUR:0, MIN:0)
+..\data\Event\CastleDeepEvent.dat file load!
+..\data\Event\ChaosCastle.dat file load!
+[DOTH] ..\data\Event\EventManagement.dat file load!
+14:40:09 [CashShop][OptionLoad] - CashShop Option Load Begin
+14:40:09 [CashShop][ShopOption] - Shop Option Reload '..\data\CashShopOption.dat'
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/53) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/96) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/54) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/92) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/93) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/95) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/43) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/44) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/45) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/59) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/62) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/63) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/46) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/47) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/48) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/61) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/72) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/73) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/74) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/75) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/76) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/77) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/97) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/98) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/78) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/79) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/80) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/81) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/82) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/64) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/65) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/54) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/55) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/56) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/57) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (13/58) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/91) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/99) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/100) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/101) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Add List - (14/102) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:40:09 [CashShop][Load Cash Item List] - Complete! - Total:41
+14:40:09 [CashShop] Request Cash Branch Item List to ShopServer.
+14:40:09 [CashShop] Request Cash Item List to ShopServer.
+14:40:09 [CashShop] Request Cash Package Item List to ShopServer.
+14:40:09 [CashShop][OptionLoad] - CashShop Option Load finish
+14:40:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\\MarryItemBag.txt Item Load Complete
+..\data\Custom\customserver.cfg file load!
+14:40:09 [Soldier Event] Sync Start Time. [499] min remain (START HOUR:23, MIN:0)
+error-L3 : Monster Level Overflow~ E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\MonsterItemMng.cpp 126
+14:40:10 [Custom drop] Loaded (26) items
+Shop data load complete
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 1562 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 1637 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 1676 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 1680 class : 0
+14:40:10 SkyLand Boss Shield Setting!!
+14:40:10 SkyLand Boss Monster Setting!!
+14:40:10 SkyLand Boss Shield Setting!!
+14:40:10 SkyLand Boss Monster Setting!!
+14:40:10 SkyLand Boss Shield Setting!!
+14:40:10 SkyLand Boss Monster Setting!!
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 5693 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 5751 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 6410 class : 0
+14:40:11 [DevilSquare] Close
+14:40:11 [DevilSquare] Sync Open Time. [75]min remain
+14:40:11 [Blood Castle] (1) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (1) SetState CLOSED
+14:40:11 [Blood Castle] (2) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (2) SetState CLOSED
+14:40:11 [Blood Castle] (3) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (3) SetState CLOSED
+14:40:11 [Blood Castle] (4) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (4) SetState CLOSED
+14:40:11 [Blood Castle] (5) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (5) SetState CLOSED
+14:40:11 [Blood Castle] (6) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (6) SetState CLOSED
+14:40:11 [Blood Castle] (7) Sync Open Time. [109] min remain
+14:40:11 [Blood Castle] (7) SetState CLOSED
+14:40:11 [Chaos Castle] (1) Sync Start Time. [199] min remain (START HOUR:18, MIN:0)
+14:40:11 [Chaos Castle] (1) SetState CLOSED
+14:40:11 [Chaos Castle] (2) Sync Start Time. [199] min remain (START HOUR:18, MIN:0)
+14:40:11 [Chaos Castle] (2) SetState CLOSED
+14:40:11 [Chaos Castle] (3) Sync Start Time. [199] min remain (START HOUR:18, MIN:0)
+14:40:11 [Chaos Castle] (3) SetState CLOSED
+14:40:11 [Chaos Castle] (4) Sync Start Time. [199] min remain (START HOUR:18, MIN:0)
+14:40:11 [Chaos Castle] (4) SetState CLOSED
+14:40:11 [Chaos Castle] (5) Sync Start Time. [199] min remain (START HOUR:18, MIN:0)
+14:40:11 [Chaos Castle] (5) SetState CLOSED
+14:40:11 [Chaos Castle] (6) Sync Start Time. [199] min remain (START HOUR:18, MIN:0)
+14:40:11 [Chaos Castle] (6) SetState CLOSED
+14:40:11 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\CarnageEventItemBag.txt Item Load Complete
+14:40:11 [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [][Golden Dra] : MAP-2 / SVR-0 (State Map:0 X:186 Y:143)
+14:40:11 [MoveMap][][Golden Dra] : (Before:Map:0 X:186 Y:143) -> (New Map:2 X:202 Y:48)
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+14:40:11 [CARNAGE EVENT] Sync Start Time. [369] min remain (START HOUR:20, MIN:50)
+14:40:11 [CARNAGE EVENT] SetState_CLOSED
+Total 1 count IP load
+LoginServer connect IP( 127.0.0.1 )
+RankingServer Connect IP [ 127.0.0.1 ]
+EventChip Connect IP [ 127.0.0.1	; ]
+DataServer connect IP( 127.0.0.1 ) PORT ( 55960 )
+DataServer connect IP( 127.0.0.1 ) PORT ( 55962 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+14:40:12 [CashShop] Receive Cash Item List from ShopServer. (28)
+14:40:12 [CashShop][ShopList] (Category:0, Guid:1) ItemInfo(Type : 13, Index : 43, Name : Seal of Kingdom, Price : 10(10) Amount : 0, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:2) ItemInfo(Type : 13, Index : 43, Name : Seal of Kingdom, Price : 27(10) Amount : 0, UseTime : 180, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:3) ItemInfo(Type : 13, Index : 43, Name : Seal of Kingdom, Price : 48(10) Amount : 0, UseTime : 360, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:4) ItemInfo(Type : 13, Index : 44, Name : Seal of Warrior, Price : 15(10) Amount : 0, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:5) ItemInfo(Type : 13, Index : 44, Name : Seal of Warrior, Price : 40(10) Amount : 0, UseTime : 180, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:6) ItemInfo(Type : 13, Index : 44, Name : Seal of Warrior, Price : 72(10) Amount : 0, UseTime : 360, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:7) ItemInfo(Type : 13, Index : 45, Name : Seal of Legion, Price : 10(10) Amount : 0, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:8) ItemInfo(Type : 13, Index : 45, Name : Seal of Legion, Price : 27(10) Amount : 0, UseTime : 180, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:9) ItemInfo(Type : 13, Index : 45, Name : Seal of Legion, Price : 48(10) Amount : 0, UseTime : 360, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:10) ItemInfo(Type : 13, Index : 59, Name : Item 1359, Price : 15(10) Amount : 0, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:11) ItemInfo(Type : 13, Index : 46, Name : Item 1346, Price : 200(10) Amount : 0, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:12) ItemInfo(Type : 13, Index : 47, Name : Item 1347, Price : 200(10) Amount : 0, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:13) ItemInfo(Type : 13, Index : 48, Name : Item 1348, Price : 100(10) Amount : 0, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:14) ItemInfo(Type : 14, Index : 99, Name : Jewel of Exelent, Price : 500(1) Amount : 1, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:0, Guid:15) ItemInfo(Type : 14, Index : 100, Name : Jewel of Exelent, Price : 600(1) Amount : 1, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:1, Guid:16) ItemInfo(Type : 14, Index : 78, Name : Item 1478, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:1, Guid:17) ItemInfo(Type : 14, Index : 80, Name : Item 1480, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:1, Guid:18) ItemInfo(Type : 14, Index : 81, Name : Item 1481, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:1, Guid:19) ItemInfo(Type : 14, Index : 82, Name : Item 1482, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:2, Guid:20) ItemInfo(Type : 14, Index : 73, Name : Item 1473, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:2, Guid:21) ItemInfo(Type : 14, Index : 74, Name : Item 1474, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:2, Guid:22) ItemInfo(Type : 14, Index : 75, Name : Item 1475, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:2, Guid:23) ItemInfo(Type : 14, Index : 76, Name : Item 1476, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:2, Guid:24) ItemInfo(Type : 14, Index : 77, Name : Item 1477, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:3, Guid:25) ItemInfo(Type : 14, Index : 53, Name : Item 1453, Price : 10(10) Amount : 1, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:3, Guid:26) ItemInfo(Type : 14, Index : 53, Name : Item 1453, Price : 20(10) Amount : 2, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:3, Guid:27) ItemInfo(Type : 14, Index : 53, Name : Item 1453, Price : 30(10) Amount : 3, UseTime : 0, SPOP:0 
+14:40:12 [CashShop][ShopList] (Category:3, Guid:28) ItemInfo(Type : 14, Index : 54, Name : Item 1454, Price : 20(10) Amount : 1, UseTime : 0, SPOP:0 
+GameServer create PORT ( 55901 )
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+14:40:12 [ KANTURU ][ TimeAttackEvent ] Date:20150519, Counter:1
+[CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+14:40:13 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2011-9-28)
+14:40:13 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (6-23-59)
+14:40:13 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2011-10-4(23:59:0)
+14:40:13 [CastleSiege] CCastleSiege::Init() - START
+[CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+[ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:40:14 [ Crywolf ][ ApplyDBInfo] OccupationState : 1
+[CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+error-L2 : header error (E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\wsJoinServerCli.cpp 290)lOfs:0, size:8
+Active DB Change
+DataServer connect IP( 127.0.0.1 ) PORT ( 55960 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+14:42:14 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:25 Y:70
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.0.0.1 ) PORT ( 55906 )
+ExDB Server Check..
+DataServer connect fail  IP( 127.[..\data\Gate.txt] Gate information data load complete.
+(..\data\lang\kor\skill(kor).txt) Skill information data load complete
+[Quest] (EmperorScroll) Load : Index 0, SubInfoCount 2
+[Quest] (ClassChange) Load : Index 1, SubInfoCount 3
+[Quest] (HeroStatus) Load : Index 2, SubInfoCount 2
+[Quest] (DarkStone) Load : Index 3, SubInfoCount 1
+[Quest] (Certificate of Strength) Load : Index 4, SubInfoCount 9
+[Quest] (Infiltration of Barracks of Ballgass) Load : Index 5, SubInfoCount 3
+[Quest] (Into The Darkness) Load : Index 6, SubInfoCount 1
+14:52:07 [Quest] [SetQuestItem] Scroll of Emperor
+14:52:07 [Quest] [SetQuestItem] Scroll of Emperor
+14:52:07 [Quest] [SetQuestItem] Broken Sword
+14:52:07 [Quest] [SetQuestItem] Tear of Elf
+14:52:07 [Quest] [SetQuestItem] Soul of Wizard
+14:52:07 [Quest] [SetQuestItem] Scroll of Emperor
+14:52:07 [Quest] [SetQuestItem] Scroll of Emperor
+14:52:07 [Quest] [SetQuestItem] Broken Sword
+14:52:07 [Quest] [SetQuestItem] Flame of Death Beam Knight
+14:52:07 [Quest] [SetQuestItem] Horn of Hell Maine
+14:52:07 [Quest] [SetQuestItem] Feather of Phoenix
+14:52:07 [Quest] [SetQuestItem] Flame of Death Beam Knight
+14:52:07 [Quest] [SetQuestItem] Horn of Hell Maine
+14:52:07 [Quest] [SetQuestItem] Feather of Phoenix
+14:52:07 [Quest] [SetQuestItem] Flame of Death Beam Knight
+14:52:07 [Quest] [SetQuestItem] Horn of Hell Maine
+14:52:07 [Quest] [SetQuestItem] Feather of Phoenix
+[Monster Element] - ..\data\MonsterSkillElement.txt file is Loaded
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (7)(밀기)
+[Monster Skill Unit] - Found SkillElement (11)(내구도)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (17)(방향해제)
+[Monster Skill Unit] - Found SkillElement (23)(방향안걸림)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (3)(MP감소)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (16)(소환)
+[Monster Skill Unit] - Found SkillElement (13)(치료)
+[Monster Skill Unit] - Found SkillElement (43)(스턴2)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (17)(방향해제)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (3)(MP감소)
+[Monster Skill Unit] - Found SkillElement (4)(AG감소)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (44)(밀기2)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (44)(밀기2)
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (17)(방향해제)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (44)(밀기2)
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (1)(스턴1)
+[Monster Skill Unit] - Found SkillElement (45)(일반공격)
+[Monster Skill Unit] - Found SkillElement (24)(켄타우로스-멀티)
+[Monster Skill Unit] - Found SkillElement (25)(페르소나-악령)
+[Monster Skill Unit] - Found SkillElement (26)(트윈테일-일반)
+[Monster Skill Unit] - Found SkillElement (27)(트윈테일-독)
+[Monster Skill Unit] - Found SkillElement (28)(드레드피어-2회베기)
+[Monster Skill Unit] - Found SkillElement (29)(나이트-독)
+[Monster Skill Unit] - Found SkillElement (30)(나이트-독-일반)
+[Monster Skill Unit] - Found SkillElement (31)(나이트-돌개-일반)
+[Monster Skill Unit] - Found SkillElement (32)(나이트-화염진-일반)
+[Monster Skill Unit] - Found SkillElement (33)(나이트-화염진-밀기)
+[Monster Skill Unit] - Found SkillElement (34)(나이트메어-워프)
+[Monster Skill Unit] - Found SkillElement (35)(마야의손-프레셔-일반#)
+[Monster Skill Unit] - Found SkillElement (36)(마야의손-프레셔-밀기$)
+[Monster Skill Unit] - Found SkillElement (37)(마야의손-프레셔-내구%)
+[Monster Skill Unit] - Found SkillElement (38)(마야의손-파워-일반)
+[Monster Skill Unit] - Found SkillElement (39)(마야-아이스스톰-밀기')
+[Monster Skill Unit] - Found SkillElement (40)(마야-아이스스톰-일반()
+[Monster Skill Unit] - Found SkillElement (41)(마야-브로큰샤워-일반))
+[Monster Skill Unit] - Found SkillElement (42)(마야-브로큰샤워-스턴*)
+[Monster Skill Unit] - ..\data\MonsterSkillUnit.txt file is Loaded
+[Monster Skill Manager] - ..\data\MonsterSkill.txt file is Loaded
+[Monster AI Element] - ..\data\MonsterAIElement.txt file is Loaded
+[Monster AI MovePath ] - ..\data\MovePath_35.dat file is Loaded
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->AGRO대->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->HP감소->치료 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 치료->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 치료->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 치료->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->AGRO대->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->AGRO대->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->HP감소->회피 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->안에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 회피->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->적없음->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->안에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->밖에적->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->무조건->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->무조건->워프 ]
+[Monster AI Automata] Loaded Transition Desc . [ 워프->무조건->AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->무조건->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->무조건->워프 ]
+[Monster AI Automata] Loaded Transition Desc . [ 워프->무조건->AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->체력DD->소환 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 소환->무조건->무적 ]
+[Monster AI Automata] Loaded Transition Desc . [ 무적->무조건->워프 ]
+[Monster AI Automata] Loaded Transition Desc . [ 워프->무조건->AI ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 일반->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ 이동->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->적없음->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->밖에적->일반 ]
+[Monster AI Automata] Loaded Transition Desc . [ 공격->안에적->공격 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->적없음->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->밖에적->이동 ]
+[Monster AI Automata] Loaded Transition Desc . [ AI->안에적->이동 ]
+[Monster AI Automata] - ..\data\MonsterAutomata.txt file is Loaded
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+14:52:07 [Monster AI Element] FindAIElement() Error - (ElementNumber=-1) 
+[Monster AI Unit] - ..\data\MonsterAIUnit.txt file is Loaded
+[Monster AI Rule ] - ..\data\MonsterAIRule.txt file is Loaded
+[Monster AI Group ] - ..\data\MonsterAIGroup.txt file is Loaded
+[ Crywolf ] State (0) -> NONE
+[ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+[Crywolf Main Job] - ..\data\Event\Crywolf.dat file is Loaded
+14:52:07 [Skill Addition Info] [Infinity Arrow] Skill Time[3600], UseLevel[220], Arrow MP Consumption +0[5] +1[7] +2[10]
+14:52:07 [Skill Addition Info] [Fire Scream] Use(1) : Explosion Distance(2) - Rate(3000), MaxAttack_SameSerial(3), SerialInitCount(100), Check Serial(1)
+[ KANTURU ] - ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ BattleStanby ] ..\data\Event\Kanturu.dat file is Loaded
+14:52:07 [ KANTURU ][ BattleOfMaya ] IceStorm Using Rate Load: 60
+[ KANTURU ][ BattleOfMaya ] ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ BattleOfNightmare ]  ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ TowerOfRefinement ] ..\data\Event\Kanturu.dat file is Loaded
+[ KANTURU ][ MonsterSetBase ] - ..\data\Event\KanturuMonsterSetBase.txt file is Loaded
+14:52:07 [Option Reload] ★★★ MaxUser ☆☆☆  : 500
+Guild creation option 1
+Guild delete option 1
+Above level 300 can create guild
+14:52:07 (Option) Trade on
+[Option] ChaosBox = 1
+[Option] ChaosEvent = 1
+[Option] ChaosEventServer = 127.0.0.1	; [0] No 
+[Option] AttackEventRegenTime = 0
+14:52:07 [Option] Auto Looting Time Set : 20
+14:52:07 (Option) Dropping item when killed by Murderer
+14:52:07 (Option) Item drop rate : 20 %
+14:52:07 [DevilSquare] Close
+14:52:07 [DevilSquare] Sync Open Time. [66]min remain
+14:52:07 [Illusion Temple] (1) Sync Start Time. [397] min remain (START HOUR:21, MIN:30)
+14:52:07 [Illusion Temple] (1) SetState_CLOSED
+14:52:07 [Illusion Temple] (2) Sync Start Time. [397] min remain (START HOUR:21, MIN:30)
+14:52:07 [Illusion Temple] (2) SetState_CLOSED
+14:52:07 [Illusion Temple] (3) Sync Start Time. [397] min remain (START HOUR:21, MIN:30)
+14:52:07 [Illusion Temple] (3) SetState_CLOSED
+14:52:07 [Illusion Temple] (4) Sync Start Time. [397] min remain (START HOUR:21, MIN:30)
+14:52:07 [Illusion Temple] (4) SetState_CLOSED
+14:52:07 [Illusion Temple] (5) Sync Start Time. [397] min remain (START HOUR:21, MIN:30)
+14:52:07 [Illusion Temple] (5) SetState_CLOSED
+14:52:07 (Option) Connect Server IP(127.0.0.1) / PORT(55557)
+lator]
+..\data\EventItemBag\eventitembag.txt Item Load Complete
+..\data\EventItemBag\eventitembag2.txt Item Load Complete
+..\data\EventItemBag\eventitembag3.txt Item Load Complete
+14:52:07 [Star of Sacred Birch] Eventitemnum = 7179,EventItemLevel = 1, EventItemDropRate = 5, ItemDropRate = 150, ExItemDropRate = 100
+..\data\EventItemBag\eventitembag4.txt Item Load Complete
+..\data\EventItemBag\eventitembag5.txt Item Load Complete
+..\data\EventItemBag\eventitembag5.txt Item Load Complete
+..\data\EventItemBag\eventitembag6.txt Item Load Complete
+..\data\EventItemBag\eventitembag7.txt Item Load Complete
+..\data\EventItemBag\eventitembag8.txt Item Load Complete
+..\data\EventItemBag\eventitembag9.txt Item Load Complete
+..\data\EventItemBag\eventitembag10.txt Item Load Complete
+..\data\EventItemBag\eventitembag11.txt Item Load Complete
+..\data\EventItemBag\eventitembag12.txt Item Load Complete
+..\data\EventItemBag\eventitembag13.txt Item Load Complete
+..\data\EventItemBag\eventitembag14.txt Item Load Complete
+..\data\EventItemBag\eventitembag15.txt Item Load Complete
+14:52:07 [Kundun] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag17.txt Item Load Complete
+14:52:07 [Erohim] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag18.txt Item Load Complete
+14:52:07 [LordMix] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag19.txt Item Load Complete
+14:52:07 [Crystal Event] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag20.txt Item Load Complete
+14:52:07 [Red Ribbon] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 10, ExItemDropRate = 100
+..\data\EventItemBag\eventitembag21.txt Item Load Complete
+14:52:07 [Green Ribbon] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 10, ExItemDropRate = 100
+..\data\EventItemBag\eventitembag22.txt Item Load Complete
+14:52:07 [Blue Ribbon] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag23.txt Item Load Complete
+14:52:07 [Pink Chocolate] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag24.txt Item Load Complete
+14:52:07 [Red Chocolate] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag25.txt Item Load Complete
+14:52:07 [Blue Chocolate] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag26.txt Item Load Complete
+14:52:07 [LightPurpleCandy] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag27.txt Item Load Complete
+14:52:07 [VermilionCandy] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag28.txt Item Load Complete
+14:52:07 [DeepBlueCandy] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1000
+..\data\EventItemBag\eventitembag29.txt Item Load Complete
+14:52:07 [Dark Elf] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag30.txt Item Load Complete
+14:52:07 [Balgass] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag31.txt Item Load Complete
+14:52:07 [Maya Hands] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag32.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag33.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\EventItemBag\eventitembag34.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\GoldenArcherItemBag.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category1.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category2.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category3.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category4.txt Item Load Complete
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\Gambler\Category5.txt Item Load Complete
+..\data\Event\DevilSquare.dat file load!
+..\data\Event\BloodCastle.dat file load!
+..\data\Event\RingAttackEvent.dat file load!
+14:52:07 [Ring Event] Sync Start Time. [547] min remain (START HOUR:0, MIN:0)
+..\data\Event\CastleDeepEvent.dat file load!
+..\data\Event\ChaosCastle.dat file load!
+[DOTH] ..\data\Event\EventManagement.dat file load!
+14:52:07 [CashShop][OptionLoad] - CashShop Option Load Begin
+14:52:07 [CashShop][ShopOption] - Shop Option Reload '..\data\CashShopOption.dat'
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/53) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/96) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/54) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/92) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/93) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/95) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/43) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/44) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/45) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/59) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/62) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/63) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/46) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/47) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/48) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/61) Level:0, Dur:10, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/72) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/73) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/74) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/75) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/76) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/77) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/97) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/98) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/78) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/79) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/80) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/81) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/82) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/64) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/65) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/54) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/55) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/56) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/57) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (13/58) Level:0, Dur:100, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/91) Level:0, Dur:0, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/99) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/100) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/101) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Add List - (14/102) Level:0, Dur:1, Skill:0, Luck:0, Add:0, Ex:0, X:0, Y:0, Scale:50
+14:52:07 [CashShop][Load Cash Item List] - Complete! - Total:41
+14:52:07 [CashShop] Request Cash Branch Item List to ShopServer.
+14:52:07 [CashShop] Request Cash Item List to ShopServer.
+14:52:07 [CashShop] Request Cash Package Item List to ShopServer.
+14:52:07 [CashShop][OptionLoad] - CashShop Option Load finish
+14:52:07 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\\MarryItemBag.txt Item Load Complete
+..\data\Custom\customserver.cfg file load!
+14:52:07 [Soldier Event] Sync Start Time. [487] min remain (START HOUR:23, MIN:0)
+error-L3 : Monster Level Overflow~ E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\MonsterItemMng.cpp 126
+14:52:08 [Custom drop] Loaded (26) items
+Shop data load complete
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 1562 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 1637 class : 0
+14:52:08 SkyLand Boss Shield Setting!!
+14:52:08 SkyLand Boss Monster Setting!!
+14:52:08 SkyLand Boss Shield Setting!!
+14:52:08 SkyLand Boss Monster Setting!!
+14:52:08 SkyLand Boss Shield Setting!!
+14:52:08 SkyLand Boss Monster Setting!!
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 3808 class : 0
+error : Monster location setting error E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 3187
+error-L2 : 6410 class : 0
+14:52:09 [DevilSquare] Close
+14:52:09 [DevilSquare] Sync Open Time. [63]min remain
+14:52:09 [Blood Castle] (1) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (1) SetState CLOSED
+14:52:09 [Blood Castle] (2) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (2) SetState CLOSED
+14:52:09 [Blood Castle] (3) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (3) SetState CLOSED
+14:52:09 [Blood Castle] (4) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (4) SetState CLOSED
+14:52:09 [Blood Castle] (5) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (5) SetState CLOSED
+14:52:09 [Blood Castle] (6) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (6) SetState CLOSED
+14:52:09 [Blood Castle] (7) Sync Open Time. [97] min remain
+14:52:09 [Blood Castle] (7) SetState CLOSED
+14:52:09 [Chaos Castle] (1) Sync Start Time. [187] min remain (START HOUR:18, MIN:0)
+14:52:09 [Chaos Castle] (1) SetState CLOSED
+14:52:09 [Chaos Castle] (2) Sync Start Time. [187] min remain (START HOUR:18, MIN:0)
+14:52:09 [Chaos Castle] (2) SetState CLOSED
+14:52:09 [Chaos Castle] (3) Sync Start Time. [187] min remain (START HOUR:18, MIN:0)
+14:52:09 [Chaos Castle] (3) SetState CLOSED
+14:52:09 [Chaos Castle] (4) Sync Start Time. [187] min remain (START HOUR:18, MIN:0)
+14:52:09 [Chaos Castle] (4) SetState CLOSED
+14:52:09 [Chaos Castle] (5) Sync Start Time. [187] min remain (START HOUR:18, MIN:0)
+14:52:09 [Chaos Castle] (5) SetState CLOSED
+14:52:09 [Chaos Castle] (6) Sync Start Time. [187] min remain (START HOUR:18, MIN:0)
+14:52:09 [Chaos Castle] (6) SetState CLOSED
+14:52:09 [Nightmare] Eventitemnum = 0,EventItemLevel = 0, EventItemDropRate = 0, ItemDropRate = 100, ExItemDropRate = 1
+..\data\Custom\CarnageEventItemBag.txt Item Load Complete
+14:52:09 [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [][Golden Dra] : MAP-2 / SVR-0 (State Map:0 X:186 Y:143)
+14:52:09 [MoveMap][][Golden Dra] : (Before:Map:0 X:186 Y:143) -> (New Map:2 X:208 Y:38)
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+Regen OK E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\user.cpp 17037
+14:52:09 [CARNAGE EVENT] Sync Start Time. [357] min remain (START HOUR:20, MIN:50)
+14:52:09 [CARNAGE EVENT] SetState_CLOSED
+Total 1 count IP load
+LoginServer connect IP( 127.0.0.1 )
+RankingServer Connect IP [ 127.0.0.1 ]
+EventChip Connect IP [ 127.0.0.1	; ]
+DataServer connect IP( 127.0.0.1 ) PORT ( 55960 )
+DataServer connect IP( 127.0.0.1 ) PORT ( 55962 )
+ExDB Server Check..
+ExDB Server Online
+14:52:09 [CashShop] Receive Cash Item List from ShopServer. (28)
+14:52:09 [CashShop][ShopList] (Category:0, Guid:1) ItemInfo(Type : 13, Index : 43, Name : Seal of Kingdom, Price : 10(10) Amount : 0, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:2) ItemInfo(Type : 13, Index : 43, Name : Seal of Kingdom, Price : 27(10) Amount : 0, UseTime : 180, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:3) ItemInfo(Type : 13, Index : 43, Name : Seal of Kingdom, Price : 48(10) Amount : 0, UseTime : 360, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:4) ItemInfo(Type : 13, Index : 44, Name : Seal of Warrior, Price : 15(10) Amount : 0, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:5) ItemInfo(Type : 13, Index : 44, Name : Seal of Warrior, Price : 40(10) Amount : 0, UseTime : 180, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:6) ItemInfo(Type : 13, Index : 44, Name : Seal of Warrior, Price : 72(10) Amount : 0, UseTime : 360, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:7) ItemInfo(Type : 13, Index : 45, Name : Seal of Legion, Price : 10(10) Amount : 0, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:8) ItemInfo(Type : 13, Index : 45, Name : Seal of Legion, Price : 27(10) Amount : 0, UseTime : 180, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:9) ItemInfo(Type : 13, Index : 45, Name : Seal of Legion, Price : 48(10) Amount : 0, UseTime : 360, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:10) ItemInfo(Type : 13, Index : 59, Name : Item 1359, Price : 15(10) Amount : 0, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:11) ItemInfo(Type : 13, Index : 46, Name : Item 1346, Price : 200(10) Amount : 0, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:12) ItemInfo(Type : 13, Index : 47, Name : Item 1347, Price : 200(10) Amount : 0, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:13) ItemInfo(Type : 13, Index : 48, Name : Item 1348, Price : 100(10) Amount : 0, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:14) ItemInfo(Type : 14, Index : 99, Name : Jewel of Exelent, Price : 500(1) Amount : 1, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:0, Guid:15) ItemInfo(Type : 14, Index : 100, Name : Jewel of Exelent, Price : 600(1) Amount : 1, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:1, Guid:16) ItemInfo(Type : 14, Index : 78, Name : Item 1478, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:1, Guid:17) ItemInfo(Type : 14, Index : 80, Name : Item 1480, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:1, Guid:18) ItemInfo(Type : 14, Index : 81, Name : Item 1481, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:1, Guid:19) ItemInfo(Type : 14, Index : 82, Name : Item 1482, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:2, Guid:20) ItemInfo(Type : 14, Index : 73, Name : Item 1473, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:2, Guid:21) ItemInfo(Type : 14, Index : 74, Name : Item 1474, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:2, Guid:22) ItemInfo(Type : 14, Index : 75, Name : Item 1475, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:2, Guid:23) ItemInfo(Type : 14, Index : 76, Name : Item 1476, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:2, Guid:24) ItemInfo(Type : 14, Index : 77, Name : Item 1477, Price : 10(10) Amount : 1, UseTime : 60, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:3, Guid:25) ItemInfo(Type : 14, Index : 53, Name : Item 1453, Price : 10(10) Amount : 1, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:3, Guid:26) ItemInfo(Type : 14, Index : 53, Name : Item 1453, Price : 20(10) Amount : 2, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:3, Guid:27) ItemInfo(Type : 14, Index : 53, Name : Item 1453, Price : 30(10) Amount : 3, UseTime : 0, SPOP:0 
+14:52:09 [CashShop][ShopList] (Category:3, Guid:28) ItemInfo(Type : 14, Index : 54, Name : Item 1454, Price : 20(10) Amount : 1, UseTime : 0, SPOP:0 
+GameServer create PORT ( 55901 )
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+14:52:12 [ KANTURU ][ TimeAttackEvent ] Date:20150519, Counter:1
+[CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+14:52:12 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2011-9-28)
+14:52:12 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (6-23-59)
+14:52:12 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2011-10-4(23:59:0)
+14:52:12 [CastleSiege] CCastleSiege::Init() - START
+[CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+[CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+[ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:52:13 [ Crywolf ][ ApplyDBInfo] OccupationState : 1
+error-L2 : header error (E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\wsJoinServerCli.cpp 290)lOfs:0, size:8
+Active DB Change
+DataServer connect IP( 127.0.0.1 ) PORT ( 55960 )
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+14:53:16 connect : [8400][27.76.27.182]
+14:53:19 join send : (8400)datga
+14:53:19 ***0467*** login     : (27.76.27.182)[datga] number:0/ db:19
+14:53:20 error-L2 : Index E:\Developement\Sources\C++\Mu-Studio_S3_EP1\GameServer\SOURCE\protocol.cpp 13896
+Same skill already exists. 45 45
+Same skill already exists. 67 67
+Same skill already exists. 68 68
+Same skill already exists. 69 69
+Same skill already exists. 70 70
+Same skill already exists. 71 71
+error-L2: His class is not allowed to use the skill
+(datga)(DatGa) Set Event GM
+14:53:26 (8400)[datga][DatGa] Character select
+14:53:26 [ShieldSystem][CalcSDPoint] [datga][DatGa] user SD Gage : 12582
+14:53:26 [MapServerMng] CheckMoveMapSvr() - MapServer Check OK [datga][DatGa] : MAP-0 / SVR-0 (State Map:0 X:136 Y:119)
+14:53:26 [FRUIT System] [datga][DatGa] (MinusPoint:0/PlusPoint:6277) (MaxMinus:74/MaxPlus:74)
+14:53:26 [FRUIT System] Character Stat Error [datga][DatGa] (MinusPoint:0/PlusPoint:6277) (MaxMinus:74/MaxPlus:74)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(0) name(EmperorScroll) state(None)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(1) name(ClassChange) state(None)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(2) name(HeroStatus) state(None)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(3) name(DarkStone) state(None)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(4) name(Certificate of Strength) state(None)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(5) name(Infiltration of Barracks of Ballgass) state(None)
+14:53:26 [Quest] QuestSave [datga][DatGa] index(6) name(Into The Darkness) state(None)
+[DatGa] Friend List Request
+14:53:26 [CUSTOM QUEST] Request Info [datga][DatGa]
+14:53:26 [CashShop][PeriodItemSelect Ans] Failed - Item over 1 item ID : datga, Name : DatGa
+14:53:26 [CUSTOM QUEST] Info Loaded [datga][DatGa] Group:[0],Index:[1] - Item1:[1], Item2[0], Item3[0]
+14:53:26 [datga][DatGa] [CUSTOM QUEST2] [Group1][Quest:1, State 1], [Group2][Quest:0, State 0], [Group3][Quest:0, State 0]
+[DatGa] Friend List Count (0) Send
+14:54:12 [JewelMix] [datga][DatGa] Jewel Mix Dealer Start
+14:54:12 ***0504*** [datga][DatGa] SI(0,Grand Soul Staff,13,0,1,7)serial:(634439680) dur:(138) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(1,Grand Soul Shield,13,0,1,7)serial:(-1342932480) dur:(102) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(3,Grand Soul Armor,13,0,0,7)serial:(-462612736) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(4,Grand Soul Pants,13,0,0,7)serial:(569736704) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(5,Grand Soul Gloves,13,0,0,7)serial:(877676800) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(6,Grand Soul Boots,13,0,0,7)serial:(-1723602944) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(7,Wings of Archangel,0,0,1,3)serial:(-523130624) dur:(215) Ex:(1,0,1,1,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(8,Guardian Angel,0,0,0,0)serial:(0) dur:(107) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(9,Pendant of Lightning,1,0,0,0)serial:(166) dur:(66) Ex:(0,0,0,1,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(10,Ring of Ice,1,0,0,2)serial:(167) dur:(66) Ex:(0,1,1,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(12,Food of Jack,0,0,0,0)serial:(15241) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(14,Calice of Jack,0,0,0,0)serial:(15242) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(15,Ring of Magic,0,0,0,0)serial:(160) dur:(65) Ex:(0,0,0,0,1,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(16,SD Potion,5,0,0,0)serial:(150) dur:(5) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(27,Ring of Wizardy,0,0,0,0)serial:(15662) dur:(30) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(30,Item 1348,0,0,0,0)serial:(296875776) dur:(6) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(38,Ring of Poison,0,0,0,0)serial:(165) dur:(65) Ex:(0,1,0,0,1,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(44,Item 1360,0,0,0,0)serial:(16011) dur:(0) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(45,Pendant of Lightning,9,0,0,1)serial:(0) dur:(64) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(46,Ring of Wind,0,0,0,1)serial:(16098) dur:(50) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(47,Guardian Angel,0,0,0,0)serial:(16124) dur:(255) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(48,Jewel of Bless,0,0,0,0)serial:(16127) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(53,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(60,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(61,Item 1347,0,0,0,0)serial:(0) dur:(9) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(68,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(78,Nikea Axe,0,1,0,2)serial:(15155) dur:(59) Ex:(0,0,0,0,1,0,0) Set : (0)
+14:54:12 ***0504*** [datga][DatGa] SI(98,Pad Boots,13,0,1,1)serial:(13025) dur:(75) Ex:(0,0,0,0,0,1,0) Set : (0)
+14:54:12 ***0505*** [datga][DatGa] Item Save Complete. Money ( 281037938 )
+14:54:12 ***0507*** [datga][DatGa] Store Save Complete. wMoney(0)
+14:54:13 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:21 Y:78
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+14:54:51 Experience : Map[0]-(188,129) [datga][DatGa](300) 99225855 25 MonsterIndex : 2, EventType : 0
+14:54:52 Experience : Map[0]-(188,129) [datga][DatGa](300) 99225880 25 MonsterIndex : 2, EventType : 0
+14:54:52 Experience : Map[0]-(188,129) [datga][DatGa](300) 99225905 25 MonsterIndex : 2, EventType : 0
+14:54:53 Monster Item Drop Request [Spider] [0][185][133] : [Blood Fang][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:54:53 Monster Item Drop [0][185][133] : serial:16130 [Blood Fang][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:54:54 Experience : Map[0]-(188,129) [datga][DatGa](300) 99225930 25 MonsterIndex : 2, EventType : 0
+14:54:58 Experience : Map[0]-(188,129) [datga][DatGa](300) 99225955 25 MonsterIndex : 2, EventType : 0
+14:54:59 Monster Item Drop Request [Budge Drag] [0][195][129] : [Hand Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:54:59 Monster Item Drop [0][195][129] : serial:16131 [Hand Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:03 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:04 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:04 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:05 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:14 Item has disappeared(Blood Fang:6673/level:1/skill:0/serial:16130)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+14:55:17 Experience : Map[0]-(202,119) [datga][DatGa](300) 99225980 25 MonsterIndex : 2, EventType : 0
+14:55:19 Monster Item Drop Request [Spider] [0][200][114] : [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:19 Monster Item Drop [0][200][114] : serial:16132 [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:20 Item has disappeared(Hand Axe:513/level:0/skill:0/serial:16131)
+14:55:28 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:31 Experience : Map[0]-(197,148) [datga][DatGa](300) 99226005 25 MonsterIndex : 2, EventType : 0
+14:55:33 Monster Item Drop Request [Spider] [0][200][150] : [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:33 Monster Item Drop [0][200][150] : serial:16133 [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:34 Experience : Map[0]-(196,147) [datga][DatGa](300) 99226030 25 MonsterIndex : 2, EventType : 0
+14:55:36 Experience : Map[0]-(194,146) [datga][DatGa](300) 99226055 75 MonsterIndex : 0, EventType : 0
+14:55:39 Item has disappeared(Small Axe:512/level:0/skill:0/serial:16132)
+14:55:42 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226130 75 MonsterIndex : 0, EventType : 0
+14:55:42 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226205 75 MonsterIndex : 0, EventType : 0
+14:55:43 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226280 25 MonsterIndex : 2, EventType : 0
+14:55:43 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226305 75 MonsterIndex : 0, EventType : 0
+14:55:43 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:44 Monster Item Drop Request [Budge Drag] [0][181][157] : [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:44 Monster Item Drop [0][181][157] : serial:16134 [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:44 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226380 25 MonsterIndex : 2, EventType : 0
+14:55:44 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226405 25 MonsterIndex : 2, EventType : 0
+14:55:44 Experience : Map[0]-(182,158) [datga][DatGa](300) 99226430 25 MonsterIndex : 2, EventType : 0
+14:55:45 Monster Item Drop Request [Budge Drag] [0][186][167] : [Round Shield][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:45 Monster Item Drop [0][186][167] : serial:16135 [Round Shield][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:45 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:46 Experience : Map[0]-(182,159) [datga][DatGa](300) 99226455 25 MonsterIndex : 2, EventType : 0
+14:55:47 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:47 Experience : Map[0]-(187,165) [datga][DatGa](300) 99226480 75 MonsterIndex : 0, EventType : 0
+14:55:51 Experience : Map[0]-(189,166) [datga][DatGa](300) 99226555 25 MonsterIndex : 2, EventType : 0
+14:55:51 Experience : Map[0]-(189,166) [datga][DatGa](300) 99226580 25 MonsterIndex : 2, EventType : 0
+14:55:51 Experience : Map[0]-(189,166) [datga][DatGa](300) 99226605 75 MonsterIndex : 0, EventType : 0
+14:55:52 Monster Item Drop Request [Bull Fight] [0][184][163] : [Pad Gloves][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:52 Monster Item Drop [0][184][163] : serial:16136 [Pad Gloves][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:55:53 Item has disappeared(Small Axe:512/level:0/skill:0/serial:16133)
+14:55:53 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:53 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:54 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:55 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:55 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:57 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:55:59 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:00 Experience : Map[0]-(205,172) [datga][DatGa](300) 99226680 25 MonsterIndex : 2, EventType : 0
+14:56:00 Monster Item Drop Request [Spider] [0][202][173] : [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:00 Monster Item Drop [0][202][173] : serial:16137 [Rena][3][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:01 Monster Item Drop Request [Spider] [0][203][175] : [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:01 Monster Item Drop [0][203][175] : serial:16138 [Short Bow][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:01 Monster Item Drop Request [Spider] [0][204][171] : [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:01 Monster Item Drop [0][204][171] : serial:16139 [Small Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:01 Experience : Map[0]-(205,173) [datga][DatGa](300) 99226705 25 MonsterIndex : 2, EventType : 0
+14:56:02 Experience : Map[0]-(204,175) [datga][DatGa](300) 99226730 25 MonsterIndex : 2, EventType : 0
+14:56:02 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:02 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:03 Monster Item Drop Request [Budge Drag] [0][201][177] : [Hand Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:03 Monster Item Drop [0][201][177] : serial:16140 [Hand Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:04 Item has disappeared(Short Bow:2048/level:0/skill:0/serial:16134)
+14:56:05 Item has disappeared(Round Shield:3072/level:0/skill:0/serial:16135)
+14:56:10 Experience : Map[0]-(207,189) [datga][DatGa](300) 99226755 25 MonsterIndex : 2, EventType : 0
+14:56:10 Experience : Map[0]-(207,189) [datga][DatGa](300) 99226780 25 MonsterIndex : 2, EventType : 0
+14:56:10 Experience : Map[0]-(207,189) [datga][DatGa](300) 99226805 25 MonsterIndex : 2, EventType : 0
+14:56:11 Monster Item Drop Request [Budge Drag] [0][208][195] : [Small Axe][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:11 Monster Item Drop [0][208][195] : serial:16141 [Small Axe][1][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:12 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:13 Item has disappeared(Pad Gloves:5122/level:1/skill:0/serial:16136)
+14:56:13 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:13 Experience : Map[0]-(212,195) [datga][DatGa](300) 99226830 25 MonsterIndex : 2, EventType : 0
+14:56:14 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:23 Y:81
+14:56:15 Experience : Map[0]-(214,195) [datga][DatGa](300) 99226855 25 MonsterIndex : 2, EventType : 0
+14:56:15 Experience : Map[0]-(214,195) [datga][DatGa](300) 99226880 25 MonsterIndex : 2, EventType : 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+14:56:17 Experience : Map[0]-(218,196) [datga][DatGa](300) 99226905 25 MonsterIndex : 2, EventType : 0
+14:56:18 Experience : Map[0]-(218,196) [datga][DatGa](300) 99226930 25 MonsterIndex : 2, EventType : 0
+14:56:18 Experience : Map[0]-(218,197) [datga][DatGa](300) 99226955 25 MonsterIndex : 2, EventType : 0
+14:56:18 Experience : Map[0]-(219,198) [datga][DatGa](300) 99226980 25 MonsterIndex : 2, EventType : 0
+14:56:19 Monster Item Drop Request [Budge Drag] [0][216][198] : [Hand Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:19 Monster Item Drop [0][216][198] : serial:16142 [Hand Axe][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:21 Item has disappeared(Rena:7189/level:3/skill:0/serial:16137)
+14:56:21 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:21 Experience : Map[0]-(220,202) [datga][DatGa](300) 99227005 75 MonsterIndex : 0, EventType : 0
+14:56:21 Experience : Map[0]-(220,202) [datga][DatGa](300) 99227080 25 MonsterIndex : 2, EventType : 0
+14:56:22 Item has disappeared(Short Bow:2048/level:0/skill:0/serial:16138)
+14:56:22 Item has disappeared(Small Axe:512/level:0/skill:0/serial:16139)
+14:56:22 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:23 Experience : Map[0]-(221,209) [datga][DatGa](300) 99227105 75 MonsterIndex : 0, EventType : 0
+14:56:23 Experience : Map[0]-(221,209) [datga][DatGa](300) 99227180 25 MonsterIndex : 2, EventType : 0
+14:56:24 Experience : Map[0]-(220,210) [datga][DatGa](300) 99227205 25 MonsterIndex : 2, EventType : 0
+14:56:24 Experience : Map[0]-(220,210) [datga][DatGa](300) 99227230 75 MonsterIndex : 0, EventType : 0
+14:56:24 Item has disappeared(Hand Axe:513/level:0/skill:0/serial:16140)
+14:56:25 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:26 Experience : Map[0]-(220,211) [datga][DatGa](300) 99227305 75 MonsterIndex : 0, EventType : 0
+14:56:27 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:27 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:28 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:29 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:30 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:31 Experience : Map[0]-(225,215) [datga][DatGa](300) 99227380 75 MonsterIndex : 0, EventType : 0
+14:56:31 Experience : Map[0]-(225,215) [datga][DatGa](300) 99227455 75 MonsterIndex : 0, EventType : 0
+14:56:32 Item has disappeared(Small Axe:512/level:1/skill:0/serial:16141)
+14:56:32 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:32 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:32 Monster Item Drop Request [Bull Fight] [0][223][218] : [Pad Helm][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:32 Monster Item Drop [0][223][218] : serial:16143 [Pad Helm][0][0][0][0] Ex:[0,0,0,0,0,0,0] Set:[0]
+14:56:32 Experience : Map[0]-(227,218) [datga][DatGa](300) 99227530 75 MonsterIndex : 0, EventType : 0
+14:56:34 Experience : Map[0]-(227,218) [datga][DatGa](300) 99227605 75 MonsterIndex : 0, EventType : 0
+14:56:34 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:34 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:35 Experience : Map[0]-(227,218) [datga][DatGa](300) 99227680 75 MonsterIndex : 0, EventType : 0
+14:56:35 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:36 Experience : Map[0]-(231,215) [datga][DatGa](300) 99227755 75 MonsterIndex : 0, EventType : 0
+14:56:37 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:38 Experience : Map[0]-(235,214) [datga][DatGa](300) 99227830 75 MonsterIndex : 0, EventType : 0
+14:56:39 Experience : Map[0]-(236,214) [datga][DatGa](300) 99227905 75 MonsterIndex : 0, EventType : 0
+14:56:40 Item has disappeared(Hand Axe:513/level:0/skill:0/serial:16142)
+14:56:42 Experience : Map[0]-(239,214) [datga][DatGa](300) 99227980 75 MonsterIndex : 0, EventType : 0
+14:56:42 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:42 Experience : Map[0]-(242,214) [datga][DatGa](300) 99228055 75 MonsterIndex : 0, EventType : 0
+14:56:44 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:45 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:46 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:47 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:50 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:51 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:52 Item has disappeared(Pad Helm:3586/level:0/skill:0/serial:16143)
+14:56:53 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:53 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+14:56:56 Experience : Map[0]-(240,208) [datga][DatGa](300) 99228130 75 MonsterIndex : 0, EventType : 0
+Connection Closed, dwIoSize == 0 (Index:8400)
+14:57:04 [datga][DatGa] Skill Save Complete. 0 67
+14:57:04 [datga][DatGa] Skill Save Complete. 1 68
+14:57:04 [datga][DatGa] Skill Save Complete. 2 69
+14:57:04 [datga][DatGa] Skill Save Complete. 3 70
+14:57:04 [datga][DatGa] Skill Save Complete. 4 71
+14:57:04 [datga][DatGa] Skill Save Complete. 5 17
+14:57:04 [datga][DatGa] Skill Save Complete. 6 45
+14:57:04 [datga][DatGa] Skill Save Complete. 7 9
+14:57:04 [datga][DatGa] Skill Save Complete. 8 6
+14:57:04 [datga][DatGa] Skill Save Complete. 9 10
+14:57:04 [datga][DatGa] Skill Save Complete. 10 38
+14:57:04 [datga][DatGa] Skill Save Complete. 11 13
+14:57:04 [datga][DatGa] Skill Save Complete. 12 14
+14:57:04 [datga][DatGa] Skill Save Complete. 13 39
+14:57:04 [datga][DatGa] Skill Save Complete. 14 15
+14:57:04 [datga][DatGa] Skill Save Complete. 15 3
+14:57:04 ***0504*** [datga][DatGa] SI(0,Grand Soul Staff,13,0,1,7)serial:(634439680) dur:(138) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(1,Grand Soul Shield,13,0,1,7)serial:(-1342932480) dur:(102) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(3,Grand Soul Armor,13,0,0,7)serial:(-462612736) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(4,Grand Soul Pants,13,0,0,7)serial:(569736704) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(5,Grand Soul Gloves,13,0,0,7)serial:(877676800) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(6,Grand Soul Boots,13,0,0,7)serial:(-1723602944) dur:(114) Ex:(1,1,1,1,1,1,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(7,Wings of Archangel,0,0,1,3)serial:(-523130624) dur:(215) Ex:(1,0,1,1,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(8,Guardian Angel,0,0,0,0)serial:(0) dur:(107) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(9,Pendant of Lightning,1,0,0,0)serial:(166) dur:(66) Ex:(0,0,0,1,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(10,Ring of Ice,1,0,0,2)serial:(167) dur:(66) Ex:(0,1,1,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(12,Food of Jack,0,0,0,0)serial:(15241) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(14,Calice of Jack,0,0,0,0)serial:(15242) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(15,Ring of Magic,0,0,0,0)serial:(160) dur:(65) Ex:(0,0,0,0,1,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(16,SD Potion,5,0,0,0)serial:(150) dur:(5) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(27,Ring of Wizardy,0,0,0,0)serial:(15662) dur:(30) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(30,Item 1348,0,0,0,0)serial:(296875776) dur:(6) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(38,Ring of Poison,0,0,0,0)serial:(165) dur:(65) Ex:(0,1,0,0,1,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(44,Item 1360,0,0,0,0)serial:(16011) dur:(0) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(45,Pendant of Lightning,9,0,0,1)serial:(0) dur:(64) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(46,Ring of Wind,0,0,0,1)serial:(16098) dur:(50) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(47,Guardian Angel,0,0,0,0)serial:(16124) dur:(255) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(48,Jewel of Bless,0,0,0,0)serial:(16127) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(53,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(60,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(61,Item 1347,0,0,0,0)serial:(0) dur:(9) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(68,Jewel Of Wings,0,0,0,0)serial:(0) dur:(1) Ex:(0,0,0,0,0,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(78,Nikea Axe,0,1,0,2)serial:(15155) dur:(59) Ex:(0,0,0,0,1,0,0) Set : (0)
+14:57:04 ***0504*** [datga][DatGa] SI(98,Pad Boots,13,0,1,1)serial:(13025) dur:(75) Ex:(0,0,0,0,0,1,0) Set : (0)
+14:57:04 ***0505*** [datga][DatGa] Item Save Complete. Money ( 281037951 )
+14:57:04 [datga][DatGa] CharInfoSave : Class=1 Level=300 LVPoint=389 Exp=99228205 Str=344 Dex=2760 Vit=1030 Energy=3330 Leadership:0 Map=0 Pk=3
+14:57:04 (8400)[datga][DatGa] Character closed
+14:57:04 [CUSTOM QUEST] Save Info [datga][DatGa]
+14:57:04 (8400)logout-send : datga [27.76.27.182]
+14:57:04 (8400)logout :  [27.76.27.182]
+14:57:07 Item has disappeared(Zen:7183/level:0/skill:0/serial:0)
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+14:58:16 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:22 Y:82
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:00:18 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:55 Y:70
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:02:19 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:37 Y:79
+15:02:22 [KUNDUN][Status Log] HP:5000000 RefillHP:11254 Map:36 X:38 Y:78
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:04:23 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:45 Y:85
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:05:50 connect : [8401][127.0.0.1]
+Connection Closed, dwIoSize == 0 (Index:8401)
+15:05:50 (8401)logout :  [127.0.0.1]
+15:06:25 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:35 Y:98
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+NPC 0로 이동
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:08:27 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:98
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:10:00 [Event Management] Event Schedule (0) 15 10 (state=0)
+15:10:00 ○●[Event Management] [Start] Dragon Event!
+15:10:00 [Event Management] Event Schedule (2) 15 10 (state=0)
+15:10:00 ○●[Event Management] [Start] EledoradoEvent Event!
+15:10:00 Make GoldGoblen : 0, 106,85
+15:10:00 Make GoldGoblen : 3, 52,131
+15:10:00 Make GoldGoblen : 3, 127,151
+15:10:00 Make GoldTaitan : 2, 79,170
+15:10:00 Make GoldTaitan : 2, 106,65
+15:10:00 Make GoldDercon : 0, 86,164
+15:10:00 Make GoldDercon : 0, 105,91
+15:10:00 Make GoldDercon : 0, 167,169
+15:10:00 Make GoldLizarKing : 7, 173,101
+15:10:00 Make GoldLizarKing : 7, 124,139
+15:10:00 Make GoldLizarKing : 7, 125,82
+15:10:00 Make GoldLizarKing : 7, 165,114
+15:10:00 Make GoldTantarus : 8, 87,143
+15:10:00 Make GoldTantarus : 8, 104,163
+15:10:00 Make GoldTantarus : 8, 154,144
+15:10:00 Make GoldTantarus : 8, 91,87
+Event Start 1
+15:10:28 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:43 Y:92
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleStanby ] State(2) -> END
+[ KANTURU ][ BattleStanby ] State(3) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+[ KANTURU ] State(1) -> BATTLE_OF_MAYA
+[ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+15:12:10 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+15:12:30 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:43 Y:89
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:12:32 [KUNDUN][Status Log] HP:5000000 RefillHP:5210 Map:36 X:42 Y:91
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+15:14:09 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+[ KANTURU ][ BattleOfMaya ] State(2) -> END
+[ KANTURU ][ BattleOfMaya ] Success Value[0]
+[ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+15:14:11 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+[ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+[ KANTURU ] State(2) -> END
+[ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+[ KANTURU ] State(5) -> NONE
+[ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+[ KANTURU ] State(0) -> STANDBY
+[ KANTURU ][ BattleStanby ] State(0) -> START
+15:14:12 [ KANTURU ][ TimeAttackEvent ] Date:20150519, Counter:2
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:14:34 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:33 Y:94
+Event 1 End
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:16:35 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:40 Y:99
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+[ CRYWOLF ] SYNC Occupation: 1, State: 0
+15:18:37 [KUNDUN][Status Log] HP:5000000 RefillHP:0 Map:36 X:36 Y:102
+[ CRYWOLF ] SYNC Occupation: 1, St

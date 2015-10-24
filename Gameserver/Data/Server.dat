@@ -1,0 +1,5 @@
+[GameServerInfo]
+ServerName       = VOZ
+ServerCode       = 0
+NonPk 		 = 0
+PkLimitFree      = 0

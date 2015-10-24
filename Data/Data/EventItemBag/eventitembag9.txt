@@ -1,0 +1,42 @@
+////////          mu.reedlan.com         //////////////////////////
+///////////////////////////////////////////////////////////////////
+////////         Box of Kundun +2        //////////////////////////
+///////////////////////////////////////////////////////////////////
+//
+7	6	0	0	1	1  // Scale Helm DK MG DL
+8	6	0	0	1	1  // Scale Armor
+9	6	0	0	1	1  // Scale Pants
+10	6	0	0	1	1  // Scale Gloves
+11	6	0	0	1	1  // Scale Boots
+//
+7	4	0	0	1	1  // Bone Helm DW MG
+8	4	0	0	1	1  // Bone Armor
+9	4	0	0	1	1  // Bone Pants
+10	4	0	0	1	1  // Bone Gloves
+11	4	0	0	1	1  // Bone Boots
+//
+7	11	0	0	1	1  // Silk Helm
+8	11	0	0	1	1  // Silk Armor
+9	11	0	0	1	1  // Silk Pants
+10	11	0	0	1	1  // Silk Gloves
+11	11	0	0	1	1  // Silk Boots
+//
+7	12	4	0	1	1  // Wind Helm 
+8	12	4	0	1	1  // Wind Armor 
+9	12	4	0	1	1  // Wind Pants 
+10	12	4	0	1	1  // Wind Gloves 
+11	12	4	0	1	1  // Wind Boots 
+//
+7	8	4	0	1	1  // Brass Helm DK MG
+8	8	4	0	1	1  // Brass Armor 
+9	8	4	0	1	1  // Brass Pants 
+10	8	4	0	1	1  // Brass Gloves 
+11	8	4	0	1	1  // Brass Boots 
+//
+7	7	4	0	1	1  // Sphinx Helm DW MG
+8	7	4	0	1	1  // Sphinx Armor 
+9	7	4	0	1	1  // Sphinx Pants 
+10	7	4	0	1	1  // Sphinx Gloves 
+11	7	4	0	1	1  // Sphinx Boots 
+//
+end

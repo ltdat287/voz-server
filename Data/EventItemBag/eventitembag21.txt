@@ -1,0 +1,110 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Red Ribbon Event Settings                                                       ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Red Ribbon"	1000000	0	0	0	0	10	100
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+																				
+	0	4	7	9	1	1	1	0	// Sword of Assassin												
+	0	3	7	9	1	1	1	0	// Katache												
+	0	6	7	9	1	1	1	0	// Gladius												
+	0	7	7	9	1	1	1	0	// Falchion												
+	0	5	7	9	1	1	1	0	// Blade												
+	1	1	7	9	1	1	1	0	// Hand Axe												
+	1	2	7	9	1	1	1	0	// Double Axe												
+	1	3	7	9	1	1	1	0	// Tomahawk												
+	2	0	7	9	1	1	1	0	// Mace												
+	2	1	7	9	1	1	1	0	// Morning Star												
+	2	2	7	9	1	1	1	0	// Flail												
+	2	8	7	9	1	1	1	0	// Battle Scepter												
+	3	2	7	9	1	1	1	0	// Dragon Lance		
+	3	1	7	9	1	1	1	0	// Spear		
+	3	3	7	9	1	1	1	0	// Giant Trident		
+	4	9	7	9	1	1	1	0	// Golden Crossbow		
+	4	2	7	9	1	1	1	0	// Elven Bow		
+	4	10	7	9	1	1	1	0	// Arquebus		
+	4	3	7	9	1	1	1	0	// Battle Bow		
+	4	11	7	9	1	1	1	0	// Light Crossbow		
+	5	0	7	9	1	1	1	0	// Skull Staff		
+	5	1	7	9	1	1	1	0	// Angelic Staff		
+	5	2	7	9	1	1	1	0	// Serpent Staff		
+											
+//방어구류											
+	7	5	7	9	0	1	1	0	// Leather Helm		
+	7	0	7	9	0	1	1	0	// Bronze Helm		
+	7	2	7	9	0	1	1	0	// Pad Helm		
+	7	4	7	9	0	1	1	0	// Bone Helm		
+	7	10	7	9	0	1	1	0	// Vine Helm		
+	7	11	7	9	0	1	1	0	// Silk Helm	
+	
+	8	5	7	9	0	1	1	0	// Leather	Armor	
+	8	0	7	9	0	1	1	0	// Bronze	Armor	
+	8	2	7	9	0	1	1	0	// Pad Armor		
+	8	4	7	9	0	1	1	0	// Bone Armor		
+	8	10	7	9	0	1	1	0	// Vine Armor		
+	8	11	7	9	0	1	1	0	// Silk Armor
+		
+	9	5	7	9	0	1	1	0	// Leather	 Pants	
+	9	0	7	9	0	1	1	0	// Bronze	Pants	
+	9	2	7	9	0	1	1	0	// Pad Pants	 	
+	9	4	7	9	0	1	1	0	// Bone Pants		
+	9	10	7	9	0	1	1	0	// Vine Pants		
+	9	11	7	9	0	1	1	0	// Silk Pants
+		
+	10	5	7	9	0	1	1	0	// Leather	 Gloves	
+	10	0	7	9	0	1	1	0	// Bronze Gloves		
+	10	2	7	9	0	1	1	0	// Pad Gloves		
+	10	4	7	9	0	1	1	0	// Bone Gloves		
+	10	10	7	9	0	1	1	0	// Vine Gloves		
+	10	11	7	9	0	1	1	0	// Silk Gloves
+		
+	11	5	7	9	0	1	1	0	// Leather	 Boots	
+	11	0	7	9	0	1	1	0	// Bronze	 Boots	
+	11	2	7	9	0	1	1	0	// Pad Boots		
+	11	4	7	9	0	1	1	0	// Bone Boots		
+	11	10	7	9	0	1	1	0	// Vine Boots		
+	11	11	7	9	0	1	1	0	// Silk Boots
+		
+	6	4	7	9	0	1	1	0	// Buckler		
+	6	1	7	9	0	1	1	0	// Horn Shield		
+	6	2	7	9	0	1	1	0	// Kite Shield		
+	6	6	7	9	0	1	1	0	// Skull Shield		
+	6	3	7	9	0	1	1	0	// Elven Shield		
+	
+//보석류									
+	14	13	0	0	0	0	0	0	// bless
+	14	14	0	0	0	0	0	0	// sol
+	12	15	0	0	0	0	0	0	// haos
+									
+//입장권									
+	14	19	3	3	0	0	0	0	// Devil's Invitation
+	14	28	2	3	0	0	0	0	// Lost Map
+	13	18	3	3	0	0	0	0	// Invisibility Cloak
+
+end									

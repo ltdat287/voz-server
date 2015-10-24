@@ -1,0 +1,154 @@
+// special Item Settings
+
+// 380 Item Settings
+// Op:	  0 [None] 
+//	  1 [PVP Attack Success Rate +%] 
+//	  2 [PVP Add Damage] 
+//	  3 [PVP Defence Success Rate +%]       
+//	  4 [PVP Add Defense] 
+//	  5 [Increase MaxHP] 
+//	  6 [Increase MaxSD] 
+//	  7 [SD Refill] 
+//	  8 [SD Refill Rate]						
+0						
+//[Type] [Index][Op1][Val1][Op2][Val2]
+0    	22    	2    	200  	1    	10  	0
+0    	23    	2    	200    	1    	10  	0
+4    	21    	2    	200    	1    	10  	0
+5    	12    	2    	200    	1    	10  	0
+2    	14    	2    	200    	1    	10  	0
+
+7	29	8	20	3	10	0
+7	30	8	20	3	10	0
+7	31	8	20	3	10	0
+7	33	8	20	3	10	0
+
+8	29	7	0	3	10	0
+8	30	7	0	3	10	0
+8	31	7	0	3	10	0
+8	32	7	0	3	10	0
+8	33	7	0	3	10	0
+
+9	29	4	200	3	10	0
+9	30	4	200	3	10	0
+9	31	4	200	3	10	0
+9	32	4	200	3	10	0
+9	33	4	200	3	10	0
+
+10	29	5	200	3	10	0
+10	30	5	200	3	10	0
+10	31	5	200	3	10	0
+10	32	5	200	3	10	0
+10	33	5	200	3	10	0
+
+11	29	6	700	3	10	0
+11	30	6	700	3	10	0
+11	31	6	700	3	10	0
+11	32	6	700	3	10	0
+11	33	6	700	3	10	0
+
+0	51	2	200	1	10	0
+2	53	2	200	1	10	0
+2	51	2	200	1	10	0
+4	1	2	200	1	10	0
+5	50	2	200	1	10	0
+6	50	5	200	3	10	0
+7	53	8	20	3	10	0
+8	53	7	0	3	10	0
+9	53	4	200	3	10	0
+10	53	5	200	3	10	0
+11	53	6	700	3	10	0
+
+13	8	5	500	4	500	0
+13	9	5	500	3	100	0
+13	12	2	300	1	200	0
+13	13	2	300	1	200	0
+
+0	18	2	200	1	10	0
+12	36	2	250	5	1000	0
+12	37	2	250	5	1000	0
+12	38	2	250	5	1000	0
+12	39	2	250	5	1000	0
+12	40	2	250	5	1000	0
+
+5	11	2	200	1	10	0
+0	56	2	200	1	10	0
+
+7	54	8	20	3	10	0
+7	55	8	20	3	10	0
+7	56	8	20	3	10	0
+
+8	54	7	0	3	10	0
+8	55	7	0	3	10	0
+8	56	7	0	3	10	0
+8	57	7	0	3	10	0
+
+9	54	4	200	3	10	0
+9	55	4	200	3	10	0
+9	56	4	200	3	10	0
+9	57	4	200	3	10	0
+
+10	54	5	200	3	10	0
+10	55	5	200	3	10	0
+10	56	5	200	3	10	0
+10	57	5	200	3	10	0
+
+11	54	6	700	3	10	0
+11	55	6	700	3	10	0
+11	56	6	700	3	10	0
+11	57	6	700	3	10	0
+
+6	51	5	200	3	10	0
+6	52	5	200	3	10	0
+end						
+// Helloween Scrolls
+//#Option 0 [Noce]						
+//#Option 1 Increase Atk.Speed						
+//#Option 2 Increase Atk.Damage						
+//#Option 3 Increase Defence
+//#Option 4 Increase HP
+//#Option 5 Increase Mana
+1						
+//Type	Index	Option1	Val1	Option2	Val2	Time
+14	46	1	30	0	10	3600
+14	47	2	100	0	10	3600
+14	48	3	150	0	10	3600
+14	49	4	500	0	10	3600
+14	50	5	3000	0	10	3600
+end						
+// Cash Seals
+2						
+//#Option 6  Increase Exp
+//#Option 7  Increase Drop
+//#Option 8  Remove Exp Gain
+//#Option 16 Move Unbound
+//Type	Index	Option1	Val1	Option2	Val2	Time
+13	43	6	150	0	0	86400
+13	44	6	200	7	150	86400
+13	45	8	0	0	0	86400
+13	59	16	0	0	0	86400
+end
+// Cash Scrolls
+//#Option 14 Increase Wpn.Dmg
+//#Option 15 Increase Wiz.Dmg
+4
+14	72	1	500	0	0	0
+14	73	3	500	0	0	0
+14	74	14	500	0	0	0
+14	75	15	500	0	0	0
+14	76	4	500	0	0	0
+14	77	5	500	0	0	0
+end
+// Cash Potions
+//#Option 9 Increase Strength
+//#Option 10 Increase Dexterity
+//#Option 11 Increase Vitality
+//#Option 12 Increase Energy
+//#Option 13 Increase Leadership
+5
+14	78	9	250	0	0	86400
+14	79	10	250	0	0	86400
+14	80	11	250	0	0	86400
+14	81	12	250	0	0	86400
+14	82	13	250	0	0	86400
+end

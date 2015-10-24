@@ -1,0 +1,102 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Balgass Drop Settings                                                        ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Balgass"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]	
+										
+	14	103	0	0	0	0	0	0	//"Jewel of Wings"					
+	0	16	0	0	1	1	1	1	//"Sword of Destruction"								
+	2	10	0	0	1	1	1	1	//"Great Scepter"								
+	3	10	0	0	1	1	1	1	//"Dragon Spear"								
+	4	16	0	0	1	1	1	1	//"Saint Crossbow"								
+	4	17	0	0	1	1	1	1	//"Celestial Bow"								
+	5	8	0	0	1	1	1	1	//"Staff of Destruction"								
+	5	9	0	0	1	1	1	1	//"Dragon Soul Staff"								
+//방어구류																	
+	7	21	3	5	0	1	1	1	//"Great Dragon Helm"								
+	7	22	3	5	0	1	1	1	//"Dark Soul Helm"
+	7	24	3	5	0	1	1	1	//"Red Spirit Helm"
+	7	28	3	5	0	1	1	1	//"Dark Master Helm"
+								
+	8	21	3	5	0	1	1	1	//"Great Dragon Armor"								
+	8	22	3	5	0	1	1	1	//"Dark Soul Armor"
+	8	23	3	5	0	1	1	1	//"Hurricane Armor"
+	8	24	3	5	0	1	1	1	//"Red Spirit Armor"
+	8	28	3	5	0	1	1	1	//"Dark Master Armor"
+
+	9	21	3	5	0	1	1	1	//"Great Dragon Pants"								
+	9	22	3	5	0	1	1	1	//"Dark Soul Pants"
+	9	23	3	5	0	1	1	1	//"Hurricane Pants"
+	9	24	3	5	0	1	1	1	//"Red Spirit Pants"
+	9	28	3	5	0	1	1	1	//"Dark Master Pants"
+
+	10	21	3	5	0	1	1	1	//"Great Dragon Gloves"								
+	10	22	3	5	0	1	1	1	//"Dark Soul Gloves"
+	10	23	3	5	0	1	1	1	//"Hurricane Gloves"
+	10	24	3	5	0	1	1	1	//"Red Spirit Gloves"
+	10	28	3	5	0	1	1	1	//"Dark Master Gloves"
+
+	11	21	3	5	0	1	1	1	//"Great Dragon Boots"								
+	11	22	3	5	0	1	1	1	//"Dark Soul Boots"
+	11	23	3	5	0	1	1	1	//"Hurricane Boots"
+	11	24	3	5	0	1	1	1	//"Red Spirit Boots"
+	11	28	3	5	0	1	1	1	//"Dark Master Boots"
+//엑설런트 방어구류									
+	7	16	0	0	0	1	1	1	//"Black Dragon Helm"
+	7	18	0	0	0	1	1	1	//"Grand Soul Helm"
+	7	19	0	0	0	1	1	1	//"Divine Helm"
+	7	27	0	0	0	1	1	1	//"Dark Steel Helm"
+
+	8	16	0	0	0	1	1	1	//"Black Dragon Armor"
+	8	18	0	0	0	1	1	1	//"Grand Soul Armor"
+	8	19	0	0	0	1	1	1	//"Divine Armor"
+	8	27	0	0	0	1	1	1	//"Dark Steel Armor"
+	8	20	0	0	0	1	1	1	//"Thunder Hawk Armor"
+
+	9	16	0	0	0	1	1	1	//"Black Dragon Pants"
+	9	18	0	0	0	1	1	1	//"Grand Soul Pants"
+	9	19	0	0	0	1	1	1	//"Divine Pants"
+	9	27	0	0	0	1	1	1	//"Dark Steel Pants"
+	9	20	0	0	0	1	1	1	//"Thunder Hawk Pants"
+
+	10	16	0	0	0	1	1	1	//"Black Dragon Gloves"
+	10	18	0	0	0	1	1	1	//"Grand Soul Gloves"
+	10	19	0	0	0	1	1	1	//"Divine Gloves"
+	10	27	0	0	0	1	1	1	//"Dark Steel Gloves"
+	10	20	0	0	0	1	1	1	//"Thunder Hawk Gloves"
+
+	11	16	0	0	0	1	1	1	//"Black Dragon Boots"
+	11	18	0	0	0	1	1	1	//"Grand Soul Boots"
+	11	19	0	0	0	1	1	1	//"Divine Boots"
+	11	27	0	0	0	1	1	1	//"Dark Steel Boots"
+	11	20	0	0	0	1	1	1	//"Thunder Hawk Boots"
+
+end

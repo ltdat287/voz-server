@@ -1,0 +1,79 @@
+////////         mu.reedlan.com          //////////////////////////
+///////////////////////////////////////////////////////////////////
+/////    FireCracker & Heart of Love Drop Settings       //////////
+///////////////////////////////////////////////////////////////////
+//
+//[Index] [Number][Level] [Skill] [Luck] [Option]
+//
+0  2 7 0 1 1 // Rapier +7
+0  4 7 1 1 1 // Sword of Assassin +7
+0  3 7 1 1 1 // Katache +7
+0 10 7 1 1 1 // Light Saber +7
+0 11 7 1 1 1 // Legendary Sword +7
+0 13 7 1 1 1 // Double Blade +7
+//
+1  1 7 1 1 1 // Hand Axe +7
+1  2 7 1 1 1 // Double Axe +7
+1  5 7 1 1 1 // Battle Axe +7
+1  6 7 1 1 1 // Nikkea Axe +7
+1  7 7 1 1 1 // Larkan Axe +7
+//
+2  1 7 1 1 1 // Morning Star +7
+2  3 7 1 1 1 // Great Hammer +7
+//
+4  9 7 1 1 1 // Golden Crossbow +7
+4 11 7 1 1 1 // Light Crossbow +7
+4  4 7 1 1 1 // Tiger Bow +7
+4 12 7 1 1 1 // Serpent Crossbow +7
+//
+5  0 7 1 1 1 // Skull Staff +7
+5  3 7 1 1 1 // Thunder Staff +7
+//
+6  4 7 1 1 1 // Buckler +7
+6  1 7 1 1 1 // Horn Shield +7
+6  2 7 1 1 1 // Kite Shield +7
+//
+3  7 7 1 1 1 // Berdysh +7
+3  4 7 1 1 1 // Serpent Spear +7
+/
+6  5 7 1 1 1 // Dragon Slayer Shield +7
+6  8 7 1 1 1 // Tower Shield +7
+
+7  5 7 0 1 1 // Leather Helm +7
+8  5 7 0 1 1 // Leather Armor +7
+9  5 7 0 1 1 // Leather Pants +7
+10 5 7 0 1 1 // Leather Gloves +7
+11 5 7 0 1 1 // Leather Boots +7
+
+7  2 7 0 1 1 // Pad Helm +7
+8  2 7 0 1 1 // Pad Armor +7
+9  2 7 0 1 1 // Pad Pants +7
+10 2 7 0 1 1 // Pad Gloves +7
+11 2 7 0 1 1 // Pad Boots +7
+
+7  0 7 0 1 1 // Bronze Helm +7
+8  0 7 0 1 1 // Bronze Armor +7
+9  0 7 0 1 1 // Bronze Pants +7
+10 0 7 0 1 1 // Bronze Gloves +7
+11 0 7 0 1 1 // Bronze Boots +7
+
+7  25 7 0 1 1 // Light Plate Helm +7
+8  25 7 0 1 1 // Light Plate Armor +7
+9  25 7 0 1 1 // Light Plate Pants +7
+10 25 7 0 1 1 // Light Plate Gloves +7
+11 25 7 0 1 1 // Light Plate Boots +7
+
+7  13 7 0 1 1 // Spirit Helm +7
+8  13 7 0 1 1 // Spirit Armor +7
+9  13 7 0 1 1 // Spirit Pants +7
+10 13 7 0 1 1 // Spirit Gloves +7
+11 13 7 0 1 1 // Spirit Boots +7
+
+7   4 7 0 1 1 // Bone Helm +7
+8   4 7 0 1 1 // Bone Armor +7
+9   4 7 0 1 1 // Bone Pants +7
+10  4 7 0 1 1 // Bone Gloves +7
+11  4 7 0 1 1 // Bone Boots +7
+//
+14 13 0 0 0 0 // Jewel of Bless
+14 14 0 0 0 0 // Jewel of Soul

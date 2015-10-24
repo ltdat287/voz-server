@@ -1,0 +1,59 @@
+////////         mu.reedlan.com          //////////////////////////
+///////////////////////////////////////////////////////////////////
+////////       Box of Kundun +1         ///////////////////////////
+///////////////////////////////////////////////////////////////////
+//
+1	7	0	1	1	1  // Larkan Axe
+//
+0	0	0	0	1	1  // Kris 
+0	5	0	1	1	1  // Blade
+0	9	0	1	1	1  // Sword of Salamander 
+0	10	0	1	1	1  // Light saber
+//
+2	3	0	1	1	1  // Great Warhammer
+//
+4	3	0	1	1	1  // Battle Bow
+4	4	0	1	1	1  // Tiger Bow
+4	11	0	1	1	1  // Crossbow of Light
+//
+5	4	0	0	1	1  // Staff of Gorgon
+5	2	0	0	1	1  // Serpent Staff
+//
+6	10	0	1	1	1  // Large Round Shield
+6	2	0	1	1	1  // Kite Shield 
+6	6	0	1	1	1  // Skull Shield 
+//
+7	5	0	0	1	1  // Leather Helm 
+8	5	0	0	1	1  // Leather Armor 
+9	5	0	0	1	1  // Leather Pants 
+10	5	0	0	1	1  // Leather Gloves 
+11	5	0	0	1	1  // Leather Boots 
+//
+7	2	0	0	1	1  // Pad Helm 
+8	2	0	0	1	1  // Pad Armor 
+9	2	0	0	1	1  // Pad Pants 
+10	2	0	0	1	1  // Pad Gloves 
+11	2	0	0	1	1  // Pad Boots 
+//
+7	10	0	0	1	1  // Vine Helm 
+8	10	0	0	1	1  // Vine Armor 
+9	10	0	0	1	1  // Vine Pants 
+10	10	0	0	1	1  // Vine Gloves 
+11	10	0	0	1	1  // Vine Boots 
+//
+7	5	0	0	1	1  // Leather Helm 
+8	5	0	0	1	1  // Leather Armor 
+9	5	0	0	1	1  // Leather Pants 
+10	5	0	0	1	1  // Leather Gloves 
+11	5	0	0	1	1  // Leather Boots 
+//
+13	8	0	0	1	0  // Ring of Ice
+13	8	0	0	1	2  // Ring of Ice
+13	9	0	0	1	0  // Ring of Poison
+13	9	0	0	1	2  // Ring of Poison
+13	12	0	0	1	0  // Pendant of Lighting
+13	12	0	0	1	2  // Pendant of Lighting
+13	13	0	0	1	0  // Pendant of Fire
+13	24	0	0	1	0  // Ring of Magic
+13	28	0	0	1	1  // Pendant of Ability
+end

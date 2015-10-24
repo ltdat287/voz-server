@@ -1,0 +1,21 @@
+// Npc Settings
+// NpcIndex	NpcMap	NpcX	NpcY
+0
+234	0	141	140
+end
+
+// Status Settings
+// MinPkLevel	PayType
+//						0 - No Pay
+//						1 - Per Pk_Level
+//						2 - Per Kill
+//						3 - Static
+1
+4	3
+end
+
+// Item Settings
+// ZenReq	ItemIndex	ItemNumber	ItemLevel
+2
+10000000	 12	15	0
+end

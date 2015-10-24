@@ -1,0 +1,36 @@
+// Carnage Event Setting
+// OpenTime PlayTime EndTime
+0
+5	15	2
+end
+
+// Event Start
+// Hour Minute
+1
+12       10
+20       50
+end
+
+// Misc Settings
+// TicketItemGroup	TicketItemIndex	TicketItemLevel	ItemRewardCount	AncientRate[ N / 10000 ]
+2
+13	60	0	5	2000
+end
+
+// Minions
+// MonsterID	X1	Y1	X2	Y2	Count
+3
+491	220	11	235	35	9
+489	239	10	223	34	9
+488	220	11	235	35	9
+497	239	10	223	34	9
+end
+
+// Boss
+// MonsterID	X1	Y1	X2	Y2	DieString
+4
+498	220	11	235	35	"Curse you !"
+496	239	10	223	34	"You have deafeated me, but its not the end!"
+487	220	11	235	35	"Xaxaxaxaxaxaxaxa"
+499	239	10	223	34	"!!!!!!!!!!!!!!!!!!!!"
+end

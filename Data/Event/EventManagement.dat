@@ -1,0 +1,43 @@
+////////////////////////////////////////////////////////////////////////////////
+// Text GS 1.00.18
+// Version 7.11.56
+// Translated - by Oski
+// EventManagment.txt
+////////////////////////////////////////////////////////////////////////////////
+
+//Events:
+//0 Red Dragon
+//1 Skeleton King
+//2 Golden Dragon
+//3 White Wizard
+
+
+0
+//Event	Hour   Min
+//Red Dragon
+0	9	10
+0	11	10
+0	13	10
+0	15	10
+0	17	10	
+0	19	10
+
+//Skeleton King
+1	20	50
+1	22	50
+1	0	50
+1	2	50
+
+// Golden Dragon
+2	13	10
+2	15	10
+2	17	10
+2	19	10
+2	23	10
+
+//White Wizard
+3	10	45
+3	13	45
+3	16	45
+3	19	45
+end

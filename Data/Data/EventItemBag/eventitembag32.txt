@@ -1,0 +1,121 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Maya Hands Drop Settings                                                     ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Maya Hands"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+								
+	14	102	0	0	0	0	0	0	//"Jewel of Upgrade"
+	0	17	4	6	1	1	1	1	//"Spirit Sword"
+	0	18	4	6	1	1	1	1	//"Thunder Blade"
+	2	11	4	6	1	1	1	1	//"Lord Scepter"
+	4	19	4	6	1	1	1	1	//"Great Reign Crossbow"
+	5	9	4	6	1	1	1	1	//"Dragon Soul Staff"
+//엑설런트 무기류									
+	0	14	0	0	1	0	0	1	//"Lightning Sword"
+	5	5	0	0	1	0	0	1	//"Legendary staff"
+	4	14	0	0	1	0	0	1	//"Aquagold Crossbow"
+	4	16	0	0	1	0	0	1	//"Saint Crossbow"
+	2	9	0	0	1	0	0	1	//"Master Scepter"
+	2	4	0	0	1	0	0	1	//"Crystal Morning Star"
+	2	5	0	0	1	0	0	1	//"Crystal Sword"
+//일반방패류									
+	6	15	4	6	1	0	1	1	//"Grand Soul Shield"
+//엑설런트방패류									
+	6	12	0	0	1	0	0	1	//"Bronze Shield"
+	6	16	0	0	1	0	0	1	//"Elemental Shield"
+//일반 방어구류 									
+	7	34	4	6	0	1	1	1	//"Ashcrow Helm"
+	9	34	4	6	0	1	1	1	//"Ashcrow Pants"
+	10	34	4	6	0	1	1	1	//"Ashcrow Gloves"
+	11	34	4	6	0	1	1	1	//"Ashcrow Boots"
+
+	7	35	4	6	0	1	1	1	//"Eclipse Helm"
+	9	35	4	6	0	1	1	1	//"Eclipse Pants"
+	10	35	4	6	0	1	1	1	//"Eclipse gloves"
+	11	35	4	6	0	1	1	1	//"Eclipse boots"
+
+	7	36	4	6	0	1	1	1	//"Iris Helm"
+	9	36	4	6	0	1	1	1	//"Iris pants"
+	10	36	4	6	0	1	1	1	//"Iris gloves"
+	11	36	4	6	0	1	1	1	//"Iris boots"
+
+	9	37	4	6	0	1	1	1	//"Valiant pants"
+	10	37	4	6	0	1	1	1	//"Valiant gloves"
+	11	37	4	6	0	1	1	1	//"Valiant boots"
+
+	7	38	4	6	0	1	1	1	//"Glorious helm"
+	9	38	4	6	0	1	1	1	//"Glorious pants"
+	10	38	4	6	0	1	1	1	//"Glorious gloves"
+	11	38	4	6	0	1	1	1	//"Glorious boots"
+
+	8	17	4	6	0	1	1	1	//"Dark Phoenix Armor"
+	9	17	4	6	0	1	1	1	//"Dark Phoenix Pants"
+
+	8	18	4	6	0	1	1	1	//"Grand Soul Armor"
+	9	18	4	6	0	1	1	1	//"Grand Soul Pants"
+
+	8	19	4	6	0	1	1	1	//"Divine Armor"
+	9	19	4	6	0	1	1	1	//"Divine Pants"
+
+	8	20	4	6	0	1	1	1	//"Thunder Hawk Armor"
+	9	20	4	6	0	1	1	1	//"Thunder Hawk Pants"
+
+	8	27	4	6	0	1	1	1	//"Dark Steel Armor"
+	9	27	4	6	0	1	1	1	//"Dark Steel Pants"
+//엑설런트방어구류									
+	7	16	0	0	0	0	0	1	//"Black Dragon Helm"
+	9	16	0	0	0	0	0	1	//"Black Dragon Pants"
+	10	16	0	0	0	0	0	1	//"Black Dragon Gloves"
+	11	16	0	0	0	0	0	1	//"Black Dragon boots"
+
+	10	17	0	0	0	0	0	1	//"Dark Phoenix Gloves"
+	11	17	0	0	0	0	0	1	//"Dark Phoenix Boots"
+
+	9	3	0	0	0	0	0	1	//"Legendary Pants"
+	8	3	0	0	0	0	0	1	//"Legendary Armor"
+
+	10	18	0	0	0	0	0	1	//"Grand Soul Gloves"
+	11	18	0	0	0	0	0	1	//"Grand Soul Boots"
+
+	8	14	0	0	0	0	0	1	//"Guardian Armor"
+	9	14	0	0	0	0	0	1	//"Guardian Pants"
+
+	10	19	0	0	0	0	0	1	//"Divine Gloves"
+	11	19	0	0	0	0	0	1	//"Divine Boots"
+
+	10	15	0	0	0	0	0	1	//"Storm Crow gloves"
+	11	15	0	0	0	0	0	1	//"Storm Crow boots"
+
+	10	26	0	0	0	0	0	1	//"Adamantine gloves"
+	9	26	0	0	0	0	0	1	//"Adamantine Pants"
+	11	26	0	0	0	0	0	1	//"Adamantine boots"
+
+end									

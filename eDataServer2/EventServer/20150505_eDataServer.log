@@ -1,0 +1,65 @@
+[ MuEvent ] connection successful !
+[ MuOnline ] connection successful !
+[ EventServer ] created on port [ 44456 ]
+15:13:32 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[  ][ 127.0.0.1:0 ] GameServer Close
+15:31:41 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[  ][ 127.0.0.1:0 ] GameServer Close
+15:35:16 [SUMMON PET] Data request (DatGa)
+15:35:57 [SUMMON PET] Data request (DarkLord)
+15:48:35 [CashShop] Points add (1) - [19] (DarkLord)
+Connection Closed, dwIoSize == 0 (Index:1)
+[  ][ 127.0.0.1:0 ] GameServer Close
+16:18:05 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[  ][ 127.0.0.1:0 ] GameServer Close
+16:32:05 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+16:54:32 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+18:07:41 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+18:08:49 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+18:51:48 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+18:59:43 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+19:01:23 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+19:28:24 [SUMMON PET] Data request (DatGa)
+19:30:26 [SUMMON PET] Data request (DatGa)
+19:34:54 [SUMMON PET] Data request (DatGa)
+19:35:16 [CashShop] Points add (1) - [19] (DatGa)
+Connection Closed, dwIoSize == 0 (Index:2)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+21:22:31 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+21:26:31 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+22:32:00 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+23:25:32 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:0)
+[  ][ 127.0.0.1:0 ] GameServer Close
+23:41:26 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+23:47:14 [SUMMON PET] Data request (DatGa)
+Connection Closed, dwIoSize == 0 (Index:1)
+[ VOZ ][ 127.0.0.1:55901 ] GameServer Close
+23:57:14 [SUMMON PET] Data request (DatGa)

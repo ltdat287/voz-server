@@ -1,0 +1,41 @@
+// ----------------------------	//
+//    Harold The Rogue Trader	//
+//------------------------------//
+
+//--------------------------------------------------------------------------------------//
+//	Type	Index	Level	Dur	Skill	Luck	Opt				//
+//--------------------------------------------------------------------------------------//
+	14 	0 	0 	3	0 	0 	0 	// Apple +0
+	14 	1 	0 	3	0 	0 	0 	// Small Healing Potion +0
+	14 	2 	0 	3	0 	0 	0 	// Medium Healing Potion +1
+	14 	3 	0 	3	0 	0 	0 	// Large Healing Potion +2
+	14 	4 	0 	0 	0 	0 	0 	// Small Mana Potion +0
+	14 	4 	0 	3 	0 	0 	0 	// Small Mana Potion +0
+	14 	5 	0 	3	0 	0 	0 	// Medium Mana Potion +1
+	14 	6 	0 	3	0 	0 	0 	// Large Mana Potion +2
+	7	5	0	0	0	1	1	// Leather Helm +0
+	8	5	0	0	0	1	1	// Leather Armor +0
+	9	5	0	0	0	1	1	// Leather Pants +0
+	10	5	0	0	0	1	1	// Leather Gloves +0
+	11	5	0	0	0	1	1	// Leather Boots +0
+	7	0	2	0	0	1	1	// Bronze Helm +0
+	8	0	2	0	0	1	1	// Bronze Armor +0
+	9	0	2	0	0	1	1	// Bronze Pants +0
+	10	0	2	0	0	1	1	// Bronze Gloves +0
+	11	0	2	0	0	1	1	// Bronze Boots +0
+	7	6	3	0	0	1	1	// Scale Helm +0
+	8	6	3	0	0	1	1	// Scale Armor +0
+	9	6	3	0	0	1	1	// Scale Pants +0
+	10	6	3	0	0	1	1	// Scale Gloves +0
+	11	6	3	0	0	1	1	// Scale Boots +0 
+	7	8	3	0	0	1	1	// Brass Helm +0
+	8	8	3	0	0	1	1	// Brass Armor +0
+	9	8	3	0	0	1	1	// Brass Pants +0
+	10	8	3	0	0	1	1	// Brass Gloves +0
+	11	8	3	0	0	1	1	// Brass Boots +0 
+	7	4	3	0	0	1	1	// Plate Helm +0
+	8	4	3	0	0	1	1	// Plate Armor +0
+	9	4	3	0	0	1	1	// plate Pants +0
+	10	4	3	0	0	1	1	// Plate Gloves +0
+	11	4	3	0	0	1	1	// Plate Boots +0 	
+end

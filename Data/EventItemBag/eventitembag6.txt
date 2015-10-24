@@ -1,0 +1,61 @@
+////////         mu.reedlan.com          //////////////////////////
+///////////////////////////////////////////////////////////////////
+////////    Golden Medal Drop Setting       ///////////////////////
+///////////////////////////////////////////////////////////////////
+//
+//[Index] [Number][Level] [Skill] [Luck] [Option]
+//
+0  2 7 0 1 1 // Rapier +6
+0  4 7 1 1 1 // Sword of Assassin +6
+0  3 7 1 1 1 // Katache +6
+0 10 7 1 1 1 // Light Saber +6
+0 11 7 1 1 1 // Legendary Sword +6
+0 13 7 1 1 1 // Double Blade +6
+//
+1  1 7 1 1 1 // Hand Axe +6
+1  2 7 1 1 1 // Double Axe +6
+1  5 7 1 1 1 // Battle Axe +6
+1  6 7 1 1 1 // Nikkea Axe +6
+1  7 7 1 1 1 // Larkan Axe +6
+//
+2  0 7 1 1 1 // Mace +6
+2  1 7 1 1 1 // Morning Star +6
+2  3 7 1 1 1 // Great Hammer +6
+//
+4  9 7 1 1 1 // Golden Crossbow +6
+4 11 7 1 1 1 // Light Crossbow +6
+4  4 7 1 1 1 // Tiger Bow +6
+4 12 7 1 1 1 // Serpent Crossbow +6
+//
+3  7 7 1 1 1 // Berdysh +6
+3  4 7 1 1 1 // Serpent Spear +6
+//
+6  5 7 1 1 1 // Dragon Slayer Shield +6
+6  8 7 1 1 1 // Tower Shield +6
+//
+7  0 7 0 1 1 // Bronze Helm +6
+8  0 7 0 1 1 // Bronze Armor +6
+9  0 7 0 1 1 // Bronze Pants +6
+10 0 7 0 1 1 // Bronze Gloves +6
+11 0 7 0 1 1 // Bronze Boots +6
+
+7  25 7 0 1 1 // Light Plate Helm +6
+8  25 7 0 1 1 // Light Plate Armor +6
+9  25 7 0 1 1 // Light Plate Pants +6
+10 25 7 0 1 1 // Light Plate Gloves +6
+11 25 7 0 1 1 // Light Plate Boots +6
+
+7  13 7 0 1 1 // Spirit Helm +6
+8  13 7 0 1 1 // Spirit Armor +6
+9  13 7 0 1 1 // Spirit Pants +6
+10 13 7 0 1 1 // Spirit Gloves +6
+11 13 7 0 1 1 // Spirit Boots +6
+//
+7   7 7 0 1 1 // Sphinx Helm +6
+8   7 7 0 1 1 // Sphinx Armor +6
+9   7 7 0 1 1 // Sphinx Pants +6
+10  7 7 0 1 1 // Sphinx Gloves +6
+11  7 7 0 1 1 // Sphinx Boots +6
+//
+
+end

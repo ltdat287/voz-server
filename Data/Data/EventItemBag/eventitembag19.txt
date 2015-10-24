@@ -1,0 +1,91 @@
+//¦®¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¯
+//¦­ Lord Mix Settings                                                            ¦­
+//¦±¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦°
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"LordMix"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+	0	20	5	0	1	1	0	1	// Knight Blade
+	0	21	5	0	1	1	0	1	// Black Reign Blade
+//	3	12	5	0	1	1	0	1	//±×·¹ÀÌÆ®·Îµå¼ÁÅÍ
+	4	20	5	0	1	1	0	1	// Arrow Viper Bow
+
+// Èñ±Í¿¢¼¿¹«±â
+	0	16	45	0	1	1	0	1	// Sword of Destruction
+	0	31	45	0	1	1	0	1	// Rune Blade
+	2	11	45	0	1	1	0	1	// Lord Scepter
+	3	10	45	0	1	1	0	1	// Dragon Spear
+	4	19	45	0	1	1	0	1	// Great Reign Crossbow
+	5	6	45	0	1	1	0	1	// Staff of Resurrection
+	5	9	45	0	1	1	0	1	// Dragon Soul Staff
+
+// Èñ±ÍÀÏ¹Ý¹«±â
+	5	11	50	0	1	1	0	1	// Kundun Staff
+	0	20	50	0	1	1	0	1	// Knight Blade
+	0	21	50	0	1	1	0	1	// Black Reign Blade
+//	3	12	50	0	1	1	0	1	//±×·¹ÀÌÆ®·Îµå¼ÁÅÍ
+	4	20	50	0	1	1	0	1	// Arrow Viper Bow
+
+// Èñ±Í¿¢¼¿¹æ¾î±¸
+	7	21	45	0	0	1	0	1	// Great Dragon Helm
+	8	21	45	0	0	1	0	1	// Great Dragon Armor
+	9	21	45	0	0	1	0	1	// Great Dragon Pants
+	10	21	45	0	0	1	0	1	// Great Dragon Gloves
+	11	21	45	0	0	1	0	1	// Great Dragon Boots
+
+	7	24	45	0	0	1	0	1	// Red Spirit Helm
+	8	24	45	0	0	1	0	1	// Red Spirit Armor
+	9	24	45	0	0	1	0	1	// Red Spirit Pants
+	10	24	45	0	0	1	0	1	// Red Spirit Gloves
+	11	24	45	0	0	1	0	1	// Red Spirit Boots
+
+	7	22	45	0	0	1	0	1	// Dark Soul Helm
+	8	22	45	0	0	1	0	1	// Dark Soul Armor
+	9	22	45	0	0	1	0	1	// Dark Soul Pants
+	10	22	45	0	0	1	0	1	// Dark Soul Gloves
+	11	22	45	0	0	1	0	1	// Dark Soul Boots
+
+	7	28	45	0	0	1	0	1	// Dark Master Helm
+	8	28	45	0	0	1	0	1	// Dark Master Armor
+	9	28	45	0	0	1	0	1	// Dark Master Pants
+	10	28	45	0	0	1	0	1	// Dark Master Gloves
+	11	28	45	0	0	1	0	1	// Dark Master  Boots
+
+	8	23	45	0	0	1	0	1	// Hurricane Armor
+	9	23	45	0	0	1	0	1	// Hurricane Pants
+	10	23	45	0	0	1	0	1	// Hurricane Gloves
+	11	23	45	0	0	1	0	1	// Hurricane Boots
+
+// Èñ±ÍÀÏ¹Ý¹æ¾î±¸	
+	8	21	50	0	0	1	0	1	// Great Dragon Armor
+	8	24	50	0	0	1	0	1	// Red Spirit Armor
+	8	22	50	0	0	1	0	1	// Dark Soul Armor
+	8	28	50	0	0	1	0	1	// Dark Master Armor
+	8	23	50	0	0	1	0	1	// Hurricane Armor
+end

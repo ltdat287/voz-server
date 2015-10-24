@@ -1,0 +1,63 @@
+12:14:41a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+12:14:41a Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+12:14:41a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+12:14:41a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+12:14:41a SELECT FriendName FROM T_WaitFriend where GUID=2053
+12:14:41a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+12:18:29a Friend LogOut Queue Name: ( DatGa )
+12:18:37a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='asfasdfasf'
+12:18:37a Friend Login request : asfasdfasf 8400 server:0
+[8400] New Friend Master = asfasdfasf
+12:18:37a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+12:18:37a WZ_UserGuidCreate 'asfasdfasf'
+12:18:37a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+12:18:37a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2146
+12:18:37a SELECT FriendName FROM T_WaitFriend where GUID=2146
+12:18:37a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2146
+12:24:03a Friend LogOut Queue Name: ( asfasdfasf )
+12:24:06a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+12:24:06a Friend Login request : DatGa 8400 server:0
+[8400] New Friend Master = DatGa
+12:24:06a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+12:24:06a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+12:24:06a SELECT FriendName FROM T_WaitFriend where GUID=2053
+12:24:06a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+12:24:15a Friend LogOut Queue Name: ( DatGa )
+12:26:23a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+12:26:23a Friend Login request : DatGa 8401 server:0
+[8401] New Friend Master = DatGa
+12:26:23a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+12:26:23a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+12:26:23a SELECT FriendName FROM T_WaitFriend where GUID=2053
+12:26:23a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+12:30:28a Friend LogOut Queue Name: ( DatGa )
+12:30:40a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='asfasdfasf'
+12:30:40a Friend Login request : asfasdfasf 8401 server:0
+[8401] New Friend Master = asfasdfasf
+12:30:40a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'asfasdfasf'
+12:30:40a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2146
+12:30:40a SELECT FriendName FROM T_WaitFriend where GUID=2146
+12:30:40a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2146
+12:32:36a Friend LogOut Queue Name: ( asfasdfasf )
+12:32:38a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+12:32:38a Friend Login request : DatGa 8401 server:0
+[8401] New Friend Master = DatGa
+12:32:38a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+12:32:38a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+12:32:38a SELECT FriendName FROM T_WaitFriend where GUID=2053
+12:32:38a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+12:33:27a Friend LogOut Queue Name: ( DatGa )
+12:33:54a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+12:33:54a Friend Login request : DatGa 8401 server:0
+[8401] New Friend Master = DatGa
+12:33:54a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+12:33:54a SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 2053
+12:33:54a SELECT FriendName FROM T_WaitFriend where GUID=2053
+12:33:54a SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_FriendMail where GUID=2053
+12:34:13a Friend LogOut Queue Name: ( DatGa )
+12:34:33a SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='DatGa'
+12:34:33a Friend Login request : DatGa 8401 server:0
+[8401] New Friend Master = DatGa
+12:34:33a SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'DatGa'
+12:34:33a SELECT FriendGuid, FriendNa

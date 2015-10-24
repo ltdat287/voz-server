@@ -1,0 +1,76 @@
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Erohim Drop Settings                                                         早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Erohim"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+																				
+	0	17	0	4	1	0	0	1	// Spirit Sword												
+	0	18	0	4	1	0	0	1	// Thunder Blade												
+	0	31	0	4	1	0	0	1	// Rune Blade												
+	0	20	0	1	1	0	0	1	// Knight Blade												
+	0	21	0	1	1	0	0	1	// Black Reign Blade												
+//	3	12	0	1	1	0	0	1	// 												
+	4	19	0	4	1	0	0	1	// Great Reign Crossbow 												
+	4	20	0	1	1	0	0	1	// Arrow Viper Bow											
+	5	9	0	4	1	0	0	1	// Dragon Soul Staff												
+	5	11	0	1	1	0	0	1	// Kundun Staff												
+																					
+	0	16	0	0	1	1	0	1	//  Sword of Destruction												
+	2	10	0	0	1	1	0	1	// Great Scepter 		
+	3	10	0	0	1	1	0	1	// Dragon Spear		
+	4	16	0	0	1	1	0	1	// Saint Crossbow		
+	4	17	0	0	1	1	0	1	// Celestial Bow		
+	5	9	0	0	1	1	0	1	// Dragon Soul Staff
+	5	8	0	0	1	1	0	1	// Staff of Destruction		
+											
+//⑦訾 塽 癱掘盟											
+	7	21	0	3	0	1	0	1	// Great Dragon Helm		
+	7	22	0	3	0	1	0	1	// Dark Soul Helm		
+	7	28	0	3	0	1	0	1	// Dark Master Helm		
+	7	24	0	3	0	1	0	1	// Red Spirit Helm		
+											
+											
+//夥雖盟											
+	9	21	0	3	0	1	0	1	// Great Dragon Pants		
+	9	22	0	3	0	1	0	1	// Dark Soul Pants		
+	9	23	0	3	0	1	0	1	// Hurricane Pants		
+	9	24	0	3	0	1	0	1	// Red Spirit Pants		
+	9	28	0	3	0	1	0	1	// Dark Master Pants		
+											
+//濰骨盟											
+	10	21	0	3	0	1	0	1	// Great Dragon Gloves		
+	10	24	0	3	0	1	0	1	// Red Spirit Gloves		
+	10	23	0	3	0	1	0	1	// Hurricane Gloves		
+											
+//睡蹺盟											
+	11	22	0	3	0	1	0	1	// Dark Soul Boots		
+	11	23	0	3	0	1	0	1	// Hurricane Boots		
+	11	28	0	3	0	1	0	1	// Dark Master Boots		
+end			

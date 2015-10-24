@@ -1,0 +1,78 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Blue Chocolate Settings                                                       ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Blue Chocolate"	1000000	0	0	0	0	100	1000
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]	
+																	
+	2	4	0	0	1	1	1	1	//"Crystal Morning Star"										
+	2	5	0	0	1	1	1	1	//"Crystal Sword"										
+	2	9	0	0	1	1	1	1	//"Master Scepter"										
+	3	9	0	0	1	1	1	1	//"Bill of Balrog"										
+	4	13	0	0	1	1	1	1	//"Bluewing Crossbow"										
+	4	14	0	0	1	1	1	1	//"Aquagold Crossbow"										
+	5	5	0	0	1	1	1	1	//"Legendary Staff"										
+																			
+//엑설런트 방어구류																			
+	7	1	0	0	0	1	1	1	//"Dragon Helm"										
+	7	3	0	0	0	1	1	1	//"Legendary Helm"										
+	7	14	0	0	0	1	1	1	//"Guardian Helm"
+
+	8	1	0	0	0	1	1	1	//"Dragon Armor"
+	8	3	0	0	0	1	1	1	//"Legendary Armor"
+	8	14	0	0	0	1	1	1	//"Guardian Armor"
+
+	9	1	0	0	0	1	1	1	//"Dragon Pants"
+	9	3	0	0	0	1	1	1	//"Legendary Pants"
+	9	14	0	0	0	1	1	1	//"Guardian Pants"
+
+	10	1	0	0	0	1	1	1	//"Dragon Gloves"
+	10	3	0	0	0	1	1	1	//"Legendary Gloves"
+	10	14	0	0	0	1	1	1	//"Guardian Gloves"
+
+	11	1	0	0	0	1	1	1	//"Dragon Boots"
+	11	3	0	0	0	1	1	1	//"Legendary Boots"
+	11	14	0	0	0	1	1	1	//"Guardian Boots"
+
+	6	13	0	0	0	1	1	1	//"Chaos Dragon Shield"
+									
+//보석류									
+	14	13	0	0	0	0	0	0	//"bles"
+	14	14	0	0	0	0	0	0	//"sol"
+	12	15	0	0	0	0	0	0	//"haos"
+	14	16	0	0	0	0	0	0	//"jol"
+	14	22	0	0	0	0	0	0	//"creatin"
+									
+//입장권									
+	14	19	3	6	0	0	0	0	//"devil invasion"
+	14	28	5	7	0	0	0	0	//"lost map"
+	13	18	4	7	0	0	0	0	//"cloack inizible"
+
+end									

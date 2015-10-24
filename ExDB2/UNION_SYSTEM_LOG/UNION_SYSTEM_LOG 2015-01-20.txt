@@ -1,0 +1,12 @@
+15:5:8  ★ [TEST][test1] Union = 0 Rival = 0
+15:5:8  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+15:5:8  Rival 정보 재구성 성공 : TEST, 118
+16:13:58  ★ [TEST][test1] Union = 0 Rival = 0
+16:13:58  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+16:13:58  Rival 정보 재구성 성공 : TEST, 118
+16:21:18  ★ [TEST][test1] Union = 0 Rival = 0
+16:21:18  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+16:21:18  Rival 정보 재구성 성공 : TEST, 118
+16:50:8  ★ [TEST][test1] Union = 0 Rival = 0
+16:50:8  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+16:50:8  Rival 정보 재구성 성공 : TEST, 118

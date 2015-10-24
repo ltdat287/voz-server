@@ -1,0 +1,5 @@
+Initializing...
+[MeMuOnlineDB] Connection Successfull!
+21:16:23 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+21:17:51 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+21:17:51 [Server Manager] GameServer connected Server PORT : 55901 CODE : 0

@@ -1,0 +1,27 @@
+// ----------------------------	//
+//	  Eo The Craftsman	//
+//------------------------------//
+
+//--------------------------------------------------------------------------------------//
+//	Type	Index	Level	Dur	Skill	Luck	Opt				//
+//--------------------------------------------------------------------------------------//
+	7	13	3	0	0	1 	1 	// Spirit Helm +3
+	8	13	3	0	0	1 	1 	// Spirit Armor +3
+	9	13	3	0	0	1 	1 	// Spirit Pants +3
+	10	13	3	0	0	1 	1 	// Spirit Gloves +3
+	11	13	3	0	0	1 	1 	// Spirit Boots +3
+	7	14	3	0	0	1	1 	// Guardian Helm +3
+	8	14	3	0	0	1	1 	// Guardian Armor +3 
+	9	14	3	0	0	1	1 	// Guardian Pants +3
+	10	14	3	0	0	1	1 	// Guardian Gloves +3
+	11	14	3	0	0	1	1 	// Guardian Boots +3
+	4 	3  	3 	0	1 	1 	1 	// Battlebow +3
+	4 	8  	1 	0	1 	1 	1	// Crossbow +
+	4 	9  	3	0	1 	1 	1	// Golden Crossbow +3
+	4 	10 	3	0	1 	1 	1	// Arquebus +3
+	4 	1  	0 	0	1 	1 	1 	// Bow +0
+	4 	2  	2 	0	1 	1 	1 	// Eleven Bow +2
+	6 	3  	3 	0	1 	1 	1 	// Eleven Shield +3
+	4	4	3	0	1	1	1	// Tiger Bow +3
+	0 	2  	2 	0	0 	1	1 	// Rapier +2
+end

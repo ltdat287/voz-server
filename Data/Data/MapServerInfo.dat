@@ -1,0 +1,18 @@
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 MapServer Settings                                                           早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭
+// 1. IP and pot information of server (only official recognition IP and port number use possibility)
+//
+//	P.S.> InitSetting (initial Maeb mobile information setting price) meaning of price 
+//	-1 	: Connection being not right - connection with the initial server which is possible connection
+//	0	: Connection being not right - connection random in the server which is possible it does, connection 
+//	1	: Connection possibility 
+//-----------------------------------------------------------------------------
+//[ServerCode] [MapServerGroup] [InitSetting] [IpAddress] [PortNum]
+0
+	0	0	1	S192.168.1.200	55901
+end
+
+//[ServerCode] [MoveAbleOption] [Map] [DestServerCode]
+1
+end

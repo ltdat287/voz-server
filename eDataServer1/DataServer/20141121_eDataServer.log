@@ -1,0 +1,188 @@
+SELECT Summoner FROM AccountCharacter WHERE Id = 'Datga'
+SELECT * FROM AccountCharacter WHERE Id = 'Datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'Datga'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+SELECT Name FROM OptionData WHERE Name='DatGa'
+UPDATE OptionData SET GameOption=10, Qkey=0, Wkey=0, Ekey=0, ChatWindow=0, Rkey=110, QWERLevel=4608 WHERE Name='DatGa'
+UPDATE Character SET cLevel=300,Class=17,LevelUpPoint=145, Experience=21323650, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=30628169, Life=60593.000000, MaxLife=35434.000000, Mana=44179.000000, MaxMana=36059.000000, MapNumber=0, MapPosX=179, MapPosY=130, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'Datga'
+SELECT * FROM AccountCharacter WHERE Id = 'Datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT * FROM AccountCharacter WHERE Id = 'Datga'
+exec WZ_CreateCharacter 'Datga', 'asfasdfasf', '64'
+UPDATE AccountCharacter SET GameID3='asfasdfasf' WHERE Id='Datga'
+SELECT cLevel FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='asfasdfasf'
+UPDATE AccountCharacter SET GameIDC = 'asfasdfasf' WHERE Id = 'Datga'
+SELECT * FROM OptionData WHERE Name='asfasdfasf'
+WZ_PeriodItemSelect 19, 'asfasdfasf'
+UPDATE Character SET cLevel=2,Class=64,LevelUpPoint=7, Experience=100, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=0, Life=915.000000, MaxLife=915.000000, Mana=410.000000, MaxMana=410.000000, MapNumber=0, MapPosX=177, MapPosY=126, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=3,Class=64,LevelUpPoint=14, Experience=440, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=0, Life=930.000000, MaxLife=930.000000, Mana=420.000000, MaxMana=420.000000, MapNumber=0, MapPosX=177, MapPosY=126, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+UPDATE Character SET cLevel=4,Class=64,LevelUpPoint=21, Experience=1080, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=0, Life=945.000000, MaxLife=945.000000, Mana=430.000000, MaxMana=430.000000, MapNumber=0, MapPosX=177, MapPosY=126, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=5,Class=64,LevelUpPoint=28, Experience=2080, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=0, Life=960.000000, MaxLife=960.000000, Mana=440.000000, MaxMana=440.000000, MapNumber=0, MapPosX=181, MapPosY=127, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=6,Class=64,LevelUpPoint=35, Experience=3500, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=0, Life=975.000000, MaxLife=975.000000, Mana=450.000000, MaxMana=450.000000, MapNumber=0, MapPosX=181, MapPosY=128, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=7,Class=64,LevelUpPoint=42, Experience=5400, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=1621, Life=990.000000, MaxLife=990.000000, Mana=460.000000, MaxMana=460.000000, MapNumber=0, MapPosX=181, MapPosY=130, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=8,Class=64,LevelUpPoint=49, Experience=7840, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=1621, Life=1005.000000, MaxLife=1005.000000, Mana=470.000000, MaxMana=470.000000, MapNumber=0, MapPosX=181, MapPosY=129, MapDir=5, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=9,Class=64,LevelUpPoint=56, Experience=10880, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=3949, Life=1020.000000, MaxLife=1020.000000, Mana=480.000000, MaxMana=480.000000, MapNumber=0, MapPosX=181, MapPosY=130, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=10,Class=64,LevelUpPoint=63, Experience=14580, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=3949, Life=1035.000000, MaxLife=1035.000000, Mana=490.000000, MaxMana=490.000000, MapNumber=0, MapPosX=189, MapPosY=129, MapDir=7, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=11,Class=64,LevelUpPoint=70, Experience=19000, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=4906, Life=1050.000000, MaxLife=1050.000000, Mana=500.000000, MaxMana=500.000000, MapNumber=0, MapPosX=193, MapPosY=129, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=12,Class=64,LevelUpPoint=77, Experience=24200, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=6288, Life=1065.000000, MaxLife=1065.000000, Mana=510.000000, MaxMana=510.000000, MapNumber=0, MapPosX=193, MapPosY=129, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=13,Class=64,LevelUpPoint=84, Experience=30240, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=6288, Life=1080.000000, MaxLife=1080.000000, Mana=520.000000, MaxMana=520.000000, MapNumber=0, MapPosX=185, MapPosY=137, MapDir=4, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=14,Class=64,LevelUpPoint=91, Experience=37180, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=9666, Life=1095.000000, MaxLife=1095.000000, Mana=530.000000, MaxMana=530.000000, MapNumber=0, MapPosX=193, MapPosY=130, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+UPDATE Character SET cLevel=15,Class=64,LevelUpPoint=98, Experience=45080, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=10973, Life=1110.000000, MaxLife=1110.000000, Mana=540.000000, MaxMana=540.000000, MapNumber=0, MapPosX=183, MapPosY=127, MapDir=0, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+SELECT Name FROM OptionData WHERE Name='asfasdfasf'
+INSERT INTO OptionData (Name, GameOption, Qkey, Wkey, Ekey, ChatWindow, Rkey, QWERLevel) VALUES ('asfasdfasf', 9, 0, 0, 0, 0, 110, 10973)
+UPDATE Character SET cLevel=15,Class=64,LevelUpPoint=98, Experience=50338, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=10864, Life=1110.000000, MaxLife=1110.000000, Mana=540.000000, MaxMana=540.000000, MapNumber=0, MapPosX=135, MapPosY=125, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'Datga'
+SELECT * FROM AccountCharacter WHERE Id = 'Datga'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'Datga'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+UPDATE Character SET cLevel=300,Class=17,LevelUpPoint=145, Experience=21323650, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=30628169, Life=25250.000000, MaxLife=35434.000000, Mana=56357.000000, MaxMana=36059.000000, MapNumber=0, MapPosX=184, MapPosY=126, MapDir=2, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT * FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'DATGA'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+EXEC WZ_GetItemSerial
+SELECT Name FROM OptionData WHERE Name='DatGa'
+UPDATE OptionData SET GameOption=10, Qkey=0, Wkey=0, Ekey=0, ChatWindow=0, Rkey=110, QWERLevel=30628169 WHERE Name='DatGa'
+UPDATE Character SET cLevel=300,Class=2,LevelUpPoint=145, Experience=21383400, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=30628233, Life=50952.000000, MaxLife=44538.000000, Mana=25832.000000, MaxMana=9372.000000, MapNumber=0, MapPosX=195, MapPosY=132, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT * FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='asfasdfasf'
+UPDATE AccountCharacter SET GameIDC = 'asfasdfasf' WHERE Id = 'DATGA'
+SELECT * FROM OptionData WHERE Name='asfasdfasf'
+WZ_PeriodItemSelect 19, 'asfasdfasf'
+SELECT Name FROM OptionData WHERE Name='asfasdfasf'
+UPDATE OptionData SET GameOption=9, Qkey=0, Wkey=0, Ekey=0, ChatWindow=0, Rkey=110, QWERLevel=11538625 WHERE Name='asfasdfasf'
+UPDATE Character SET cLevel=15,Class=64,LevelUpPoint=98, Experience=50338, Strength=26, Dexterity=20, Vitality=20, Energy=15, Money=10864, Life=1110.000000, MaxLife=1110.000000, Mana=540.000000, MaxMana=540.000000, MapNumber=0, MapPosX=135, MapPosY=126, MapDir=3, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=25, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'asfasdfasf'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT * FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='asfasdfasf'
+SELECT G_Status FROM GuildMember WHERE Name='asfasdfasf'
+SELECT cLevel, Class, LevelUpPoint, Experience, Strength, Dexterity, Vitality, Energy, Money, Life, MaxLife, Mana, MaxMana, MapNumber, MapPosX, MapPosY, MapDir, PkCount, PkLevel, PkTime, CtlCode, DbVersion, Leadership, ChatLimitTime, FruitPoint, Resets FROM Character WHERE Name='DatGa'
+UPDATE AccountCharacter SET GameIDC = 'DatGa' WHERE Id = 'DATGA'
+SELECT * FROM OptionData WHERE Name='DatGa'
+WZ_PeriodItemSelect 19, 'DatGa'
+EXEC WZ_GetItemSerial
+SELECT Name FROM OptionData WHERE Name='DatGa'
+UPDATE OptionData SET GameOption=10, Qkey=0, Wkey=0, Ekey=0, ChatWindow=0, Rkey=110, QWERLevel=11538625 WHERE Name='DatGa'
+UPDATE Character SET cLevel=300,Class=2,LevelUpPoint=145, Experience=21383400, Strength=30000, Dexterity=30000, Vitality=25000, Energy=10000, Money=29588233, Life=4431.000000, MaxLife=44538.000000, Mana=50805.000000, MaxMana=9372.000000, MapNumber=3, MapPosX=173, MapPosY=116, MapDir=6, PkCount=0, PkLevel=3, PkTime=0, DbVersion=3, Leadership=0, ChatLimitTime=0, FruitPoint=0 WHERE Name = 'DatGa'
+SELECT Summoner FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT * FROM AccountCharacter WHERE Id = 'DATGA'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='DatGa'
+SELECT G_Status FROM GuildMember WHERE Name='DatGa'
+SELECT cLevel, Class, CtlCode, DbVersion FROM vCharacterPreview WHERE Name='fasdfasdf'
+SELECT G_Status FROM GuildMember WHERE Name='fasdfasdf'
+SELECT cLevel, Class, CtlCode, DbVersion F

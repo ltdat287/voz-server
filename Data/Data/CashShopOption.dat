@@ -1,0 +1,8 @@
+[CashShopOption]
+UseCashShop		= 1			// On / Off
+ConnectShopServer	= 1			// Check Connection
+ShopServerIP		= 127.0.0.1	   	// CashShop IP
+ShopServerPort		= 55821			// CashShop Port
+
+UseLotteryEvent		= 1			// Allow ChaosMaster
+MapMoveBoundCheck	= 0			// Lock Moves to seals

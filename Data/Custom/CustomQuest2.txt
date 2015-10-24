@@ -1,0 +1,229 @@
+////////////////////////////////////////////
+/////     mu.reedlan.com  MOHAPX    ////////
+///////////////////////////////////////////
+//
+// GroupIndex	NpcNumber
+// QuestTime RewardItem	RewardCP RewardLevelPoints
+// ItemIndex ItemNumber	Level Skill	Luck Option	Count
+0	371
+
+180	7184	2	10			// kard chaos
+5131	7	0	1	1	1	// Silk Gloves 
+3074	6	0	1	0	1	// Kite Shield
+end
+
+200	7181	2	10  		// bless
+3076	4	0	0	1	1	// Buckler  
+2062	7	1	1	1	1	// Aqua Gold Crossbow
+end
+
+200	7222	2	10			// Life
+4111	6	0	1	1	1	// Storm Crow Armor 
+3085	4	1	0	1	1	// Dragon Shield
+end
+
+200	7222	2	10			// Green Ribbon Box
+1035	3	1	0	0	1	// Lord Scepter   
+4122	6	0	1	1	1	// Adamantine Armor
+end
+
+240	7222	2	10			// Life
+1544	3	1	1	0	1	// Great Scythe  
+2065	7	1	1	0	1	// Celestial Bow
+end
+
+240	7189	2	10			// Green Ribbon Box
+6677	3	0	0	0	1	// Ring of Fire  
+6657	0	0	0	0	4	// Imp
+end
+
+240	7222	3	10			// Sumbol of Luck
+7203	0	0	0	0	2	// Small SD Potion 
+7168	0	0	0	0	7	// Apple
+end
+
+300	7222	3	10			// kard chaos
+7186	3	0	0	0	4	// Devil's Key 3 
+7179	0	0	0	0	2	// Box of Luck
+end
+
+300	6177	3	10			// Green Ribbon Box
+7692	0	0	0	0	2	// Scroll of Blast
+3087	7	0	1	1	1	// Grand Soul Shield
+end
+
+360	7222	3	10			// Rena
+1030	5	1	1	1	1	// Chaos Dragon Axe 
+16		7	1	1	1	1	// Sword of Destruction
+end
+//
+// 10  ===== 13 (24) ====== 90 stats (100) ====
+//
+180	6177	2	10			// Green Ribbon Box
+6664	4	0	0	0	1	// Ring of Ice   
+7688	0	0	0	0	1	// Scroll of Evil Spirit
+end
+
+240	7222	2	10			// Green Ribbon Box
+7213	0	0	0	0	4	// Haloween Pumpkin  
+7185	6	0	0	0	4	// Devil's Eye 6
+end
+
+240	7222	2	10			// Green Ribbon Box
+7204	0	0	0	0	2	// SD Potion    
+7691	0	0	0	0	1	// Scroll of Aqua Beam
+end
+
+300	7181	2	10			// Bless
+7179	2	0	0	0	6	// Fire Creaker   
+6674	5	0	0	0	2	// Invisibility Cloak +5
+end
+
+300	7222	3	20			// kard chaos
+6671	4	0	0	0	1	// Command Fruit  
+516		5	0	0	0	1	// Elven Axe
+end
+
+300	6177	3	20			// Green Ribbon Box
+2570	6	0	1	1	1	// Divine Staff of Archangel  
+6161	0	0	0	0	3	// Orb of Penetration
+end
+
+180	7222	3	20			// Green Ribbon Box
+7179	3	0	0	0	7	// Heart of Love 
+7168	0	0	0	0	10	// Apple
+end
+
+300	7222	3	20			// Bless
+6671	2	0	0	0	1	// Agility Fruit   
+7179	8	0	0	0	1	// Box +1  
+end
+
+300	6177	3	20			// Green Ribbon Box
+7179	5	0	0	0	7	// Silver medal  
+2064	8	1	1	1	1	// Saint Crossbow	
+end
+
+300	7222	3	20			// Rena
+2566	7	0	1	1	1	// Staff of Ressurection  
+1029	8	1	1	1	1	// Crystal Sword
+end
+//
+// ===== 20 =====  15 (26) =====  130  ==== //  ==== 28 === (160) ===
+//
+180	7184	3	15			// Life
+6669	3	0	0	0	1	// Pendant of Fire  
+7179	6	0	0	0	8	// Gold medal  
+end
+
+240	7222	3	15			// Green Ribbon Box
+7196	3	0	0	0	2	// Lost Map +3     
+7186	6	0	0	0	5	// Devil's Key 6  
+end
+
+240	7182	3	15			// Soul
+6671	3	0	0	0	1	// Strenght Fruit  
+7694	0	0	0	0	2	// Scroll of Teleport Ally
+end
+
+240	7222	3	15			// kard chaos
+6674	3	0	0	0	2	// Invisibility Cloak +3     
+7179	7	0	0	0	8	// Box of Heaven  
+end
+
+240	7222	3	15			// Life
+6658	0	0	0	0	5	// Horn of Uniria     
+7197	5	0	0	0	6	// Symbol of Kundun +5
+end
+
+240	7189	3	20			// Green Ribbon Box
+6671	0	0	0	0	1	// Energy Fruit   
+7196	2	0	0	0	3	// Lost Map +2
+end
+
+300	7222	3	20			// Green Ribbon Box
+6694	0	0	0	0	1	// MoonStone Ring  
+6663	0	0	0	0	2	// Contract (Summon)   ==== Archer (red)
+end
+
+300	7222	3	20			// kard chaos
+7217	0	0	0	0	3	// Food of Jack   
+7207	0	0	0	0	8	// Complex Potion
+end
+
+
+360	6177	3	20			// Green Ribbon Box
+19		8	1	1	1	1	// Divine Sword Of Archangel  
+6672	6	0	0	0	5	// Blood Scroll +6
+end
+
+360	7222	3	20			// Rena
+2054	6	1	1	1	1	// Chaos Nature Bow  
+7196	5	0	0	0	3	// Lost Map +5
+end
+//
+// ==== 30 =====  15 (30) =====  135  (175)==== // === 43 === 355 ===
+//
+300	6177	5	30			// Green Ribbon Box
+7695	0	0	0	0	2	// Scroll of Soul Barrier
+7205	0	0	0	0	2	// Large SD Potion
+1028	7	0	0	2	1	// Crystal Morning Star
+end
+
+500	7222	5	30			// Green Ribbon Box
+7197	6	0	0	0	7	// Symbol of Kundun +6   
+5650	5	0	1	1	1	// Grand Soul Boots
+6688	0	0	0	0	2	// Splinter of Earth
+end
+
+500	7268	5	30			// Jewel of Exelent
+6658	0	0	0	0	6	// Horn of Uniria
+6673	6	0	0	0	5	// Blood Fang +6
+7179	0	0	0	0	5	// Box of Luck
+end
+
+360	7222	5	30			// kard chaos
+7187	5	0	0	0	2	// Ticket to DevilSquare +5
+7179	8	0	0	0	2	// Box +1   
+6671	1	0	0	0	1	// Stamina Fruit 
+end
+
+360	6177	5	30			// Green Ribbon Box
+7196	7	0	0	0	2	// Lost Map +7    
+7698	0	0	0	0	1	// Scroll of Nova
+6151	0	0	0	0	5	// Orb of Twisting Slash
+end
+
+420	7222	5	30			// Green Ribbon Box
+7179	1	0	0	0	8	// Star of Sacred Birch   
+6166	0	0	0	0	2	// Scroll of Summon
+7215	0	0	0	0	4	// Scare of Jack
+end
+
+600	7222	5	30			// Jewel of Mystical
+3619	7	0	1	1	1	// Eclipse Helm  
+6681	4	0	0	1	1	// Pendant of Ice
+6690	0	0	0	0	2	// Wolf Talon
+end
+
+600	7222	5	30			// kard chaos
+7208	0	0	0	0	9	// Large Complex Potion
+5136	8	0	1	1	1	// Black Dragon Gloves 
+7216	0	0	0	0	3	// Surprise of Jack
+end
+
+600	7189	5	40			// Green Ribbon Box
+6162	0	0	0	0	4	// Orb of Ice Arrow
+7179	9	0	0	0	2	// Box +2         
+4126	4	0	0	1	1	// Venom Mist Armor
+end
+
+600	7268	5	50			// Jewel of Exelent
+6689	0	0	0	0	2	// Guardian Seal
+7218	0	0	0	0	5	// Calice of Jack
+2573	6	0	1	1	1	// Platina Wing Staff
+end
+//
+// ==== 40 =====  25 (50)=(130) ======  270 (340) =(775)===  //  ===  67  ===  625  ===
+//
+end

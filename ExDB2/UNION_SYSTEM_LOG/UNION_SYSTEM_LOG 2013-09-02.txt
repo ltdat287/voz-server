@@ -1,0 +1,30 @@
+17:48:17  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+17:48:17  ★ [TEST][test1] Union = 0 Rival = 0
+17:48:17  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+17:48:17  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+17:48:17  Rival 정보 재구성 성공 : TEST, 118
+17:48:17  Rival 정보 재구성 성공 : Kinggggg, 119
+18:3:7  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+18:3:7  ★ [TEST][test1] Union = 0 Rival = 0
+18:3:7  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+18:3:7  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+18:3:7  Rival 정보 재구성 성공 : TEST, 118
+18:3:7  Rival 정보 재구성 성공 : Kinggggg, 119
+18:7:27  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+18:7:27  ★ [TEST][test1] Union = 0 Rival = 0
+18:7:27  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+18:7:27  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+18:7:27  Rival 정보 재구성 성공 : TEST, 118
+18:7:27  Rival 정보 재구성 성공 : Kinggggg, 119
+18:27:0  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+18:27:0  ★ [TEST][test1] Union = 0 Rival = 0
+18:27:0  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+18:27:0  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+18:27:0  Rival 정보 재구성 성공 : TEST, 118
+18:27:0  Rival 정보 재구성 성공 : Kinggggg, 119
+20:12:53  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+20:12:53  ★ [TEST][test1] Union = 0 Rival = 0
+20:12:53  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+20:12:53  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+20:12:53  Rival 정보 재구성 성공 : TEST, 118
+20:12:53  Rival 정보 재구성 성공 : Kinggggg, 119

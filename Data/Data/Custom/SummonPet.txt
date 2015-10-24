@@ -1,0 +1,26 @@
+//------------------------------------------------------------
+// Summon Pet Settings
+// Pet Settings:
+// MonName	MonId	ReqLvl	iGroup	iIndex	iLevel	ReqZen		DmgMin	DmgMax Defense AtkSpeed	A.Range
+//------------------------------------------------------------
+0
+"1"		486	0	12	15	0	20000	400	500	100	1700	2
+"2"		493	50	12	15	0	40000	600	700	150	1700	2
+"3"		490	100	12	15	0	60000	900	1000	300	1700	2
+"4"		480	150	12	15	0	90000	1800	2000	600	1700	2
+"5"		479	200	12	15	0	140000	2800	3000	1200	1700	2
+end
+
+
+
+// Exp Settings
+// Exp Formula: Exp = ConstB * ( ( ( Level + ConstA ) *Level ) *Level )
+// MaxLevel ConstA	ConstB
+1
+200	9	10
+end
+
+// Command Settings
+2
+"/mob"
+end

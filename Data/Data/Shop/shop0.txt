@@ -1,0 +1,41 @@
+//Shop0 [Lora] кузнец
+//
+7   5 1  31 0 1 1 //Leather Helm
+7   0 3  37 0 1 1 //Bronze Helm
+7   6 4  44 0 1 1 //Scale Helm
+7   8 5  56 0 1 1 //Brass Helm
+//
+8   5 1  31 0 1 1 //Leather Armor
+8   0 3  37 0 1 1 //Bronze Armor
+8   6 4  44 0 1 1 //Scale Armor
+8   8 5  56 0 1 1 //Brass Armor
+//
+10  0 3  37 0 1 1 //Bronze Gloves
+10  6 4  44 0 1 1 //Scale Gloves
+10  8 5  56 0 1 1 //Brass Gloves
+10  5 1  37 0 1 1 //Leather Gloves
+//
+9   0 3  37 0 1 1 //Bronze Pants
+9   6 4  44 0 1 1 //Scale Pants
+9   8 5  56 0 1 1 //Brass Pants
+9   5 1  37 0 1 1 //Leather Pants
+//
+11  0 3  37 0 1 1 //Bronze Boots
+11  6 4  44 0 1 1 //Scale Boots
+11  8 5  56 0 1 1 //Brass Boots
+11  5 1  37 0 1 1 //Leather Boots
+//
+12 13 0 255 0 0 0 //Orb of Impaling (BK)
+12  7 0 255 0 0 0 //Twisting slash (DK/MG)
+13  0 0 255 0 0 0 //Guardian Angel
+//
+0   1 1  23 1 1 1 //Short Sword
+0   2 1  24 1 1 1 //Rapier
+0   4 2  26 1 1 1 //Sword of Assassin
+0   3 2  28 1 1 1 //Katana
+0   6 3  33 1 1 1 //Gladius
+0   7 4  38 1 1 1 //Falchion
+0   5 4  43 1 1 1 //Blade
+0  13 5  49 1 1 1 //Double Blade
+end
+

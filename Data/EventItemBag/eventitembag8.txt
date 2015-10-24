@@ -1,0 +1,86 @@
+//-----------------------------
+// Repack Season 3 Episodio 1 Full by Slipkorn13
+// Aporte Exclusivo para IG Network
+// Box of Kundum +1
+//-----------------------------
+
+//Pad   Set
+	7	2	0	0	1	2	//Helm
+	8	2	0	0	1	2	//Armor
+	9	2	0	0	1	2	//Pants
+	10	2	0	0	1	2	//Gloves
+	11	2	0	0	1	2	//Boots
+
+//Bone  Set
+	7	4	0	0	1	2	//Helm
+	8	4	0	0	1	2	//Armor
+	9	4	0	0	1	2	//Pants
+	10	4	0	0	1	2	//Gloves
+	11	4	0	0	1	2	//Boots
+
+//Leather set
+	7	5	0	0	1	2	//Helm
+	8	5	0	0	1	2	//Armor
+	9	5	0	0	1	2	//Pants
+	10	5	0	0	1	2	//Gloves
+	11	5	0	0	1	2	//Boots
+	
+//Bronze set
+	7	0	0	0	1	2	//Helm
+	8	0	0	0	1	2	//Armor
+	9	0	0	0	1	2	//Pants
+	10	0	0	0	1	2	//Gloves
+	11	0	0	0	1	2	//Boots
+
+//Vine  Set
+	7	10	0	0	1	2	//Helm
+	8	10	0	0	1	2	//Armor
+	9	10	0	0	1	2	//Pants
+	10	10	0	0	1	2	//Gloves
+	11	10	0	0	1	2	//Boots
+
+//Silk  Set
+	7	11	0	0	1	2	//Helm
+	8	11	0	0	1	2	//Armor
+	9	11	0	0	1	2	//Pants
+	10	11	0	0	1	2	//Gloves
+	11	11	0	0	1	2	//Boots
+	
+//Sword
+	0	0	0	0	1	2	//Kris
+	0	1	0	0	1	2	//Short Sword
+	0	2	0	0	1	2	//Rapier
+	0	3	0	0	1	2	//Katana
+	0	4	0	0	1	2	//Sword of Assassin
+
+//Axes
+	1	0	0	0	1	2	//Small Axe
+	1	1	0	0	1	2	//Hand Axe
+
+//Blunt weapons
+	2	0	0	0	1	2	//Mace
+	2	1	0	0	1	2	//Morning Star
+	2	2	0	0	1	2	//Flail
+
+//Bows & Crossbows
+	4	0	0	0	1	2	//Short Bow
+	4	1	0	0	1	2	//Bow
+	4	8	0	0	1	2	//Crossbow
+	4	9	0	0	1	2	//Golden Crossbow
+
+//Staffs
+	5	0	0	0	1	2	//Skull Staff
+	5	1	0	0	1	2	//Angelic Staff
+	
+//Shields
+	6	0	0	0	1	2	//Small Shield
+	6	1	0	0	1	2	//Horn Shield
+	6	3	0	0	1	2	//Elven Shield
+	6	4	0	0	1	2	//Buckler
+
+//Rings+Pendant
+	13	8	0	0	1	0	//Ring of Ice
+	13	9	0	0	1	0	//Ring of Poison
+	13	21	0	0	1	2	//Ring of Fire
+	13	22	0	0	1	2	//Ring of Earth
+end

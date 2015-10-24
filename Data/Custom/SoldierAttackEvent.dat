@@ -1,0 +1,40 @@
+// TimeSettings
+// OpenTime	PlayTime	CloseTime
+0
+1	30	30
+end
+
+// Radius Settings
+// RandomSize	RadiusMin	RadiusMax
+1
+15	3	6
+end
+
+// Monster Settings
+// MonsterID	MonsterRegen	MonsterAttack
+2
+492	0	1
+495	0	1
+494	0	1
+495	0	1
+494	0	1
+495	0	1
+494	0	1
+494	0	1
+495	0	1
+494	0	1
+495	0	1
+end
+
+// EventStart Time 
+// Hour Minute (NOT_USED DUE TO EventManagement)
+3
+11	0
+23	0
+end
+
+4
+0	66	44	191	197		// MAP_INDEX_LORENCIA
+2	111	14	232	125		// MAP_INDEX_DEVIAS
+3	136	53	223	181		// MAP_INDEX_NORIA
+end

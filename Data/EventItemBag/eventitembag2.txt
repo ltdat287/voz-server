@@ -1,0 +1,9 @@
+////////       mu.reedlan.com     /////////////////////////////////////
+// Read Dragon Drop Settings [Event55]     ////////////////////////////
+///////////////////////////////////////////////////////////////////////
+//[Index] [Number][Level] [Skill] [Luck] [Option]
+//
+14 13 0 0 0 0 // Jewel of Bless
+14 14 0 0 0 0 // Jewel of Soul
+12 15 0 0 0 0 // Jewel of Chaos
+

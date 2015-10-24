@@ -1,0 +1,67 @@
+//-----------------------------
+// Repack Season 3 Episodio 1 Full by Slipkorn13
+// Aporte Exclusivo para IG Network
+// Box of Kundum +5
+//-----------------------------
+
+// Dark Phoenix set
+	7	17	0	0	1	2	//Helm
+	8	17	0	0	1	2	//Armor
+	9	17	0	0	1	2	//Pants
+	10	17	0	0	1	2	//Gloves
+	11	17	0	0	1	2	//Boots
+
+// Grand Soul set	
+	7	18	0	0	1	2	//Helm
+	8	18	0	0	1	2	//Armor
+	9	18	0	0	1	2	//Pants
+	10	18	0	0	1	2	//Gloves
+	11	18	0	0	1	2	//Boots
+
+//  Divine Set
+	7	19	0	0	1	2	//Helm
+	8	19	0	0	1	2	//Armor
+	9	19	0	0	1	2	//Pants
+	10	19	0	0	1	2	//Gloves
+	11	19	0	0	1	2	//Boots
+
+//  Thunder Hawk Set
+	8	20	0	0	1	2	//Armor
+	9	20	0	0	1	2	//Pants
+	10	20	0	0	1	2	//Gloves
+	11	20	0	0	1	2	//Boots
+
+// Dark Steel set
+	7	27	0	0	1	2	//Helm
+	8	27	0	0	1	2	//Armor
+	9	27	0	0	1	2	//Pants
+	10	27	0	0	1	2	//Gloves
+	11	27	0	0	1	2	//Boots
+
+//Sword
+	0	17	0	0	1	2	//Dark Breaker
+	0	18	0	0	1	2	//Thunder Blade
+	0	19	0	0	1	2	//Divine Sword of Archangel
+	0	31	0	0	1	2	//Rune Blade
+
+//Blunt weapons
+	2	13	0	0	1	2	//Elven Mace
+
+//Spears
+	2	11	0	0	1	2	//Lord Scepter
+	3	10	0	0	1	2	//Dragon Spear
+
+//Bows & Crossbows
+	4	17	0	0	1	2	//Celestial Bow
+	4	18	0	0	1	2	//Divine CrossbowOfArchangel
+	4	16	0	0	1	2	//Saint Crossbow
+
+//Staffs
+	5	9	0	0	1	2	//Dragon Soul Staff
+	5	10	0	0	1	2	//Divine Staff of Archangel
+
+//Shields
+	6	14	0	0	1	2	//Legendary Shield
+	6	15	0	0	1	2	//Grand Soul Shield
+	6	16	0	0	1	2	//Elemental Shield
+end

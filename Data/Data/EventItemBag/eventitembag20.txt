@@ -1,0 +1,75 @@
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Crystal Event Settings                                                       早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Crystal Event"	1000000	0	0	0	0	100	1000
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+
+	5	5	2	3	1	1	1	1	// Legendary Staff
+	4	14	2	3	1	1	1	1	// Aquagold Crossbow
+	4	13	2	3	1	1	1	1	// Bluewing Crossbow
+	2	5	2	3	1	1	1	1	// Crystal Sword
+	2	8	2	3	1	1	1	1	// Battle Scepter
+
+// 縈撲楛お 寞橫掘
+	6	13	2	3	1	1	1	1	// Chaos Dragon Shield
+
+	7	1	2	3	1	1	1	1	// Dragon Helm
+	8	1	2	3	1	1	1	1	// Dragon Armor
+	9	1	2	3	1	1	1	1	// Dragon Pants
+	10	1	2	3	1	1	1	1	// Dragon Gloves
+	11	1	2	3	1	1	1	1	// Dragon Boots
+
+	7	14	2	3	1	1	1	1	// Guardian Helm
+	8	14	2	3	1	1	1	1	// Guardian Armor
+	9	14	2	3	1	1	1	1	// Guardian Pants
+	10	14	2	3	1	1	1	1	// Guardian Gloves
+	11	14	2	3	1	1	1	1	// Guardian Boots
+
+	7	3	2	3	1	1	1	1	// Legendary Helm
+	8	3	2	3	1	1	1	1	// Legendary Armor
+	9	3	2	3	1	1	1	1	// Legendary Pants
+	10	3	2	3	1	1	1	1	// Legendary Gloves
+	11	3	2	3	1	1	1	1	// Legendary Boots
+
+	7	25	2	3	1	1	1	1	// Light Plate Helm
+	8	25	2	3	1	1	1	1	// Light Plate Armor
+	9	25	2	3	1	1	1	1	// Light Plate Pants
+	10	25	2	3	1	1	1	1	// Light Plate Gloves
+	11	25	2	3	1	1	1	1	// Light Plate Boots
+
+// 縈撲楛お 學撮餌葬
+	13	8	2	3	1	1	0	1	// Ring of Ice
+	13	9	2	3	1	1	0	1	// Ring of Poison
+	13	12	2	3	1	1	0	1	// Pendant of Lighting
+	13	13	2	3	1	1	0	1	// Pendant of Fire
+
+
+end
+

@@ -1,0 +1,123 @@
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ Nightmare Drop Settings                                                     ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+//---------------------------------------------------------------------------------
+// MapSettings
+//---------------------------------------------------------------------------------
+0
+//[MapIndex] [Drop Flag] [Min Monster Level] [Max MonsterLevel]
+	0	0	0	1000	//	Lorencia
+	1	0	0	1000	//	Dungeon
+	2	0	0	1000	//	Devias
+	3	0	0	1000	//	Noria
+	4	0	0	1000	//	Losttower
+	5	0	0	1000	//	Exile
+	6	0	0	1000	//	Stadium
+	7	0	0	1000	//	Atlans
+	8	0	0	1000	//	Tarkan
+	9	0	0	1000	//	Devil Square
+	10	0	0	1000	//	Icarus
+end
+//---------------------------------------------------------------------------------
+// Drop Settings
+//---------------------------------------------------------------------------------
+1
+//[EventName] [DropZen] [EventItemType] [EventItemIndex] [EventItemLevel] [EventItemDropRate] [ItemDropRate] [ExItemDropRate]
+	"Nightmare"	1000000	0	0	0	0	100	1
+end
+//---------------------------------------------------------------------------------
+// Item Drop Settings
+//---------------------------------------------------------------------------------
+2
+
+//[Index] [Type] [MinLevel] [MaxLevel] [Skill] [Luck] [Option] [ExItemflag]
+																
+	14	102	0	0	0	0	0	0	//"Jewel of Upgrade"
+	0	20	5	7	1	1	1	1	//"Knight Blade"
+	0	21	5	7	1	1	1	1	//"Black Reign Blade"
+	4	20	5	7	1	1	1	1	//"Arrow Viper Bow"
+	2	12	5	7	1	1	1	1	//"Great Lord Scepter"
+	5	11	5	7	1	1	1	1	//"Kundun Staff "
+//엑설런트 무기류									
+	0	16	0	0	1	0	0	1	//"Sword of Destruction"
+	3	10	0	0	1	0	0	1	//"Dragon Spear"
+	5	6	0	0	1	0	0	1	//"Staff of Resurrection"
+	5	9	0	0	1	0	0	1	//"Dragon Soul Staff"
+	5	11	0	0	1	0	0	1	//"Kundun  Staff"
+	2	10	0	0	1	0	0	1	//"Great Scepter"
+	0	31	0	0	1	0	0	1	//"Rune Blade"
+	0	20	0	0	1	0	0	1	//"Knight Blade"
+	2	12	0	0	1	0	0	1	//"Great Lord Scepter"
+	4	20	0	0	1	0	0	1	//"Arrow Viper Bow"
+//엑설런트방패류									
+	6	13	0	0	1	0	0	1	//"Chaos Dragon Shield"
+	6	16	0	0	1	0	0	1	//"Elemental Shield"
+//일반 방어구류 									
+	8	34	5	7	0	1	1	1	//"Ashcrow Armor"
+	8	35	5	7	0	1	1	1	//"Eclipse Armor"
+	8	36	5	7	0	1	1	1	//"Iris Armor"
+	8	37	5	7	0	1	1	1	//"Valiant Armor"
+	8	38	5	7	0	1	1	1	//"Glorious Armor"
+	8	29	5	7	0	1	1	1	//"Dragon Knight Armor"
+	8	30	5	7	0	1	1	1	//"Venom Mist Armor"
+	8	31	5	7	0	1	1	1	//"Sylpid Ray Armor"
+	8	32	5	7	0	1	1	1	//"Volcano Armor"
+	8	33	5	7	0	1	1	1	//"Sunlight Armor"
+
+	7	21	5	7	0	1	1	1	//"Great Dragon Helm"
+	8	21	5	7	0	1	1	1	//"Great Dragon Armor"
+	9	21	5	7	0	1	1	1	//"Great Dragon Pants"
+
+	7	22	5	7	0	1	1	1	//"Dark Soul Helm"
+	8	22	5	7	0	1	1	1	//"Dark Soul Armor"
+	9	22	5	7	0	1	1	1	//"Dark Soul Pants"
+
+	7	24	5	7	0	1	1	1	//"Red Spirit Helm"
+	8	24	5	7	0	1	1	1	//"Red Spirit Armor"
+	9	24	5	7	0	1	1	1	//"Red Spirit Pants"
+
+	8	23	5	7	0	1	1	1	//"Hurricane Armor"
+	9	23	5	7	0	1	1	1	//"Hurricane Pants"
+	10	23	5	7	0	1	1	1	//"Hurricane Gloves"
+	11	23	5	7	0	1	1	1	//"Hurricane Boots"
+
+	7	27	5	7	0	1	1	1	//"Dark Steel Helm"
+	8	27	5	7	0	1	1	1	//"Dark Steel Armor"
+	9	27	5	7	0	1	1	1	//"Dark Steel Pants"
+//엑설런트방어구류									
+	8	16	0	0	0	0	0	1	//"Black Dragon Armor"
+
+	7	17	0	0	0	0	0	1	//"Dark Phoenix Helm"
+	8	17	0	0	0	0	0	1	//"Dark Phoenix Armor"
+	9	17	0	0	0	0	0	1	//"Dark Phoenix Pants"
+
+	7	18	0	0	0	0	0	1	//"Grand Soul Helm"
+	8	18	0	0	0	0	0	1	//"Grand Soul Armor"
+	9	18	0	0	0	0	0	1	//"Grand Soul Pants"
+
+	7	19	0	0	0	0	0	1	//"Divine Helm"
+	8	19	0	0	0	0	0	1	//"Divine Armor"
+	9	19	0	0	0	0	0	1	//"Divine Pants"
+
+	8	15	0	0	0	0	0	1	//"Storm Crow Armor"
+	9	15	0	0	0	0	0	1	//"Storm Crow Pants"
+
+	7	26	0	0	0	0	0	1	//"Adamantine Helm"
+	8	26	0	0	0	0	0	1	//"Adamantine Armor"
+
+	10	21	0	0	0	0	0	1	//"Great Dragon Gloves"
+	11	21	0	0	0	0	0	1	//"Great Dragon Boots"
+
+	10	22	0	0	0	0	0	1	//"Dark Soul gloves"
+	11	22	0	0	0	0	0	1	//"Dark Soul boots"
+
+	10	24	0	0	0	0	0	1	//"Red Spirit gloves"
+	11	24	0	0	0	0	0	1	//"Red Spirit bots"
+
+	10	20	0	0	0	0	0	1	//"Thunder Hawk gloves"
+	11	20	0	0	0	0	0	1	//"Thunder Hawk boots"
+
+	10	27	0	0	0	0	0	1	//"Dark Steel gloves"
+	11	27	0	0	0	0	0	1	//"Dark Steel boots"
+
+end									

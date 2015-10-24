@@ -1,0 +1,16 @@
+// Index
+// ConnectNotice; NoticeType;
+0
+"Ember Mu Online x25"	0
+end
+// Index
+// GameNoticeReminder; NoticeType; NoticeTime;
+1
+"You can always check our news on the official resources of our server"	4	180
+"http://embermu.net - EmberMU"	4	180
+"http://forum.embermu.net - EmberMU Forum"	4	180
+"Have fun playing with friends on the server EmberMU"	4	240
+"Quality, innovation, stability - is EmberMU"	4	300
+"Make your story on the continent EmberMU"	4	360
+"Touch the new generation of III Season"	4	420
+end

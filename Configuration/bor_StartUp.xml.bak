@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="D:\voz\ChatServer\ChatServer.exe" Parameters=" 127.0.0.1" />
+  <Process Run="True" Delay="1000" Path="D:\voz\eDataServer1\eDataServer2.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\voz\eDataServer2\eDataServer2.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\voz\ExDB\ExDB.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\voz\ExDB2\ExDB.exe" Parameters=" 127.0.0.1" />
+</Processes>

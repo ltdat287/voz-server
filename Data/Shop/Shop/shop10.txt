@@ -1,0 +1,59 @@
+//shop10 - [Noria] Elf
+//
+7  10 0 22 0 1 1 //Vine Helm
+7  11 2 28 0 1 1 //Silk Helm
+7  12 4 36 0 1 2 //Wind Helm
+7  13 5 44 0 1 1 //Spirit Helm
+//
+8  10 0 22 0 1 1 //Vine Armor
+8  11 2 28 0 1 1 //Silk Armor
+8  12 4 36 0 1 2 //Wind Armor
+8  13 5 44 0 1 1 //Spirit Armor
+//
+10 10 0 22 0 1 1 //Vine Gloves
+10 11 2 28 0 1 1 //Silk Gloves
+10 12 4 36 0 1 2 //Wind Gloves
+10 13 5 44 0 1 1 //Spirit Gloves
+//
+9  10 0 22 0 1 1 //Vine Pants
+9  11 5 28 0 1 1 //Silk Pants
+9  12 4 36 0 1 2 //Wind Pants
+9  13 5 44 0 1 1 //Spirit Pants
+//
+11 10 0 22 0 1 1 //Vine Boots
+11 11 2 28 0 1 1 //Silk Boots
+11 12 4 36 0 1 2 //Wind Boots
+11 13 5 44 0 1 1 //Spirit Boots
+//
+14  1 0  30 0 0 0 //Small Healing
+14  2 0  30 0 0 0 //Medium Heal
+14  3 0  30 0 0 0 //Large Healing
+14  3 0  60 0 0 0 //Large Healing
+14  4 0  30 0 0 0 //Small Mana
+14  5 0  30 0 0 0 //Medium Mana
+14  6 0  30 0 0 0 //Large Mana
+14  6 0  60 0 0 0 //Large Mana
+//
+//
+14 10 0  0 0 0 0 //Town Scroll
+14  9 0  0 0 0 0 //Alcohol
+14  9 1  0 0 0 0 //Olive of Love
+14 20 0  0 0 0 0 //Love Charm
+//
+ 4 15 0 100 0 0 0 //Arrows
+ 4 15 2 255 0 0 1 //Arrows+2+4
+ 4 15 4 255 0 0 1 //Arrows+4+4
+ 4 15 6 255 0 0 2 //Arrows+6+8
+14  8 0  30 0 0 0 //Antidote Tonic
+ 4  7 0 100 0 0 0 //Bolts
+ 4  7 2 255 0 0 1 //Bolts+2+4
+ 4  7 4 255 0 0 1 //Bolts+4+4
+ 4  7 6 255 0 0 2 //Bolts+6+8
+//
+12  8 0   0 0 0 0 //Orb of Healing
+12  9 0   0 0 0 0 //Orb of Advanced Def
+12 10 0   0 0 0 0 //Orb of Advanced Dmg
+12 11 0   0 0 0 0 //Summoning Orb
+13  0 0   0 0 0 0 //Guardian Angel
+
+end

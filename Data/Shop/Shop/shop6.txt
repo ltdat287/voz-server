@@ -1,0 +1,14 @@
+//Shop6 [CryWolf] 235X45
+//
+14  1 0  30 0 0 0 //Small Healing
+14  2 0  30 0 0 0 //Medium Heal
+14  3 0  30 0 0 0 //Large Healing
+14  3 0  60 0 0 0 //Large Healing
+14  4 0  30 0 0 0 //Small Mana
+14  5 0  30 0 0 0 //Medium Mana
+14  6 0  30 0 0 0 //Large Mana
+14  6 0  60 0 0 0 //Large Mana
+//
+14   8 13 255 0 0 0 //Antidote
+//
+end

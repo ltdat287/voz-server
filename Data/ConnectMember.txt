@@ -1,0 +1,10 @@
+// Connect user list
+// Only current game server.
+"SaemSong"
+"saemsong"
+"Oooz"
+"Max7"
+"webzendm1"
+"webzendm2"
+"webzendm3"
+"webzendm4"

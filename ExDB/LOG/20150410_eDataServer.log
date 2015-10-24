@@ -1,0 +1,16 @@
+Initializing...
+[MeMuOnlineDB] Connection Successfull!
+23:30:36 [IOCP] ST_JOINSERVER Start! PORT [ 55970 ]
+23:31:18 [Server Engine] Connect : Index : 0 - IP : 127.0.0.1 - ServerType : 2
+23:31:18 [Server Manager] GameServer connected VOZ PORT : 55901 CODE : 0
+23:45:49 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:45:49 EXEC WZ_CONNECT_MEMB 'datga','VOZ','117.7.165.142'
+23:46:32 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:49:01 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:49:01 EXEC WZ_CONNECT_MEMB 'datga','VOZ','117.7.165.142'
+23:51:06 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:53:22 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:53:22 EXEC WZ_CONNECT_MEMB 'datga','VOZ','117.7.165.142'
+23:53:57 EXEC WZ_DISCONNECT_MEMB 'datga'
+23:57:30 SELECT * FROM MEMB_INFO WHERE memb___id='datga'
+23:57:30 EXEC WZ_CONNECT_MEMB 'datga','VOZ','117.7.165.142'

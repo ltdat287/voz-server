@@ -1,0 +1,26 @@
+// Time Settings
+// OpenTime	EventTime	CloseTime
+0
+5	15	1
+end
+// Drop Settings
+// ItemDropRate( 1 / N )	ExcItemDrop ( 1 / N (NOT_USED))	MonsterRespawnTime
+1
+100	1200	0
+end
+// HP Settings
+// Gate	Statue
+2
+0	65000		150000		// 1 BloodCastle
+1	105000	205000		// 2 BloodCastle
+2	145000	260000		// 3 BloodCastle
+3	185000	325000		// 4 BloodCastle
+4	225000	400000		// 5 BloodCastle
+5	265000	480000		// 6 BloodCastle
+6	305000	565000		// 7 BloodCastle
+end
+// Reward Settings
+// Index Number Level
+3
+14	101	0
+end

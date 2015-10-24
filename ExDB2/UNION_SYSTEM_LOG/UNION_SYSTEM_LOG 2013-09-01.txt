@@ -1,0 +1,18 @@
+15:27:46  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+15:27:46  ★ [TEST][test1] Union = 0 Rival = 0
+15:27:46  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+15:27:46  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+15:27:46  Rival 정보 재구성 성공 : TEST, 118
+15:27:46  Rival 정보 재구성 성공 : Kinggggg, 119
+21:51:55  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+21:51:55  ★ [TEST][test1] Union = 0 Rival = 0
+21:51:55  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+21:51:55  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+21:51:55  Rival 정보 재구성 성공 : TEST, 118
+21:51:55  Rival 정보 재구성 성공 : Kinggggg, 119
+22:0:1  ★ [Kinggggg][BinhDuong] Union = 0 Rival = 0
+22:0:1  ★ [TEST][test1] Union = 0 Rival = 0
+22:0:1  Union [ 0 ] : [ TEST ] [ 118 ] 추가 성공
+22:0:1  Union [ 0 ] : [ Kinggggg ] [ 119 ] 추가 성공
+22:0:1  Rival 정보 재구성 성공 : TEST, 118
+22:0:1  Rival 정보 재구성 성공 : Kinggggg, 119
